@@ -1,0 +1,246 @@
+# Словарь юнита a2-koeln — Feste & Freizeit (A2)
+
+## Feste & Feiern
+N das Fest | Feste | праздник | Im Sommer gibt es in unserem Viertel ein großes Fest. | Летом в нашем районе большой праздник.
+N die Feier | Feiern | торжество, праздник; вечеринка | Die Feier beginnt um 19 Uhr. | Праздник начинается в 19 часов.
+N die Party | Partys | вечеринка | Kommst du am Samstag zu meiner Party? | Придёшь в субботу на мою вечеринку?
+N der Karneval | Karnevale | карнавал | In Köln ist Karneval die fünfte Jahreszeit. | В Кёльне карнавал — пятое время года. | AT: der Fasching | note: в Австрии и Баварии говорят Fasching
+W der Rosenmontag | Nomen | Розовый понедельник (главный день карнавала) | Am Rosenmontag haben viele Kölner frei. | В Розовый понедельник у многих кёльнцев выходной.
+W Kölle Alaaf! | Phrase | «Кёльн, алаф!» — карнавальный клич | Alle Leute rufen: „Kölle Alaaf!“ | Все кричат: «Кёльн, алаф!» | note: в Майнце и Дюссельдорфе кричат Helau!
+N das Kostüm | Kostüme | (маскарадный) костюм | Mein Kostüm ist dieses Jahr ein Pirat. | В этом году я в костюме пирата.
+N die Maske | Masken | маска | Die Kinder tragen bunte Masken. | Дети в ярких масках.
+N die Hochzeit | Hochzeiten | свадьба | Die Hochzeit von Jana und Felix ist im Juni. | Свадьба Яны и Феликса в июне.
+N die Braut | Bräute | невеста | Die Braut trägt ein langes weißes Kleid. | На невесте длинное белое платье.
+N der Bräutigam | Bräutigame | жених | Der Bräutigam ist sehr nervös. | Жених очень нервничает.
+N das Brautpaar | Brautpaare | жених и невеста | Das Brautpaar tanzt den ersten Tanz. | Жених и невеста танцуют первый танец.
+N der Feiertag | Feiertage | праздничный (нерабочий) день | Am Feiertag sind die Geschäfte geschlossen. | В праздник магазины закрыты.
+W Weihnachten | Nomen | Рождество | Zu Weihnachten fahre ich zu meiner Familie. | На Рождество я еду к семье. | note: говорят zu Weihnachten / zu Ostern (без артикля)
+W Ostern | Nomen | Пасха | Zu Ostern suchen die Kinder bunte Eier. | На Пасху дети ищут крашеные яйца.
+W Silvester | Nomen | канун Нового года (31 декабря) | An Silvester feiern wir bis drei Uhr morgens. | В новогоднюю ночь мы празднуем до трёх утра. | note: 1 января — Neujahr
+W der Nikolaus | Nomen | Святой Николай (6 декабря) | Am 6. Dezember bringt der Nikolaus den Kindern Süßigkeiten. | 6 декабря Николай приносит детям сладости.
+W der Krampus | Nomen | Крампус — рогатый спутник Николая | Am 5. Dezember laufen in vielen Orten Krampusse durch die Straßen. | 5 декабря во многих местах по улицам ходят крампусы. | note: только Австрия и Бавария; в Германии этого обычая почти нет
+N das Feuerwerk | Feuerwerke | фейерверк | Um Mitternacht sehen wir uns das Feuerwerk an. | В полночь мы смотрим фейерверк.
+N die Tradition | Traditionen | традиция | Bei uns ist das eine alte Tradition. | У нас это старая традиция.
+N der Gast | Gäste | гость | Wir haben zwanzig Gäste eingeladen. | Мы пригласили двадцать гостей.
+N der Gastgeber | Gastgeber | хозяин (праздника), принимающая сторона | Der Gastgeber begrüßt alle an der Tür. | Хозяин встречает всех у двери.
+N die Torte | Torten | торт | Meine Oma backt die beste Torte der Welt. | Моя бабушка печёт лучший торт на свете.
+N die Kerze | Kerzen | свеча | Auf der Torte sind dreißig Kerzen. | На торте тридцать свечей.
+N das Geburtstagskind | Geburtstagskinder | именинник, именинница | Das Geburtstagskind darf sich etwas wünschen. | Именинник может загадать желание.
+N der Luftballon | Luftballons | воздушный шарик | Wir hängen bunte Luftballons auf. | Мы развешиваем разноцветные шарики.
+N die Dekoration | Dekorationen | украшения, декор | Die Dekoration hat Mira gemacht. | Украшения сделала Мира.
+N die Stimmung | Stimmungen | атмосфера, настроение (общее) | Die Stimmung auf der Party war super. | Атмосфера на вечеринке была отличная.
+V feiern | feiert | feierte | hat gefeiert | праздновать | Wir feiern am Samstag meinen 30. Geburtstag. | В субботу мы празднуем моё тридцатилетие.
+V gratulieren | gratuliert | gratulierte | hat gratuliert | поздравлять | Ich gratuliere dir zum Geburtstag! | Поздравляю тебя с днём рождения! | rek: jdm. (Dat.) zu + Dat.
+V heiraten | heiratet | heiratete | hat geheiratet | жениться; выходить замуж | Tom und Sara heiraten im Mai. | Том и Сара женятся в мае.
+V tanzen | tanzt | tanzte | hat getanzt | танцевать | Auf der Hochzeit haben wir die ganze Nacht getanzt. | На свадьбе мы танцевали всю ночь.
+V an·stoßen | stößt an | stieß an | hat angestoßen | чокаться | Wir stoßen auf das Brautpaar an! | Выпьем за жениха и невесту! | rek: auf + Akk.
+V sich verkleiden | verkleidet sich | verkleidete sich | hat sich verkleidet | наряжаться (в костюм) | An Karneval verkleide ich mich als Clown. | На карнавал я наряжаюсь клоуном. | rek: als + Nom.
+W Herzlichen Glückwunsch! | Phrase | Поздравляю! Поздравляем! | Herzlichen Glückwunsch zum Geburtstag! | С днём рождения!
+W Alles Gute! | Phrase | Всего наилучшего! (поздравление) | Alles Gute zur Hochzeit! | Поздравляем со свадьбой!
+
+## Einladung & Geschenke
+N die Einladung | Einladungen | приглашение | Vielen Dank für die Einladung! | Большое спасибо за приглашение!
+N das Geschenk | Geschenke | подарок | Das Geschenk ist für dich. | Этот подарок для тебя.
+N der Gutschein | Gutscheine | подарочный сертификат; купон | Ich schenke ihr einen Gutschein fürs Kino. | Я дарю ей сертификат в кино.
+N der Blumenstrauß | Blumensträuße | букет цветов | Lukas bringt einen großen Blumenstrauß mit. | Лукас приносит большой букет.
+N die Überraschung | Überraschungen | сюрприз | Die Party ist eine Überraschung, sag nichts! | Вечеринка — сюрприз, ничего не говори!
+N die Zusage | Zusagen | согласие (прийти), подтверждение | Bis Freitag haben wir zwölf Zusagen. | К пятнице двенадцать человек подтвердили, что придут.
+N die Absage | Absagen | отказ, отмена | Leider habe ich drei Absagen bekommen. | К сожалению, трое отказались.
+N die Verabredung | Verabredungen | договорённость о встрече; встреча | Ich habe heute Abend eine Verabredung. | У меня сегодня вечером встреча.
+N das Buffet | Buffets | шведский стол, фуршет | Jeder bringt etwas für das Buffet mit. | Каждый приносит что-нибудь к общему столу.
+V zu·sagen | sagt zu | sagte zu | hat zugesagt | принять приглашение, подтвердить | Fast alle haben schon zugesagt. | Почти все уже подтвердили.
+V ab·sagen | sagt ab | sagte ab | hat abgesagt | отменить; отказаться | Ich muss leider absagen, ich bin krank. | Мне, к сожалению, придётся отказаться — я заболел.
+V schenken | schenkt | schenkte | hat geschenkt | дарить | Was schenkst du deiner Schwester? | Что ты даришь сестре? | rek: jdm. (Dat.) etw. (Akk.)
+V mit·bringen | bringt mit | brachte mit | hat mitgebracht | приносить с собой | Soll ich einen Salat mitbringen? | Мне принести салат?
+V vor·bereiten | bereitet vor | bereitete vor | hat vorbereitet | готовить, подготавливать | Wir bereiten alles für die Party vor. | Мы всё готовим к вечеринке.
+V ein·packen | packt ein | packte ein | hat eingepackt | упаковывать | Kannst du das Geschenk schön einpacken? | Можешь красиво упаковать подарок?
+V aus·packen | packt aus | packte aus | hat ausgepackt | распаковывать | Das Geburtstagskind packt die Geschenke aus. | Именинник распаковывает подарки.
+V sich bedanken | bedankt sich | bedankte sich | hat sich bedankt | благодарить | Ich bedanke mich herzlich für das Geschenk. | Сердечно благодарю за подарок. | rek: bei + Dat. für + Akk.
+V organisieren | organisiert | organisierte | hat organisiert | организовывать | Wer organisiert das Sommerfest? | Кто организует летний праздник?
+V vorbei·kommen | kommt vorbei | kam vorbei | ist vorbeigekommen | заходить (ненадолго) | Komm doch am Sonntag vorbei! | Заходи в воскресенье!
+W Ich komme gern. | Phrase | Я с удовольствием приду. | Danke für die Einladung, ich komme gern! | Спасибо за приглашение, я с удовольствием приду!
+W Leider kann ich nicht kommen. | Phrase | К сожалению, я не смогу прийти. | Leider kann ich nicht kommen, ich arbeite am Samstag. | К сожалению, я не смогу прийти: в субботу я работаю.
+W Schade! | Interj. | Жаль! | Du kannst nicht kommen? Schade! | Ты не можешь прийти? Жаль!
+W Servus! | Interj. | привет; пока (неформально, Австрия и Бавария) | Servus, Toni! Kommst du heute zur Faschingsparty? | Привет, Тони! Пойдёшь сегодня на карнавальную вечеринку? | note: в Германии вне Баварии — Hallo! / Tschüss!
+
+## Hobbys & Sport
+N der Verein | Vereine | клуб, общество, секция | Mein Sohn spielt in einem Fußballverein. | Мой сын играет в футбольном клубе.
+N das Mitglied | Mitglieder | член (клуба) | Der Chor hat dreißig Mitglieder. | В хоре тридцать участников.
+N die Mannschaft | Mannschaften | команда | Unsere Mannschaft hat gestern gewonnen. | Наша команда вчера выиграла.
+N das Spiel | Spiele | игра; матч | Das Spiel beginnt um halb vier. | Матч начинается в половине четвёртого.
+N das Training | Trainings | тренировка | Das Training ist dienstags und donnerstags. | Тренировки по вторникам и четвергам.
+N das Stadion | Stadien | стадион | Das Stadion war ganz voll. | Стадион был полный.
+N der Fußball | Fußbälle | футбол (игра); футбольный мяч | Am Sonntag spielen wir Fußball im Park. | В воскресенье мы играем в футбол в парке. | form: Fußball
+N das Tor | Tore | гол; ворота | In der letzten Minute ist noch ein Tor gefallen. | На последней минуте забили ещё один гол.
+N die Gitarre | Gitarren | гитара | Seit einem Jahr lerne ich Gitarre. | Я год учусь играть на гитаре.
+N das Instrument | Instrumente | музыкальный инструмент | Spielst du ein Instrument? | Ты играешь на каком-нибудь инструменте?
+N der Chor | Chöre | хор | Meine Mutter singt in einem Chor. | Моя мама поёт в хоре.
+N die Ausstellung | Ausstellungen | выставка | Die Ausstellung im Museum ist bis Mai geöffnet. | Выставка в музее открыта до мая.
+N die Veranstaltung | Veranstaltungen | мероприятие | Die Veranstaltung findet im Park statt. | Мероприятие проходит в парке.
+N das Programm | Programme | программа | Das Programm für das Festival ist online. | Программа фестиваля есть в интернете.
+N die Eintrittskarte | Eintrittskarten | входной билет | Die Eintrittskarten kosten 12 Euro. | Входные билеты стоят 12 евро.
+N der Eintritt | Sg. | вход; плата за вход | Der Eintritt ist frei. | Вход свободный.
+N der Tanzkurs | Tanzkurse | курс танцев | Vor der Hochzeit machen wir einen Tanzkurs. | Перед свадьбой мы ходим на курс танцев.
+V grillen | grillt | grillte | hat gegrillt | жарить на гриле | Im Sommer grillen wir oft am Rhein. | Летом мы часто жарим мясо на гриле у Рейна.
+V trainieren | trainiert | trainierte | hat trainiert | тренироваться; тренировать | Ich trainiere dreimal pro Woche. | Я тренируюсь три раза в неделю.
+V joggen | joggt | joggte | hat/ist gejoggt | бегать трусцой | Jeden Morgen joggt Dana am Rhein. | Каждое утро Дана бегает вдоль Рейна.
+V klettern | klettert | kletterte | ist geklettert | лазить; заниматься скалолазанием | Am Samstag gehen wir in der Halle klettern. | В субботу мы идём на скалодром.
+V Ski fahren | fährt Ski | fuhr Ski | ist Ski gefahren | кататься на лыжах | Im Winter fahren wir in Tirol Ski. | Зимой мы катаемся на лыжах в Тироле.
+V gewinnen | gewinnt | gewann | hat gewonnen | выигрывать | Wer hat das Spiel gewonnen? | Кто выиграл матч?
+V verlieren | verliert | verlor | hat verloren | проигрывать; терять | Leider haben wir 1:2 verloren. | К сожалению, мы проиграли 1:2.
+V singen | singt | sang | hat gesungen | петь | Auf der Party haben alle zusammen gesungen. | На вечеринке все вместе пели.
+V malen | malt | malte | hat gemalt | рисовать (красками) | Am Wochenende male ich gern. | По выходным я люблю рисовать.
+V sammeln | sammelt | sammelte | hat gesammelt | собирать, коллекционировать | Mein Opa sammelt alte Münzen. | Мой дедушка собирает старые монеты.
+V spazieren gehen | geht spazieren | ging spazieren | ist spazieren gegangen | гулять | Nach dem Essen gehen wir am Rhein spazieren. | После еды мы гуляем вдоль Рейна.
+
+## Wetter & Jahreszeiten
+N das Wetter | Sg. | погода | Wie ist das Wetter in Köln? | Какая погода в Кёльне?
+N der Wetterbericht | Wetterberichte | прогноз погоды | Laut Wetterbericht regnet es morgen. | По прогнозу завтра будет дождь.
+N der Regen | Sg. | дождь | Bei Regen findet das Fest im Saal statt. | В дождь праздник проходит в зале.
+N der Schnee | Sg. | снег | In den Bergen liegt schon Schnee. | В горах уже лежит снег.
+N die Sonne | Sg. | солнце | Heute scheint den ganzen Tag die Sonne. | Сегодня весь день светит солнце.
+N der Wind | Winde | ветер | Am Rhein weht oft ein kalter Wind. | На Рейне часто дует холодный ветер.
+N das Gewitter | Gewitter | гроза | Am Abend kommt ein Gewitter. | Вечером будет гроза.
+N die Wolke | Wolken | облако, туча | Am Himmel ist keine Wolke. | На небе ни облачка.
+N der Nebel | Sg. | туман | Am Morgen gibt es viel Nebel. | Утром сильный туман.
+N die Temperatur | Temperaturen | температура | Die Temperaturen liegen bei 20 Grad. | Температура около 20 градусов.
+N der Grad | Grade | градус | Morgen werden es 28 Grad. | Завтра будет 28 градусов. | note: после числа — Grad: 5 Grad, minus 3 Grad
+N die Hitze | Sg. | жара | Bei dieser Hitze gehe ich lieber schwimmen. | В такую жару я лучше пойду купаться.
+N der Regenschirm | Regenschirme | зонт | Vergiss deinen Regenschirm nicht! | Не забудь зонт!
+N das Frühjahr | Frühjahre | весна | Im Frühjahr fahren wir oft an die Mosel. | Весной мы часто ездим на Мозель. | note: синоним — der Frühling
+V regnen | regnet | regnete | hat geregnet | идти (о дожде) | Es regnet schon den ganzen Tag. | Дождь идёт уже весь день. | note: только с es
+V schneien | schneit | schneite | hat geschneit | идти (о снеге) | In Köln schneit es nur selten. | В Кёльне снег идёт редко.
+V scheinen | scheint | schien | hat geschienen | светить | Am Wochenende scheint die Sonne. | На выходных будет светить солнце.
+W warm | Adj. | тёплый | Im Mai ist es schon warm. | В мае уже тепло.
+W kalt | Adj. | холодный | Im Februar ist es oft kalt und nass. | В феврале часто холодно и сыро.
+W heiß | Adj. | жаркий, горячий | Im Juli wird es heiß. | В июле становится жарко.
+W sonnig | Adj. | солнечный | Morgen wird es sonnig und warm. | Завтра будет солнечно и тепло.
+W bewölkt | Adj. | облачный | Am Vormittag ist es bewölkt. | До обеда облачно.
+W windig | Adj. | ветреный | Am Rhein ist es heute sehr windig. | На Рейне сегодня очень ветрено.
+W trocken | Adj. | сухой | Am Sonntag bleibt es trocken. | В воскресенье будет без осадков.
+W kühl | Adj. | прохладный | Abends wird es schon kühl. | Вечерами уже прохладно.
+W mild | Adj. | мягкий (о погоде), тёплый | Der Winter war dieses Jahr sehr mild. | Зима в этом году была очень мягкая.
+W minus | Adv. | минус | Heute Nacht sind es minus fünf Grad. | Сегодня ночью минус пять градусов.
+W in diesem Jahr | Phrase | в этом году | In diesem Jahr feiern wir Karneval in Köln. | В этом году мы празднуем карнавал в Кёльне. | AT: heuer | note: heuer говорят в Австрии и на юге Германии
+
+## Ausflüge & Natur
+N die Natur | Sg. | природа | Am Wochenende bin ich gern in der Natur. | По выходным я люблю бывать на природе.
+N der Berg | Berge | гора | Wir wandern auf einen Berg in der Eifel. | Мы поднимаемся на гору в Айфеле.
+N der See | Seen | озеро | Im Sommer schwimmen wir im See. | Летом мы плаваем в озере. | note: die See — море (= das Meer)
+N das Meer | Meere | море | Ich möchte im Urlaub ans Meer fahren. | В отпуск я хочу поехать на море.
+N der Fluss | Flüsse | река | Der Rhein ist ein langer Fluss. | Рейн — длинная река.
+N der Wald | Wälder | лес | Hinter dem Dorf beginnt der Wald. | За деревней начинается лес.
+N die Wiese | Wiesen | луг; лужайка | Wir machen ein Picknick auf der Wiese. | Мы устраиваем пикник на лужайке.
+N der Strand | Strände | пляж | Am Strand ist es heute sehr voll. | На пляже сегодня очень людно.
+N die Wanderung | Wanderungen | поход, пешая прогулка | Die Wanderung dauert etwa vier Stunden. | Поход длится около четырёх часов.
+N die Radtour | Radtouren | велопрогулка | Am Sonntag machen wir eine Radtour. | В воскресенье мы едем на велопрогулку.
+N das Picknick | Picknicks | пикник | Für das Picknick brauchen wir eine Decke. | Для пикника нам нужен плед.
+N der Freizeitpark | Freizeitparks | парк развлечений | Der Freizeitpark ist nur eine Stunde von Köln entfernt. | Парк развлечений всего в часе езды от Кёльна.
+N die Aussicht | Aussichten | вид (сверху, из окна) | Vom Dom hat man eine tolle Aussicht. | С собора открывается потрясающий вид.
+N das Schiff | Schiffe | корабль, теплоход | Mit dem Schiff fahren wir nach Bonn. | На теплоходе мы плывём в Бонн.
+N der Dom | Dome | собор | Der Kölner Dom ist über 150 Meter hoch. | Кёльнский собор высотой больше 150 метров.
+N die Sehenswürdigkeit | Sehenswürdigkeiten | достопримечательность | Köln hat viele Sehenswürdigkeiten. | В Кёльне много достопримечательностей.
+N die Führung | Führungen | экскурсия (с гидом) | Die Führung beginnt um 11 Uhr am Eingang. | Экскурсия начинается в 11 часов у входа.
+N das Zelt | Zelte | палатка | Wir schlafen im Zelt. | Мы спим в палатке.
+N der Campingplatz | Campingplätze | кемпинг | Der Campingplatz liegt direkt am See. | Кемпинг находится прямо у озера.
+V besichtigen | besichtigt | besichtigte | hat besichtigt | осматривать (достопримечательности) | Morgen besichtigen wir den Dom. | Завтра мы осматриваем собор.
+V übernachten | übernachtet | übernachtete | hat übernachtet | ночевать | Wir übernachten in einer Jugendherberge. | Мы ночуем в молодёжной турбазе.
+V los·fahren | fährt los | fuhr los | ist losgefahren | отправляться, выезжать | Wann fahren wir morgen los? | Когда мы завтра выезжаем?
+V zurück·kommen | kommt zurück | kam zurück | ist zurückgekommen | возвращаться | Wir kommen am Sonntagabend zurück. | Мы вернёмся в воскресенье вечером.
+V baden | badet | badete | hat gebadet | купаться | Im See darf man baden. | В озере можно купаться.
+W draußen | Adv. | на улице, снаружи | Bei schönem Wetter essen wir draußen. | В хорошую погоду мы едим на улице.
+W unterwegs | Adv. | в пути, в дороге | Wir waren den ganzen Tag unterwegs. | Мы весь день были в дороге.
+
+## Kleidung & Aussehen
+N der Anzug | Anzüge | (мужской) костюм | Für die Hochzeit kauft Ben einen neuen Anzug. | На свадьбу Бен покупает новый костюм.
+N die Krawatte | Krawatten | галстук | Muss ich eine Krawatte tragen? | Мне надо надеть галстук?
+N der Rock | Röcke | юбка | Der rote Rock steht dir gut. | Красная юбка тебе идёт.
+N die Bluse | Blusen | блузка | Sie trägt eine weiße Bluse. | На ней белая блузка.
+N der Schal | Schals | шарф | Bei Wind brauchst du einen Schal. | В ветер тебе нужен шарф.
+N der Badeanzug | Badeanzüge | купальник | Vergiss deinen Badeanzug nicht! | Не забудь купальник!
+N die Sonnenbrille | Sonnenbrillen | солнечные очки | Ohne Sonnenbrille gehe ich nicht an den Strand. | Без солнечных очков я на пляж не хожу.
+N die Kette | Ketten | цепочка; ожерелье | Die Kette ist ein Geschenk von meiner Mutter. | Цепочка — подарок от мамы.
+N der Ring | Ringe | кольцо | Das Brautpaar tauscht die Ringe. | Жених и невеста обмениваются кольцами.
+N der Hut | Hüte | шляпа | Zum Kostüm gehört ein großer Hut. | К костюму нужна большая шляпа.
+N die Perücke | Perücken | парик | Mit der grünen Perücke erkennt mich niemand. | В зелёном парике меня никто не узнает.
+N die Frisur | Frisuren | причёска | Deine neue Frisur gefällt mir. | Мне нравится твоя новая причёска.
+N die Tracht | Trachten | народный костюм | Auf dem Fest tragen viele Leute Tracht. | На празднике многие в народных костюмах. | note: в Австрии и Баварии: das Dirndl (женское платье), die Lederhose
+W elegant | Adj. | элегантный | Für die Feier brauche ich etwas Elegantes. | Для торжества мне нужно что-то элегантное.
+W festlich | Adj. | праздничный, нарядный | Zur Hochzeit ziehen wir uns festlich an. | На свадьбу мы одеваемся нарядно.
+W sportlich | Adj. | спортивный | Er ist sehr sportlich und fährt jeden Tag Rad. | Он очень спортивный и каждый день катается на велосипеде.
+W lockig | Adj. | кудрявый | Das Kind hat lockige Haare. | У ребёнка кудрявые волосы.
+W hübsch | Adj. | симпатичный, красивый | Du siehst heute sehr hübsch aus! | Ты сегодня очень красиво выглядишь!
+W gestreift | Adj. | полосатый | Der Pirat trägt ein gestreiftes Hemd. | На пирате полосатая рубашка.
+W kariert | Adj. | в клетку | Ich suche einen karierten Schal. | Я ищу клетчатый шарф.
+V aus·sehen | sieht aus | sah aus | hat ausgesehen | выглядеть | Du siehst in dem Kostüm super aus! | В этом костюме ты выглядишь супер!
+V sich an·ziehen | zieht sich an | zog sich an | hat sich angezogen | одеваться | Zieh dich warm an, es ist kalt! | Оденься потеплее, холодно!
+V sich um·ziehen | zieht sich um | zog sich um | hat sich umgezogen | переодеваться | Nach der Arbeit ziehe ich mich schnell um. | После работы я быстро переодеваюсь.
+
+## Gefühle
+N das Gefühl | Gefühle | чувство | Ich habe ein gutes Gefühl. | У меня хорошее предчувствие.
+N die Freude | Sg. | радость | Das Geschenk hat ihm große Freude gemacht. | Подарок его очень обрадовал.
+N die Angst | Ängste | страх | Mein Sohn hat Angst vor dem Krampus. | Мой сын боится Крампуса. | rek: vor + Dat.
+N die Laune | Launen | настроение | Heute hat Ali gute Laune. | Сегодня у Али хорошее настроение.
+N die Lust | Sg. | желание, охота | Ich habe keine Lust auf Fußball. | Мне неохота на футбол. | rek: auf + Akk.
+N das Glück | Sg. | счастье; удача | Viel Glück bei der Prüfung! | Удачи на экзамене!
+W glücklich | Adj. | счастливый | Das Brautpaar sieht sehr glücklich aus. | Жених и невеста выглядят очень счастливыми.
+W traurig | Adj. | грустный | Warum bist du so traurig? | Почему ты такой грустный?
+W nervös | Adj. | нервный, взволнованный | Vor dem Spiel bin ich immer nervös. | Перед матчем я всегда нервничаю.
+W aufgeregt | Adj. | взволнованный (в ожидании) | Die Kinder sind vor Weihnachten ganz aufgeregt. | Перед Рождеством дети очень взволнованы.
+W überrascht | Adj. | удивлённый | Lisa war total überrascht. | Лиза была очень удивлена.
+W enttäuscht | Adj. | разочарованный | Nach dem Spiel waren die Fans enttäuscht. | После матча болельщики были разочарованы.
+W zufrieden | Adj. | довольный | Bist du mit dem Ergebnis zufrieden? | Ты доволен результатом? | note: zufrieden mit + Dat.
+W stolz | Adj. | гордый | Die Eltern sind sehr stolz auf ihre Tochter. | Родители очень гордятся дочерью. | note: stolz auf + Akk.
+W sauer | Adj. | кислый; разг. злой, обиженный | Bist du sauer auf mich? | Ты на меня злишься? | note: sauer auf + Akk. (разговорное)
+V lachen | lacht | lachte | hat gelacht | смеяться | Über den Witz haben alle gelacht. | Над шуткой все смеялись.
+V weinen | weint | weinte | hat geweint | плакать | Bei der Hochzeit hat die Mutter vor Freude geweint. | На свадьбе мама плакала от радости.
+
+## Verben
+V sich freuen | freut sich | freute sich | hat sich gefreut | радоваться | Ich freue mich auf das Wochenende. | Я с нетерпением жду выходных. | rek: auf + Akk. (будущее) / über + Akk. (то, что уже есть)
+V sich interessieren | interessiert sich | interessierte sich | hat sich interessiert | интересоваться | Interessierst du dich für Fußball? | Ты интересуешься футболом? | rek: für + Akk.
+V sich treffen | trifft sich | traf sich | hat sich getroffen | встречаться | Wir treffen uns um acht vor dem Kino. | Встречаемся в восемь перед кинотеатром. | rek: mit + Dat.
+V sich verabreden | verabredet sich | verabredete sich | hat sich verabredet | договариваться о встрече | Ich habe mich mit Jonas zum Joggen verabredet. | Я договорился с Йонасом побегать вместе. | rek: mit + Dat.
+V sich ärgern | ärgert sich | ärgerte sich | hat sich geärgert | злиться, сердиться | Ich ärgere mich über den Regen. | Меня злит дождь. | rek: über + Akk.
+V sich langweilen | langweilt sich | langweilte sich | hat sich gelangweilt | скучать (когда нечего делать) | Auf der Party habe ich mich gelangweilt. | На вечеринке мне было скучно.
+V sich entscheiden | entscheidet sich | entschied sich | hat sich entschieden | решать(ся), выбирать | Ich kann mich nicht entscheiden. | Я не могу решить. | rek: für + Akk.
+V sich erinnern | erinnert sich | erinnerte sich | hat sich erinnert | помнить, вспоминать | Erinnerst du dich an unsere Hochzeit? | Ты помнишь нашу свадьбу? | rek: an + Akk.
+V sich beeilen | beeilt sich | beeilte sich | hat sich beeilt | спешить, торопиться | Beeil dich, der Umzug beginnt gleich! | Поторопись, шествие сейчас начнётся!
+V sich kümmern | kümmert sich | kümmerte sich | hat sich gekümmert | заботиться; заниматься (чем-то) | Ich kümmere mich um die Getränke. | Я займусь напитками. | rek: um + Akk.
+V sich unterhalten | unterhält sich | unterhielt sich | hat sich unterhalten | беседовать | Wir haben uns lange über die Reise unterhalten. | Мы долго разговаривали о поездке. | rek: mit + Dat. über + Akk.
+V sich aus·ruhen | ruht sich aus | ruhte sich aus | hat sich ausgeruht | отдыхать (набираться сил) | Am Sonntag ruhe ich mich aus. | В воскресенье я отдыхаю.
+V sich wünschen | wünscht sich | wünschte sich | hat sich gewünscht | хотеть (в подарок), желать себе | Ich wünsche mir ein Fahrrad zum Geburtstag. | На день рождения я хочу велосипед. | note: местоимение в Dat.: ich wünsche mir, du wünschst dir
+V sich setzen | setzt sich | setzte sich | hat sich gesetzt | садиться | Setz dich doch zu uns! | Садись к нам! | rek: auf / in / neben + Akk.
+V teil·nehmen | nimmt teil | nahm teil | hat teilgenommen | участвовать | Ich nehme am Stadtlauf teil. | Я участвую в городском забеге. | rek: an + Dat.
+V statt·finden | findet statt | fand statt | hat stattgefunden | проходить, состояться | Das Konzert findet im Park statt. | Концерт проходит в парке.
+V dauern | dauert | dauerte | hat gedauert | длиться | Wie lange dauert die Feier? | Сколько длится праздник?
+V planen | plant | plante | hat geplant | планировать | Was plant ihr für das Wochenende? | Что вы планируете на выходные?
+V vor·schlagen | schlägt vor | schlug vor | hat vorgeschlagen | предлагать | Ich schlage vor, wir grillen am See. | Предлагаю пожарить мясо на гриле у озера.
+V verbringen | verbringt | verbrachte | hat verbracht | проводить (время) | Wo verbringst du die Feiertage? | Где ты проводишь праздники?
+V erleben | erlebt | erlebte | hat erlebt | переживать, испытывать (на опыте) | Karneval in Köln muss man einmal erleben! | Карнавал в Кёльне надо хоть раз увидеть самому!
+V stellen | stellt | stellte | hat gestellt | ставить (вертикально) | Stell die Flaschen bitte in den Kühlschrank. | Поставь, пожалуйста, бутылки в холодильник. | note: wohin? → Akk.
+V legen | legt | legte | hat gelegt | класть (горизонтально) | Ich lege die Geschenke auf den Tisch. | Я кладу подарки на стол. | note: wohin? → Akk.
+V hängen | hängt | hing / hängte | hat gehangen / hat gehängt | висеть; вешать | Das Bild hängt an der Wand. | Картина висит на стене. | note: висеть (wo? + Dat.) — hing, gehangen; вешать (wohin? + Akk.) — hängte, gehängt
+V sitzen | sitzt | saß | hat gesessen | сидеть | Wir sitzen schon im Café. | Мы уже сидим в кафе. | AT: ist gesessen | note: в Австрии и на юге Германии Perfekt с sein
+V überraschen | überrascht | überraschte | hat überrascht | удивлять; делать сюрприз | Wir wollen Oma zum Geburtstag überraschen. | Мы хотим сделать бабушке сюрприз на день рождения.
+
+## Adjektive & Adverbien
+W beliebt | Adj. | популярный, любимый (многими) | Karneval ist bei Kindern sehr beliebt. | Карнавал очень любят дети.
+W berühmt | Adj. | знаменитый | Köln ist für seinen Dom berühmt. | Кёльн знаменит своим собором.
+W lustig | Adj. | весёлый, смешной | Der Abend war sehr lustig. | Вечер был очень весёлый.
+W spannend | Adj. | захватывающий, интересный | Das Spiel war bis zum Ende spannend. | Матч был захватывающим до самого конца.
+W anstrengend | Adj. | утомительный, тяжёлый | Die Wanderung war anstrengend, aber schön. | Поход был тяжёлым, но красивым.
+W gemeinsam | Adv. | вместе, совместно | Wir kochen gemeinsam für das Fest. | Мы вместе готовим для праздника.
+W besonders | Adv. | особенно | Besonders gut gefällt mir der Umzug. | Особенно мне нравится шествие.
+W meistens | Adv. | чаще всего, обычно | Meistens feiere ich mit meiner Familie. | Обычно я праздную с семьёй.
+W ziemlich | Adv. | довольно | Das Wetter war ziemlich kalt. | Погода была довольно холодная.
+W rechtzeitig | Adv. | вовремя, заблаговременно | Kauf die Karten bitte rechtzeitig! | Купи билеты, пожалуйста, заранее!
+W übermorgen | Adv. | послезавтра | Übermorgen hat meine Mutter Geburtstag. | Послезавтра у мамы день рождения.
+W besser | Adj. | лучше (сравн. от gut) | Der Kuchen schmeckt heute noch besser. | Пирог сегодня ещё вкуснее.
+W mehr | Adv. | больше | Ich tanze mehr als du. | Я танцую больше, чем ты.
+W am liebsten | Adv. | больше всего (нравится делать) | Am liebsten tanze ich Salsa. | Больше всего я люблю танцевать сальсу.
+W am besten | Adv. | лучше всего | Am besten treffen wir uns am Bahnhof. | Лучше всего встретиться у вокзала.
+W als | Konj. | чем (при сравнении) | Köln ist größer als Bonn. | Кёльн больше Бонна.
+W so … wie | Konj. | такой же …, как | Bonn ist nicht so groß wie Köln. | Бонн не такой большой, как Кёльн. | form: so groß wie
+W weil | Konj. | потому что (глагол в конце) | Ich komme nicht, weil ich krank bin. | Я не приду, потому что болею.
+W denn | Konj. | потому что, ведь (обычный порядок слов) | Ich komme nicht, denn ich bin krank. | Я не приду, потому что болею.
+W deshalb | Adv. | поэтому | Ich bin krank, deshalb komme ich nicht. | Я болею, поэтому не приду. | note: после deshalb глагол сразу, на 2-м месте

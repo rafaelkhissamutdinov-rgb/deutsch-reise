@@ -1,0 +1,1315 @@
+id: a2-koeln
+level: A2
+city: Köln
+country: DE
+title: Feste & Freizeit
+title_ru: Праздники и досуг
+intro: |
+  Вы в Кёльне: карнавал, день рождения у друзей, свадьба, выходные на Рейне. В юните учимся приглашать и отвечать на приглашения, рассказывать о хобби, погоде и праздниках, договариваться о встрече.
+  Грамматика: Wechselpräpositionen (wo? / wohin?), сравнение прилагательных, окончания прилагательных, возвратные глаголы и придаточные с weil.
+  Попутно — австрийские варианты: Fasching вместо Karneval, heuer, Sackerl, Servus.
+
+grammar:
+  # ------------------------------------------------------------------
+  - id: kn-g-wechselpraep
+    title: "Wechselpräpositionen: wo? (Dativ) – wohin? (Akkusativ)"
+    title_ru: Предлоги места с дательным и винительным падежом
+    terms:
+      - t: Präposition
+        ru: предлог (in, auf, an …)
+      - t: Wechselpräposition
+        ru: "предлог, после которого бывает и Dativ, и Akkusativ: an, auf, hinter, in, neben, über, unter, vor, zwischen"
+      - t: Dativ (Dat.)
+        ru: дательный падеж; здесь отвечает на вопрос wo? (где?)
+      - t: Akkusativ (Akk.)
+        ru: винительный падеж; здесь отвечает на вопрос wohin? (куда?)
+      - t: wo? / wohin?
+        ru: где? (место) / куда? (направление, движение к цели)
+      - t: Position / Richtung
+        ru: место, где что-то находится / направление, куда что-то перемещают
+      - t: Verschmelzung (Kurzform)
+        ru: "слияние предлога с артиклем: in dem → im, an dem → am, in das → ins, an das → ans"
+      - t: maskulin (m) / feminin (f) / neutrum (n) / Plural (Pl.)
+        ru: мужской / женский / средний род / множественное число
+    meaning: |
+      После девяти предлогов (an, auf, hinter, in, neben, über, unter, vor, zwischen) падеж зависит от вопроса.
+      wo? — предмет или человек уже находится в каком-то месте → Dativ: Die Torte steht auf dem Tisch.
+      wohin? — кто-то перемещает предмет или сам движется к цели → Akkusativ: Ich stelle die Torte auf den Tisch.
+      Пары глаголов: stehen (стоять) → stellen (ставить); liegen (лежать) → legen (класть); sitzen (сидеть) → sich setzen (садиться). hängen — и «висеть» (wo? + Dat.), и «вешать» (wohin? + Akk.).
+      Артикли в Dativ: der → dem, die → der, das → dem, die (Pl.) → den, а к существительному во множественном числе добавляется -n (если слово уже не оканчивается на -n): in den Gläsern.
+      Артикли в Akkusativ меняются только в мужском роде: der → den. die, das, die (Pl.) остаются.
+    steps:
+      - de: Wo ist die Torte? – Sie steht auf dem Tisch.
+        ru: "wo? + stehen → Dativ: der Tisch → auf dem Tisch."
+      - de: Wohin stellst du die Torte? – Ich stelle sie auf den Tisch.
+        ru: "wohin? + stellen → Akkusativ: der Tisch → auf den Tisch."
+      - de: Das Kostüm hängt im Schrank.
+        ru: "wo? → Dativ: in dem Schrank → im Schrank."
+      - de: Ich hänge das Kostüm in den Schrank.
+        ru: wohin? → Akkusativ, слияния нет — in den Schrank.
+      - de: Die Gäste sitzen schon im Garten. – Setz dich doch auch in den Garten!
+        ru: sitzen (где?) → Dat.; sich setzen (куда?) → Akk.
+      - de: Wir gehen heute Abend ins Theater. – Gestern waren wir auch im Theater.
+        ru: Движение к цели → ins (in das); место → im (in dem).
+      - de: Die Flaschen stehen zwischen den Gläsern.
+        ru: "Dativ Plural: den + существительное на -n: die Gläser → den Gläsern."
+    table:
+      head: [Präposition, "wo? (Dativ)", "wohin? (Akkusativ)"]
+      rows:
+        - [in, im Schrank (der), in den Schrank]
+        - [auf, auf dem Tisch (der), auf den Tisch]
+        - [an, an der Wand (die), an die Wand]
+        - [neben, neben dem Sofa (das), neben das Sofa]
+        - [unter, unter dem Bett (das), unter das Bett]
+        - [über, über der Tür (die), über die Tür]
+        - [vor, vor dem Haus (das), vor das Haus]
+        - [hinter, hinter dem Vorhang (der), hinter den Vorhang]
+        - [zwischen, zwischen den Stühlen (Pl.), zwischen die Stühle]
+    exam: |
+      На Goethe A2 и ÖSD A2 отдельного задания на предлоги нет, но они нужны всё время: в Schreiben (Wir treffen uns vor dem Kino), в Sprechen Teil 3, когда вы планируете праздник (Wir stellen die Tische in den Garten), в Hören и Lesen, когда ищут место встречи.
+      Ошибка в падеже обычно не мешает пониманию, но снижает оценку за точность.
+    traps:
+      - "Не путайте глаголы: liegen (лежать, без дополнения) ≠ legen (класть что-то). Das Handy liegt auf dem Tisch. — Ich lege das Handy auf den Tisch."
+      - "Движение внутри места — это wo?: Wir tanzen im Saal (танцуем в зале, а не входим в него)."
+      - "Праздник как место: auf der Party / auf der Hochzeit sein (Dat.) — auf die Party / auf die Hochzeit gehen (Akk.)."
+      - "Города и страны без артикля: wohin? → nach (Ich fahre nach Köln), wo? → in (Ich bin in Köln). Но с артиклем: in die Schweiz / in der Schweiz."
+      - "Не все предлоги меняют падеж: mit, zu, bei, von, aus, nach — всегда Dativ; für, durch, ohne, gegen, um — всегда Akkusativ."
+    exercises:
+      - type: choice
+        q: Die Kerzen stehen schon ___ Tisch.
+        options: [auf dem, auf den, auf der]
+        answer: auf dem
+        why: "wo? + stehen → Dativ; der Tisch → dem."
+      - type: choice
+        q: Stell die Torte bitte ___ Kühlschrank!
+        options: [in den, im, in die]
+        answer: in den
+        why: "wohin? + stellen → Akkusativ; der Kühlschrank → den."
+      - type: choice
+        q: Wo ist mein Kostüm? – Es hängt ___ Schrank.
+        options: [im, ins, in den]
+        answer: im
+        why: "wo? → Dativ: in dem → im."
+      - type: choice
+        q: Wir hängen die Luftballons ___ Wand.
+        options: [an die, an der, am]
+        answer: an die
+        why: "hängen + wohin? (вешаем) → Akkusativ; die Wand → die."
+      - type: choice
+        q: Die Gäste sitzen schon ___ Garten.
+        options: [im, in den, ins]
+        answer: im
+        why: "sitzen → wo? → Dativ: in dem Garten → im Garten."
+      - type: choice
+        q: Ich ___ die Geschenke auf den Tisch.
+        options: [lege, liege, sitze]
+        answer: lege
+        why: "Кладу что-то (wohin?) → legen. liegen — «лежать»."
+      - type: choice
+        q: Gehst du am Samstag auch ___ Party von Jonas?
+        options: [auf die, auf der, auf den]
+        answer: auf die
+        why: "gehen → wohin? → Akkusativ: auf die Party."
+      - type: gap
+        q: Die Katze schläft unter ___ Sofa. (das)
+        answer: [dem]
+        why: "wo? → Dativ; das Sofa → dem Sofa."
+      - type: gap
+        q: Setz dich doch neben ___ Oma! (die)
+        answer: [die]
+        why: "sich setzen → wohin? → Akkusativ; die Oma → die."
+      - type: gap
+        q: Wir fahren am Samstag ___ Stadion. (in + das)
+        answer: [ins]
+        why: "wohin? → Akkusativ: in das → ins."
+      - type: gap
+        q: Die Flaschen stehen zwischen ___ Gläsern. (die, Pl.)
+        answer: [den]
+        why: "wo? → Dativ Plural: den Gläsern."
+      - type: gap
+        q: Auf ___ Hochzeit haben wir bis drei Uhr getanzt. (die)
+        answer: [der]
+        why: "Где танцевали? → Dativ; die Hochzeit → der Hochzeit."
+      - type: table
+        title: wo? oder wohin?
+        head: [Präposition + Nomen, "wo? (Dativ)", "wohin? (Akkusativ)"]
+        rows:
+          - [in + der Schrank, "?im Schrank", "?in den Schrank"]
+          - [auf + der Tisch, "?auf dem Tisch", "?auf den Tisch"]
+          - [an + die Wand, "?an der Wand", "?an die Wand"]
+          - [neben + das Sofa, "?neben dem Sofa", "?neben das Sofa"]
+          - [unter + die Stühle, "?unter den Stühlen", "?unter die Stühle"]
+      - type: order
+        answer: Wir stellen den Tisch in den Garten.
+        tokens: [Wir, stellen, den Tisch, in den Garten]
+        ru: Мы ставим стол в сад.
+      - type: order
+        answer: Die Gläser stehen schon auf dem Tisch.
+        tokens: [Die Gläser, stehen, schon, auf dem Tisch]
+        ru: Бокалы уже стоят на столе.
+
+  # ------------------------------------------------------------------
+  - id: kn-g-komparativ
+    title: Komparativ und Superlativ
+    title_ru: Сравнительная и превосходная степень
+    terms:
+      - t: Adjektiv
+        ru: прилагательное (groß, schön)
+      - t: Adverb
+        ru: наречие (gern, oft)
+      - t: Positiv
+        ru: исходная форма (schnell)
+      - t: Komparativ
+        ru: сравнительная степень (schneller — быстрее)
+      - t: Superlativ
+        ru: превосходная степень (am schnellsten — быстрее всех)
+      - t: Umlaut
+        ru: "гласная с двумя точками: ä, ö, ü (alt → älter)"
+      - t: unregelmäßig
+        ru: неправильный — формы надо выучить (gut → besser → am besten)
+      - t: als
+        ru: «чем» — после Komparativ (größer als)
+      - t: so … wie
+        ru: «такой же …, как» — с исходной формой (so groß wie)
+    meaning: |
+      Komparativ: к прилагательному добавляем -er: schnell → schneller. Предмет сравнения — с als: Köln ist größer als Bonn.
+      Superlativ: am …-(e)sten: Im Juli ist es am wärmsten. Перед существительным — с артиклем и окончанием: der wärmste Monat.
+      Многие короткие слова с a, o, u получают Umlaut: alt → älter → am ältesten, groß → größer → am größten, jung → jünger.
+      После -t, -d, -s, -ß, -z в Superlativ вставляем -e-: am ältesten, am heißesten, am kürzesten.
+      Неправильные: gut → besser → am besten; gern → lieber → am liebsten; viel → mehr → am meisten; hoch → höher → am höchsten.
+      Равенство — so … wie с исходной формой: Bonn ist nicht so groß wie Köln.
+    steps:
+      - de: Der Rhein ist lang. Er ist länger als die Mosel.
+        ru: Komparativ + als; lang → länger (Umlaut).
+      - de: Ist die Donau so lang wie der Rhein? – Nein, sie ist noch länger.
+        ru: so … wie — исходная форма; noch länger — «ещё длиннее».
+      - de: Im November ist es kalt, aber im Januar ist es meistens am kältesten.
+        ru: Superlativ после глагола — am …sten.
+      - de: Das war der schönste Tag des Jahres.
+        ru: Перед существительным — der/die/das + -ste (schön → der schönste).
+      - de: Ich tanze gern, aber ich singe lieber. Am liebsten spiele ich Gitarre.
+        ru: gern → lieber → am liebsten.
+      - de: Paul hat viele Freunde, aber Lea hat noch mehr.
+        ru: viel → mehr; mehr не склоняется.
+      - de: Das Wetter ist heute besser als gestern.
+        ru: gut → besser (не «guter»).
+    table:
+      head: [Positiv, Komparativ, Superlativ]
+      rows:
+        - [schnell, schneller, am schnellsten]
+        - [schön, schöner, am schönsten]
+        - [alt, älter, am ältesten]
+        - [groß, größer, am größten]
+        - [warm, wärmer, am wärmsten]
+        - [teuer, teurer, am teuersten]
+        - [hoch, höher, am höchsten]
+        - [gut, besser, am besten]
+        - [gern, lieber, am liebsten]
+        - [viel, mehr, am meisten]
+    exam: |
+      В Sprechen Teil 2 (A2) вы рассказываете о себе — сравнения звучат естественно: Ich feiere lieber zu Hause als im Restaurant. Am liebsten mag ich Weihnachten.
+      В Sprechen Teil 3 при планировании: Samstag ist besser als Sonntag. В Lesen и Hören часто сравнивают цены, время и погоду: billiger, früher, wärmer.
+    traps:
+      - "После Komparativ — als, не wie: größer als ich. wie — только с исходной формой: so groß wie ich."
+      - "Не «mehr schön», а schöner. mehr — только Komparativ от viel."
+      - "gern → lieber, а не «gerner»; gut → besser, а не «guter»."
+      - "teuer → teurer, dunkel → dunkler: -e- из основы выпадает."
+      - "Superlativ без существительного — am …sten: Er läuft am schnellsten. Не «Er läuft der schnellste»."
+    exercises:
+      - type: choice
+        q: Köln ist ___ als Bonn.
+        options: [größer, großer, mehr groß]
+        answer: größer
+        why: groß → größer (Umlaut).
+      - type: choice
+        q: Im Juli ist es in Köln meistens ___.
+        options: [am wärmsten, am wärmste, wärmsten]
+        answer: am wärmsten
+        why: Superlativ после глагола — am …sten.
+      - type: choice
+        q: Ich trinke gern Tee, aber ___ trinke ich Kaffee.
+        options: [lieber, gerner, mehr gern]
+        answer: lieber
+        why: gern → lieber → am liebsten.
+      - type: choice
+        q: Mein Bruder ist so alt ___ ich – wir sind Zwillinge.
+        options: [wie, als, dann]
+        answer: wie
+        why: Равенство — so … wie.
+      - type: choice
+        q: Heute ist es viel kälter ___ gestern.
+        options: [als, wie, so]
+        answer: als
+        why: После Komparativ — als.
+      - type: gap
+        q: Fußball finde ich gut, aber Basketball finde ich ___. (gut)
+        answer: [besser]
+        why: gut → besser.
+      - type: gap
+        q: Lena isst viel Kuchen, aber Tim isst noch ___. (viel)
+        answer: [mehr]
+        why: viel → mehr.
+      - type: gap
+        q: Am ___ tanze ich Salsa. (gern)
+        answer: [liebsten]
+        why: gern → am liebsten.
+      - type: gap
+        q: Die Karten für das Konzert sind ___ als die Kinokarten. (teuer)
+        answer: [teurer]
+        why: teuer → teurer (e из основы выпадает).
+      - type: gap
+        q: Im Winter sind die Tage ___ als im Sommer. (kurz)
+        answer: [kürzer]
+        why: kurz → kürzer (Umlaut).
+      - type: table
+        title: Positiv – Komparativ – Superlativ
+        head: [Positiv, Komparativ, Superlativ]
+        rows:
+          - [schön, "?schöner", "?am schönsten"]
+          - [alt, "?älter", "?am ältesten"]
+          - [gut, "?besser", "?am besten"]
+          - [gern, "?lieber", "?am liebsten"]
+          - [viel, "?mehr", "?am meisten"]
+          - [hoch, "?höher", "?am höchsten"]
+      - type: order
+        answer: Der Rhein ist länger als die Mosel.
+        tokens: [Der Rhein, ist, länger, als, die Mosel]
+        ru: Рейн длиннее Мозеля.
+      - type: order
+        answer: Am liebsten feiere ich mit meinen Freunden.
+        tokens: [Am liebsten, feiere, ich, mit meinen Freunden]
+        also: [Ich feiere am liebsten mit meinen Freunden.]
+        ru: Больше всего я люблю праздновать с друзьями.
+
+  # ------------------------------------------------------------------
+  - id: kn-g-adjektiv
+    title: Adjektivdeklination nach der und ein
+    title_ru: Окончания прилагательных после определённого и неопределённого артикля
+    terms:
+      - t: Adjektivdeklination
+        ru: изменение окончаний прилагательного перед существительным
+      - t: Endung
+        ru: окончание (-e, -en, -er, -es)
+      - t: bestimmter Artikel
+        ru: определённый артикль (der, die, das; тж. dieser, welcher)
+      - t: unbestimmter Artikel
+        ru: неопределённый артикль (ein, eine); так же склоняются kein и mein, dein …
+      - t: Possessivartikel
+        ru: притяжательный артикль (mein, dein, sein, ihr, unser …)
+      - t: Nominativ (Nom.)
+        ru: именительный падеж — подлежащее (wer? was?)
+      - t: Akkusativ (Akk.)
+        ru: винительный падеж — прямое дополнение (wen? was?), после für, ohne …
+      - t: Dativ (Dat.)
+        ru: дательный падеж — wem?, после mit, bei, von, zu …
+      - t: m / f / n / Pl.
+        ru: мужской / женский / средний род / множественное число
+    meaning: |
+      Если прилагательное стоит после глагола, окончания нет: Das Kleid ist rot.
+      Если оно стоит перед существительным, у него есть окончание: das rote Kleid, ein rotes Kleid.
+      После der / die / das: окончание -e в пяти случаях — Nominativ m, f, n и Akkusativ f, n. Во всех остальных (Akk. m, весь Dativ, весь Plural) — -en.
+      После ein / eine (и kein, mein …) — почти так же. Разница там, где у ein нет окончания: в Nominativ m прилагательное берёт -er (ein roter Rock), в Nominativ и Akkusativ n — -es (ein rotes Kleid). Прилагательное «показывает» род, который не видно по ein.
+      У ein нет множественного числа; с kein / mein во множественном — всегда -en: meine roten Schuhe.
+    steps:
+      - de: Der Rock ist rot.
+        ru: Прилагательное после глагола — без окончания.
+      - de: Der rote Rock gefällt mir. – Ein roter Rock gefällt mir.
+        ru: "Nom. m: после der → -e; после ein → -er."
+      - de: Ich trage das bunte Kostüm. – Ich trage ein buntes Kostüm.
+        ru: "Akk. n: после das → -e; после ein → -es."
+      - de: Ben kauft den neuen Anzug. – Ben kauft einen neuen Anzug.
+        ru: "Akk. m: и после den, и после einen → -en."
+      - de: Lena trägt eine lange weiße Bluse.
+        ru: "Akk. f: eine + -e; у двух прилагательных одинаковое окончание."
+      - de: Wir feiern mit unseren alten Freunden in einem kleinen Café.
+        ru: Dativ — всегда -en.
+    table:
+      head: [Kasus, "m (der Rock)", "f (die Bluse)", "n (das Kleid)", "Pl. (die Schuhe)"]
+      rows:
+        - [Nom. + der, der rote Rock, die rote Bluse, das rote Kleid, die roten Schuhe]
+        - [Nom. + ein, ein roter Rock, eine rote Bluse, ein rotes Kleid, meine roten Schuhe]
+        - [Akk. + der, den roten Rock, die rote Bluse, das rote Kleid, die roten Schuhe]
+        - [Akk. + ein, einen roten Rock, eine rote Bluse, ein rotes Kleid, meine roten Schuhe]
+        - [Dat. + der, dem roten Rock, der roten Bluse, dem roten Kleid, den roten Schuhen]
+        - [Dat. + ein, einem roten Rock, einer roten Bluse, einem roten Kleid, meinen roten Schuhen]
+    exam: |
+      В Sprechen и Schreiben A2 нужны описания: was Sie anziehen, wie das Fest war (Es war eine schöne Feier. Ich habe ein langes Kleid getragen.).
+      Отдельно окончания не проверяют, но частые ошибки снижают оценку за грамматическую правильность. Начните с самых частых форм: ein schönes …, eine schöne …, einen schönen …, mit einem schönen …
+    traps:
+      - "После глагола окончания нет: Das Fest war schön (не «schönes»)."
+      - "Nom. m после ein — -er: Das ist ein toller Hut. После der — -e: der tolle Hut."
+      - "В Dativ всегда -en, и в мужском, и в женском, и в среднем роде: mit der neuen Kette, mit einem neuen Anzug."
+      - "Plural без артикля имеет другие окончания (rote Schuhe) — это тема B1; пока используйте die / meine / keine: die roten Schuhe."
+      - "Несколько прилагательных подряд получают одно и то же окончание: ein langes weißes Kleid."
+    exercises:
+      - type: choice
+        q: Ich trage heute das ___ Kleid.
+        options: [rote, roten, rotes]
+        answer: rote
+        why: "Akk. n после das → -e."
+      - type: choice
+        q: Ben kauft einen ___ Anzug für die Hochzeit.
+        options: [neuen, neue, neuer]
+        answer: neuen
+        why: "Akk. m → -en."
+      - type: choice
+        q: Das war ein ___ Fest!
+        options: [schönes, schöne, schönen]
+        answer: schönes
+        why: "Nom. n после ein → -es."
+      - type: choice
+        q: Wir feiern mit unseren ___ Freunden.
+        options: [alten, alte, alter]
+        answer: alten
+        why: Dativ Plural → -en.
+      - type: choice
+        q: Die Braut trägt eine ___ Kette.
+        options: [goldene, goldenen, goldener]
+        answer: goldene
+        why: "Akk. f после eine → -e."
+      - type: choice
+        q: Wie findest du den ___ Hut?
+        options: [großen, große, großer]
+        answer: großen
+        why: "Akk. m после den → -en."
+      - type: gap
+        q: Mit dem ___ Kostüm erkennt dich niemand. (lustig)
+        answer: [lustigen]
+        why: Dativ → -en.
+      - type: gap
+        q: Das ist ein ___ Hut! (toll)
+        answer: [toller]
+        why: "Nom. m после ein → -er."
+      - type: gap
+        q: Ich wünsche mir eine ___ Gitarre. (neu)
+        answer: [neue]
+        why: "Akk. f после eine → -e."
+      - type: gap
+        q: Wir sitzen in einem ___ Café am Rhein. (klein)
+        answer: [kleinen]
+        why: Dativ → -en.
+      - type: gap
+        q: Der ___ Umzug beginnt um elf Uhr. (groß)
+        answer: [große]
+        why: "Nom. m после der → -e."
+      - type: table
+        title: bunt — nach der / die / das
+        head: [Kasus, m, f, n, Pl.]
+        rows:
+          - ["Nom. (der / die / das / die)", "?bunte", "?bunte", "?bunte", "?bunten"]
+          - ["Akk. (den / die / das / die)", "?bunten", "?bunte", "?bunte", "?bunten"]
+          - ["Dat. (dem / der / dem / den)", "?bunten", "?bunten", "?bunten", "?bunten"]
+      - type: table
+        title: bunt — nach ein / eine / mein
+        head: [Kasus, m, f, n, Pl.]
+        rows:
+          - ["Nom. (ein / eine / ein / meine)", "?bunter", "?bunte", "?buntes", "?bunten"]
+          - ["Akk. (einen / eine / ein / meine)", "?bunten", "?bunte", "?buntes", "?bunten"]
+          - ["Dat. (einem / einer / einem / meinen)", "?bunten", "?bunten", "?bunten", "?bunten"]
+      - type: order
+        answer: Ich schenke meiner Schwester eine schöne Kette.
+        tokens: [Ich, schenke, meiner Schwester, eine schöne Kette]
+        ru: Я дарю сестре красивую цепочку.
+
+  # ------------------------------------------------------------------
+  - id: kn-g-reflexiv
+    title: Reflexive Verben
+    title_ru: Возвратные глаголы
+    terms:
+      - t: reflexives Verb
+        ru: возвратный глагол — глагол с sich (sich freuen, sich treffen)
+      - t: Reflexivpronomen
+        ru: возвратное местоимение (mich, dich, sich, uns, euch …) — «себя», часто как русское -ся
+      - t: Akkusativ (Akk.)
+        ru: винительный падеж; обычная форма возвратного местоимения (ich freue mich)
+      - t: Dativ (Dat.)
+        ru: дательный падеж; форма местоимения, если в предложении есть ещё одно дополнение (ich wasche mir die Hände)
+      - t: Rektion
+        ru: управление — какой предлог и падеж требует глагол (sich freuen auf + Akk.)
+      - t: Infinitiv
+        ru: начальная форма глагола (sich treffen)
+      - t: Perfekt
+        ru: прошедшее время (hat … gefreut); у возвратных глаголов — с haben
+      - t: Imperativ
+        ru: повелительное наклонение (Beeil dich!)
+    meaning: |
+      У возвратного глагола есть местоимение, которое относится к тому же лицу, что и подлежащее: Ich freue mich. — Я радуюсь.
+      Местоимение меняется по лицу: ich → mich, du → dich, er/sie/es → sich, wir → uns, ihr → euch, sie/Sie → sich.
+      Обычно оно в Akkusativ. Если в предложении есть ещё одно дополнение в Akkusativ (часть тела, одежда, вещь), местоимение переходит в Dativ: Ich wasche mir die Hände. Ich wünsche mir ein Fahrrad. Различаются только ich (mich/mir) и du (dich/dir).
+      Место: в главном предложении — сразу после спрягаемого глагола: Ich treffe mich heute mit Ali. Morgen treffen wir uns.
+      Русское -ся и немецкое sich совпадают не всегда: учиться — lernen (без sich), отдыхать — sich ausruhen (с sich).
+      Многие такие глаголы требуют предлог: sich freuen auf + Akk. (на будущее), sich freuen über + Akk. (о том, что уже есть), sich interessieren für + Akk., sich treffen mit + Dat.
+      Perfekt — всегда с haben: Ich habe mich sehr gefreut.
+    steps:
+      - de: Ich freue mich auf deine Party!
+        ru: ich → mich; auf — вечеринка ещё будет.
+      - de: Danke für die Blumen, ich freue mich sehr darüber.
+        ru: über — подарок уже здесь.
+      - de: Interessierst du dich für Fußball?
+        ru: du → dich; sich interessieren für + Akk.
+      - de: Wir treffen uns um acht am Dom.
+        ru: wir → uns, сразу после глагола.
+      - de: Am Sonntag ruht sich Herr Schmitz aus.
+        ru: При обратном порядке sich обычно стоит до существительного-подлежащего.
+      - de: Ich ziehe mir das Kostüm an.
+        ru: Есть ещё дополнение (das Kostüm) → mir (Dativ).
+      - de: Beeil dich! Der Umzug beginnt gleich.
+        ru: "Imperativ: местоимение остаётся (dich)."
+      - de: Gestern habe ich mich mit Ali verabredet.
+        ru: Perfekt с haben.
+    table:
+      head: [Person, Akkusativ, Dativ, Beispiel]
+      rows:
+        - [ich, mich, mir, Ich freue mich. / Ich wasche mir die Hände.]
+        - [du, dich, dir, "Freust du dich? / Wünschst du dir etwas?"]
+        - [er / sie / es, sich, sich, Er ärgert sich.]
+        - [wir, uns, uns, Wir treffen uns.]
+        - [ihr, euch, euch, Beeilt euch!]
+        - [sie / Sie, sich, sich, "Interessieren Sie sich für Musik?"]
+    exam: |
+      В Schreiben A2 (ответ на приглашение) часто нужно: Ich freue mich auf …, Vielen Dank, ich habe mich sehr gefreut. В Sprechen Teil 3: Wann treffen wir uns? Wer kümmert sich um die Getränke?
+      В Sprechen Teil 1–2 — рассказ о хобби: Ich interessiere mich für …
+    traps:
+      - "auf ≠ über: Ich freue mich auf den Urlaub (он будет). Ich freue mich über das Geschenk (оно уже есть)."
+      - "Не забывайте местоимение: «Ich freue» без mich — ошибка."
+      - "Не «Ich freue sich» — местоимение меняется по лицу: ich → mich."
+      - "Dativ, если есть второе дополнение: Ich wasche mir die Haare (не «mich die Haare»)."
+      - "Русское -ся ≠ sich: Ich lerne Deutsch (учусь — без sich); Ich ruhe mich aus (отдыхаю — с sich)."
+    exercises:
+      - type: choice
+        q: Ich freue ___ auf die Party.
+        options: [mich, mir, sich]
+        answer: mich
+        why: ich → mich (Akkusativ).
+      - type: choice
+        q: Freust du ___ über das Geschenk?
+        options: [dich, dir, sich]
+        answer: dich
+        why: du → dich.
+      - type: choice
+        q: Wir treffen ___ um acht am Dom.
+        options: [uns, euch, sich]
+        answer: uns
+        why: wir → uns.
+      - type: choice
+        q: Ich wasche ___ vor dem Essen die Hände.
+        options: [mir, mich, sich]
+        answer: mir
+        why: Есть ещё дополнение (die Hände) → Dativ mir.
+      - type: choice
+        q: Interessiert ihr ___ für Karneval?
+        options: [euch, sich, uns]
+        answer: euch
+        why: ihr → euch.
+      - type: choice
+        q: Anna freut sich schon ___ ihren Geburtstag nächste Woche.
+        options: [auf, über, für]
+        answer: auf
+        why: День рождения ещё будет → auf.
+      - type: choice
+        q: Herr Weber ärgert sich ___ das schlechte Wetter.
+        options: [über, auf, mit]
+        answer: über
+        why: sich ärgern über + Akk.
+      - type: gap
+        q: Meine Eltern haben ___ sehr über deinen Besuch gefreut.
+        answer: [sich]
+        why: sie (Pl.) → sich.
+      - type: gap
+        q: Zieh ___ warm an, es schneit!
+        answer: [dich]
+        why: "Imperativ для du: Zieh dich an!"
+      - type: gap
+        q: Ich wünsche ___ zum Geburtstag ein Fahrrad.
+        answer: [mir]
+        why: Есть дополнение (ein Fahrrad) → Dativ mir.
+      - type: gap
+        q: Wir haben ___ mit Ali zum Joggen verabredet.
+        answer: [uns]
+        why: wir → uns.
+      - type: table
+        title: Reflexivpronomen
+        head: [Person, Akkusativ, Dativ]
+        rows:
+          - [ich, "?mich", "?mir"]
+          - [du, "?dich", "?dir"]
+          - [er / sie / es, "?sich", "?sich"]
+          - [wir, "?uns", "?uns"]
+          - [ihr, "?euch", "?euch"]
+          - [sie / Sie, "?sich", "?sich"]
+      - type: order
+        answer: Wir treffen uns am Samstag vor dem Kino.
+        tokens: [Wir, treffen, uns, am Samstag, vor dem Kino]
+        also: [Am Samstag treffen wir uns vor dem Kino.]
+        ru: Мы встречаемся в субботу перед кинотеатром.
+      - type: order
+        answer: Interessierst du dich für Musik?
+        tokens: [Interessierst, du, dich, für Musik]
+        ru: Ты интересуешься музыкой?
+
+  # ------------------------------------------------------------------
+  - id: kn-g-weil
+    title: weil, denn und deshalb
+    title_ru: Причина и следствие — weil, denn, deshalb
+    terms:
+      - t: Hauptsatz
+        ru: главное предложение; спрягаемый глагол на позиции 2
+      - t: Nebensatz
+        ru: придаточное предложение; спрягаемый глагол в самом конце
+      - t: Konjunktion
+        ru: союз (weil, denn, und, aber …)
+      - t: Adverb
+        ru: наречие; deshalb занимает позицию 1, после него сразу глагол
+      - t: Position 0
+        ru: место перед предложением, которое не считается (und, aber, oder, denn); после него обычный порядок слов
+      - t: konjugiertes Verb
+        ru: спрягаемый глагол — глагол в форме лица (bin, muss, hat)
+      - t: Modalverb
+        ru: модальный глагол (können, müssen, wollen …)
+      - t: trennbares Verb
+        ru: глагол с отделяемой приставкой (an·kommen, mit·bringen)
+      - t: Grund / Folge
+        ru: причина / следствие
+    meaning: |
+      Причину можно назвать тремя способами.
+      weil — «потому что»: открывает Nebensatz, спрягаемый глагол уходит в конец: Ich komme nicht, weil ich krank bin.
+      denn — «потому что, ведь»: открывает обычное главное предложение, порядок слов не меняется: Ich komme nicht, denn ich bin krank. denn не может стоять в начале всей фразы.
+      deshalb — «поэтому»: называет не причину, а следствие. Это наречие на позиции 1, глагол сразу после него: Ich bin krank, deshalb komme ich nicht.
+      В Nebensatz с weil: модальный глагол — в самом конце (…, weil ich arbeiten muss), отделяемая приставка не отделяется (…, weil der Zug um acht ankommt), в Perfekt hat/ist — в конце (…, weil ich den Bus verpasst habe).
+      Если Nebensatz стоит первым, главное предложение начинается с глагола: Weil es regnet, bleiben wir zu Hause.
+      Перед weil, denn и deshalb (между двумя предложениями) ставится запятая.
+    steps:
+      - de: Ich bleibe heute zu Hause, weil ich krank bin.
+        ru: weil → bin в конце.
+      - de: Ich bleibe heute zu Hause, denn ich bin krank.
+        ru: denn → обычный порядок, bin на позиции 2.
+      - de: Ich bin krank, deshalb bleibe ich heute zu Hause.
+        ru: deshalb → глагол bleibe сразу после него, потом подлежащее.
+      - de: Ich kann nicht kommen, weil ich am Samstag arbeiten muss.
+        ru: Модальный глагол muss — в самом конце.
+      - de: Ich hole dich ab, weil dein Zug spät ankommt.
+        ru: Отделяемый глагол в Nebensatz пишется слитно в конце — ankommt.
+      - de: Weil es regnet, feiern wir drinnen.
+        ru: Nebensatz первым → главное предложение начинается с глагола (feiern).
+    table:
+      head: [Wort, Satzart, Position des Verbs, Beispiel]
+      rows:
+        - [weil, Nebensatz, am Ende, "Ich komme nicht, weil ich krank bin."]
+        - [denn, Hauptsatz, "Position 2 (denn = Position 0)", "Ich komme nicht, denn ich bin krank."]
+        - [deshalb, Hauptsatz, "Position 2 (deshalb = Position 1)", "Ich bin krank, deshalb komme ich nicht."]
+    exam: |
+      В Goethe A2 Schreiben Teil 2 (ответ на приглашение) часто нужно объяснить, почему вы придёте или не придёте: Leider kann ich nicht kommen, weil … Это типичный пункт задания (Grund nennen).
+      В Sprechen Teil 2 и 3 — обоснование: Ich feiere gern zu Hause, weil … / Samstag ist besser, denn …
+    traps:
+      - "После weil глагол в конце: weil ich keine Zeit habe (не «weil ich habe keine Zeit»). В разговорной речи немцы иногда так говорят, но на экзамене это ошибка."
+      - "После denn порядок обычный: denn ich habe keine Zeit."
+      - "deshalb ≠ weil: deshalb называет следствие. Es regnet, deshalb bleiben wir zu Hause (не «deshalb wir bleiben»)."
+      - "Модальный глагол в weil-предложении — последним: weil ich arbeiten muss (не «weil ich muss arbeiten»)."
+      - "Запятая перед weil, denn, deshalb обязательна."
+    exercises:
+      - type: choice
+        q: Welcher Satz ist richtig?
+        options: ["Ich bleibe zu Hause, weil ich bin krank.", "Ich bleibe zu Hause, weil ich krank bin.", "Ich bleibe zu Hause, weil krank ich bin."]
+        answer: Ich bleibe zu Hause, weil ich krank bin.
+        why: weil → спрягаемый глагол в конце.
+      - type: choice
+        q: Ich gehe nicht mit, ___ ich habe keine Zeit.
+        options: [denn, weil, deshalb]
+        answer: denn
+        why: После пропуска обычный порядок (ich habe) → denn.
+      - type: choice
+        q: Es regnet, ___ bleiben wir zu Hause.
+        options: [deshalb, weil, denn]
+        answer: deshalb
+        why: Глагол сразу после пропуска (bleiben wir) → deshalb.
+      - type: choice
+        q: Lisa ist glücklich, ___ sie eine Einladung bekommen hat.
+        options: [weil, denn, deshalb]
+        answer: weil
+        why: Глагол hat в конце → weil.
+      - type: choice
+        q: Weil das Wetter schön ist, ___.
+        options: [machen wir ein Picknick, wir machen ein Picknick, ein Picknick wir machen]
+        answer: machen wir ein Picknick
+        why: После Nebensatz главное предложение начинается с глагола.
+      - type: choice
+        q: Ich komme später, weil ich noch ein Geschenk ___.
+        options: [kaufen muss, muss kaufen, kaufe muss]
+        answer: kaufen muss
+        why: Модальный глагол — в самом конце.
+      - type: gap
+        q: Ich kann nicht kommen, weil ich am Samstag arbeiten ___. (müssen)
+        answer: [muss]
+        why: ich → muss, в конце предложения.
+      - type: gap
+        q: Wir kommen später, weil unser Zug Verspätung ___. (haben)
+        answer: [hat]
+        why: weil → глагол в конце.
+      - type: gap
+        q: Er ist müde, ___ er hat die ganze Nacht getanzt. (weil / denn)
+        answer: [denn]
+        why: Порядок слов обычный (er hat) → denn.
+      - type: gap
+        q: Morgen ist ein Feiertag, ___ sind die Geschäfte geschlossen. (weil / deshalb)
+        answer: [deshalb]
+        why: Глагол sind сразу после пропуска → deshalb.
+      - type: order
+        answer: Ich freue mich, weil du kommst.
+        tokens: ["Ich freue mich,", weil, du, kommst]
+        ru: Я рад(а), что ты придёшь.
+      - type: order
+        answer: Ich nehme einen Schirm mit, weil es regnet.
+        tokens: ["Ich nehme einen Schirm mit,", weil, es, regnet]
+        ru: Я беру с собой зонт, потому что идёт дождь.
+      - type: order
+        answer: Der Bus ist weg, deshalb nehmen wir ein Taxi.
+        tokens: ["Der Bus ist weg,", deshalb, nehmen, wir, ein Taxi]
+        ru: Автобус ушёл, поэтому мы берём такси.
+      - type: order
+        answer: Ich bin nervös, weil meine Eltern heute ankommen.
+        tokens: ["Ich bin nervös,", weil, meine Eltern, heute, ankommen]
+        ru: Я нервничаю, потому что сегодня приезжают мои родители.
+
+dialogues:
+  # ------------------------------------------------------------------
+  - id: kn-d-einladung
+    title: Eine Einladung zum Geburtstag
+    title_ru: Приглашение на день рождения
+    situation_ru: Ваша подруга Мира из языковой школы звонит вам. В субботу у неё день рождения, и она приглашает вас. Примите приглашение, договоритесь, что принести, и спросите, что ей подарить.
+    partner: Freundin Mira
+    voice: de-DE
+    start: n1
+    nodes:
+      n1:
+        say: Hallo! Du, hast du am Samstagabend schon etwas vor?
+        ru: Привет! Слушай, у тебя есть планы на субботний вечер?
+        options:
+          - t: Nein, noch nicht. Warum fragst du?
+            ru: Нет, пока нет. А почему ты спрашиваешь?
+            next: n2
+          - t: Am Samstag? Nein, da habe ich Zeit. Was ist denn los?
+            ru: В субботу? Нет, тогда у меня есть время. А что такое?
+            next: n2
+          - t: Nein, ich habe nichts vor nicht.
+            ru: Нет, у меня нет никаких не планов.
+            next: n2
+            ok: false
+            fb: Двойного отрицания в немецком нет. Правильно «Nein, ich habe noch nichts vor.»
+      n2:
+        say: Ich habe am Samstag Geburtstag und mache eine kleine Party bei mir zu Hause, in Ehrenfeld. Ab sieben Uhr. Hast du Lust?
+        ru: В субботу у меня день рождения, и я устраиваю небольшую вечеринку дома, в Эренфельде. С семи часов. Хочешь прийти?
+        options:
+          - t: Ja, sehr gern! Danke für die Einladung. Ich freue mich schon darauf.
+            ru: Да, с большим удовольствием! Спасибо за приглашение. Я уже жду этого с нетерпением.
+            next: n3
+          - t: Oh, wie schön! Ich komme gern.
+            ru: О, как здорово! Я с удовольствием приду.
+            next: n3
+          - t: Ja, gern! Ich freue mich über deine Party.
+            ru: Да, с удовольствием! Я радуюсь твоей вечеринке.
+            next: n3
+            ok: false
+            fb: Вечеринка ещё впереди, поэтому auf, а не über — «Ich freue mich auf deine Party.»
+      n3:
+        say: Super! Ich mache ein Buffet, und jeder bringt etwas mit. Das machen wir bei uns immer so.
+        ru: Отлично! Я делаю шведский стол, и каждый что-нибудь приносит. У нас такая традиция.
+        options:
+          - t: Gute Idee! Was soll ich mitbringen?
+            ru: Хорошая идея! Что мне принести?
+            next: n4
+          - t: Kein Problem. Soll ich vielleicht einen Salat mitbringen?
+            ru: Без проблем. Может, мне принести салат?
+            next: n4
+          - t: Okay. Was soll ich bringen mit?
+            ru: Хорошо. Что мне принести?
+            next: n4
+            ok: false
+            fb: После модального глагола инфинитив стоит в конце целиком, приставка не отделяется — «Was soll ich mitbringen?»
+      n4:
+        say: Salate haben wir schon genug. Vielleicht einen Nachtisch? Dein Apfelkuchen war letztes Mal so lecker!
+        ru: Салатов у нас уже хватает. Может, десерт? Твой яблочный пирог в прошлый раз был такой вкусный!
+        options:
+          - t: Klar, dann backe ich wieder einen Apfelkuchen.
+            ru: Конечно, тогда я снова испеку яблочный пирог.
+            next: n5
+          - t: Gern! Wie viele Gäste kommen denn? Dann backe ich zwei Kuchen.
+            ru: С удовольствием! А сколько будет гостей? Тогда я испеку два пирога.
+            next: n5
+          - t: Gut, ich mache ein leckeres Kuchen.
+            ru: Хорошо, я сделаю вкусный пирог.
+            next: n5
+            ok: false
+            fb: der Kuchen — мужской род, в Akkusativ после ein → einen leckeren Kuchen.
+      n5:
+        say: Wir sind ungefähr fünfzehn Leute. Und später gehen wir vielleicht noch tanzen.
+        ru: Нас будет человек пятнадцать. А потом мы, может быть, ещё пойдём танцевать.
+        options:
+          - t: Super, ich tanze sehr gern!
+            ru: Супер, я очень люблю танцевать!
+            next: n6
+          - t: Ich tanze nicht so gern, aber ich komme bestimmt mit.
+            ru: Я не очень люблю танцевать, но обязательно пойду с вами.
+            next: n6
+          - t: Toll, Tanzen mache ich am gernsten!
+            ru: Здорово, танцевать я люблю больше всего!
+            next: n6
+            ok: false
+            fb: "Формы «am gernsten» нет: gern → lieber → am liebsten. Правильно «Am liebsten tanze ich!»"
+      n6:
+        say: Das wird bestimmt lustig. Aber nachts fährt die Bahn nicht so oft. Wie kommst du dann nach Hause?
+        ru: Будет весело. Но ночью электрички ходят не так часто. Как ты потом доберёшься домой?
+        options:
+          - t: Ich nehme einfach ein Taxi.
+            ru: Я просто возьму такси.
+            next: n7
+          - t: Kann ich vielleicht bei dir übernachten?
+            ru: Можно мне, может быть, у тебя переночевать?
+            next: n7
+          - t: Ich fahre mit dem Fahrrad, weil es ist nicht weit.
+            ru: Я поеду на велосипеде, потому что это недалеко.
+            next: n7
+            ok: false
+            fb: После weil глагол в конце — «…, weil es nicht weit ist.»
+      n7:
+        say: Okay, das klären wir dann. Hast du noch eine Frage?
+        ru: Ладно, это решим потом. У тебя ещё есть вопрос?
+        options:
+          - t: Ja – was wünschst du dir eigentlich zum Geburtstag?
+            ru: Да — а что ты, собственно, хочешь на день рождения?
+            next: end
+          - t: Nein, alles klar. Dann bis Samstag!
+            ru: Нет, всё понятно. Тогда до субботы!
+            next: end
+          - t: Ja – was wünschst du dich zum Geburtstag?
+            ru: Да — что ты хочешь на день рождения?
+            next: end
+            ok: false
+            fb: Есть ещё дополнение (was), поэтому местоимение в Dativ — «Was wünschst du dir?»
+      end:
+        say: Schön, dass du kommst! Ich schicke dir gleich noch meine Adresse. Und bring bitte kein großes Geschenk mit – Hauptsache, du bist da! Bis Samstag!
+        ru: Здорово, что ты придёшь! Я сразу пришлю тебе адрес. И не приноси, пожалуйста, большой подарок — главное, что ты будешь! До субботы!
+        end: true
+
+  # ------------------------------------------------------------------
+  - id: kn-d-karneval
+    title: Rosenmontag in Köln
+    title_ru: Розовый понедельник в Кёльне
+    situation_ru: Розовый понедельник, главный день кёльнского карнавала. Вы только что приехали в Кёльн и звоните другу Йонасу — он местный. Узнайте, где встретиться, как туда дойти и что с костюмом. (В Австрии этот праздник называется Fasching, в Майнце — Fastnacht.)
+    partner: Freund Jonas
+    voice: de-DE
+    start: n1
+    nodes:
+      n1:
+        say: Kölle Alaaf! Na, bist du schon in Köln?
+        ru: Кёльн, алаф! Ну что, ты уже в Кёльне?
+        options:
+          - t: Alaaf! Ja, ich bin gerade am Hauptbahnhof angekommen.
+            ru: Алаф! Да, я только что приехал(а) на главный вокзал.
+            next: n2
+          - t: Ja! Ich stehe direkt vor dem Dom. Hier ist es so voll!
+            ru: Да! Я стою прямо перед собором. Тут столько народу!
+            next: n2
+          - t: Ja, ich bin in den Hauptbahnhof.
+            ru: Да, я на главном вокзале.
+            next: n2
+            ok: false
+            fb: Где? → Dativ — «Ich bin im Hauptbahnhof / am Hauptbahnhof.» Akkusativ (in den) — только для направления «куда?».
+      n2:
+        say: Super! Und hast du ein Kostüm? Heute geht hier niemand ohne Kostüm auf die Straße!
+        ru: Супер! А у тебя есть костюм? Сегодня здесь никто не выходит на улицу без костюма!
+        options:
+          - t: Klar! Ich habe mich als Pirat verkleidet.
+            ru: Конечно! Я переоделся(-лась) пиратом.
+            next: n3
+          - t: Nein, leider nicht. Wo kann ich schnell eins kaufen?
+            ru: Нет, к сожалению. Где можно быстро купить?
+            next: n3
+          - t: Ja, ich habe als Pirat verkleidet.
+            ru: Да, я переоделся пиратом.
+            next: n3
+            ok: false
+            fb: sich verkleiden — возвратный глагол — «Ich habe mich als Pirat verkleidet.»
+      n3:
+        say: Egal – ich habe noch eine grüne Perücke für dich. Wir treffen uns am besten am Heumarkt. Weißt du, wie du dahin kommst?
+        ru: Неважно — у меня есть для тебя ещё зелёный парик. Встретимся лучше всего на Хоймаркте. Знаешь, как туда добраться?
+        options:
+          - t: Nein, keine Ahnung. Wie komme ich zum Heumarkt?
+            ru: Нет, понятия не имею. Как мне пройти на Хоймаркт?
+            next: n4
+          - t: Ungefähr. Ist das weit vom Dom?
+            ru: Примерно. Это далеко от собора?
+            next: n4
+          - t: Nein. Wo komme ich zum Heumarkt?
+            ru: Нет. Где мне пройти на Хоймаркт?
+            next: n4
+            ok: false
+            fb: Дорогу спрашивают с wie — «Wie komme ich zum Heumarkt?»
+      n4:
+        say: Das sind nur zehn Minuten zu Fuß. Geh am Dom vorbei Richtung Rhein und dann immer geradeaus durch die Altstadt.
+        ru: Это всего десять минут пешком. Пройди мимо собора в сторону Рейна, а потом всё время прямо через Старый город.
+        options:
+          - t: Okay, danke! Und wo genau treffen wir uns?
+            ru: Хорошо, спасибо! А где именно мы встречаемся?
+            next: n5
+          - t: Alles klar, das finde ich. Wo stehst du genau?
+            ru: Всё понятно, найду. Где ты стоишь?
+            next: n5
+          - t: Okay. Ich gehe an den Dom vorbei.
+            ru: Хорошо. Я пройду мимо собора.
+            next: n5
+            ok: false
+            fb: an … vorbei — с Dativ — «Ich gehe am Dom vorbei.»
+      n5:
+        say: Ich stehe direkt neben der großen Bühne. Ich trage einen roten Hut und eine gestreifte Jacke.
+        ru: Я стою прямо рядом с большой сценой. На мне красная шляпа и полосатая куртка.
+        options:
+          - t: Gut, einen roten Hut und eine gestreifte Jacke. Ich finde dich!
+            ru: Хорошо, красная шляпа и полосатая куртка. Я тебя найду!
+            next: n6
+          - t: Okay. Und wann kommt der Umzug bei euch vorbei?
+            ru: Хорошо. А когда шествие пройдёт мимо вас?
+            next: n6
+          - t: Okay, ich suche einen Mann mit ein rote Hut.
+            ru: Хорошо, я ищу мужчину в красной шляпе.
+            next: n6
+            ok: false
+            fb: После mit — Dativ — «mit einem roten Hut».
+      n6:
+        say: Der Zug kommt gegen zwölf am Heumarkt vorbei. Bring eine Tasche mit – für die Kamelle!
+        ru: Шествие пройдёт по Хоймаркту около двенадцати. Возьми с собой сумку — для «камелле»!
+        options:
+          - t: Kamelle? Was ist das denn?
+            ru: Камелле? А что это?
+            next: n7
+          - t: Klar, ich habe meinen Rucksack dabei.
+            ru: Конечно, у меня с собой рюкзак.
+            next: n7
+          - t: Ich freue mich schon über den Umzug!
+            ru: Я уже радуюсь шествию!
+            next: n7
+            ok: false
+            fb: Шествие ещё впереди — нужен auf — «Ich freue mich schon auf den Umzug!»
+      n7:
+        say: Kamelle sind Bonbons. Die Leute auf den Wagen werfen Süßigkeiten und Blumen in die Menge. Du musst nur laut „Kamelle!“ rufen.
+        ru: Камелле — это конфеты. Люди на платформах бросают в толпу сладости и цветы. Тебе нужно только громко кричать «Камелле!».
+        options:
+          - t: Lustig! In Wien heißt das Fest übrigens Fasching. Wie lange dauert der Umzug?
+            ru: Забавно! В Вене этот праздник, кстати, называется Фашинг. Сколько длится шествие?
+            next: end
+          - t: Super, das mache ich! Bis gleich!
+            ru: Отлично, так и сделаю! До встречи!
+            next: end
+          - t: Okay, ich rufe so lauter wie möglich!
+            ru: Хорошо, я буду кричать как можно громче!
+            next: end
+            ok: false
+            fb: "В конструкции so … wie möglich прилагательное стоит в исходной форме: «so laut wie möglich»."
+      end:
+        say: Der Umzug dauert ein paar Stunden. Danach feiern wir in einer Kneipe weiter. Also, bis gleich am Heumarkt – Alaaf!
+        ru: Шествие длится несколько часов. Потом мы продолжим праздновать в пивной. Ну, до встречи на Хоймаркте — алаф!
+        end: true
+
+texts:
+  # ------------------------------------------------------------------
+  - id: kn-t-forum
+    kind: Forum
+    title: Wie feiert ihr Geburtstag?
+    text: |
+      Forum „Neu in Köln“ › Freizeit › Wie feiert ihr Geburtstag?
+
+      Tomasz, 31:
+      Ich feiere meinen Geburtstag nicht gern groß. Meistens gehe ich mit zwei oder drei Freunden in ein gutes Restaurant, danach trinken wir noch etwas in einer Kneipe am Rhein. Große Partys finde ich anstrengend, weil man dort mit niemandem richtig sprechen kann.
+
+      Oksana, 26:
+      Bei mir ist es ganz anders: Ich lade immer mindestens zwanzig Leute ein! Meine Wohnung ist ziemlich klein, deshalb wird es immer sehr eng, aber die Stimmung ist super. Jeder bringt etwas für das Buffet mit, und wir tanzen bis zum Morgen. Meine Nachbarn lade ich natürlich auch ein – dann gibt es keinen Ärger.
+
+      Felix, 45:
+      Ich habe im Februar Geburtstag, oft genau an Karneval. Deshalb gibt es bei mir keine normale Party: Meine Familie und ich verkleiden uns und feiern auf der Straße. Letztes Jahr war ich ein Cowboy und meine Frau eine Katze. Geschenke wünsche ich mir nicht, aber Kamelle vom Umzug nehme ich gern!
+    glossary:
+      mindestens: как минимум
+      eng: тесно
+      der Ärger: неприятности; раздражение
+      die Kneipe: пивной бар, паб
+      die Kamelle: конфеты, которые бросают с карнавальных платформ (кёльнский диалект)
+    questions:
+      - type: choice
+        q: Wer feiert am liebsten in einer kleinen Gruppe?
+        ru: Кто больше всего любит праздновать в маленькой компании?
+        options: [Tomasz, Oksana, Felix]
+        answer: Tomasz
+      - type: choice
+        q: Wer lädt auch die Nachbarn ein?
+        ru: Кто приглашает и соседей?
+        options: [Tomasz, Oksana, Felix]
+        answer: Oksana
+      - type: choice
+        q: Wer feiert den Geburtstag im Kostüm?
+        ru: Кто празднует день рождения в костюме?
+        options: [Tomasz, Oksana, Felix]
+        answer: Felix
+      - type: tf
+        q: Tomasz findet große Partys anstrengend.
+        ru: Томаш считает большие вечеринки утомительными.
+        answer: true
+      - type: tf
+        q: Oksana hat eine große Wohnung.
+        ru: У Оксаны большая квартира.
+        answer: false
+      - type: tf
+        q: Felix wünscht sich jedes Jahr ein Geschenk.
+        ru: Феликс каждый год хочет подарок.
+        answer: false
+
+  # ------------------------------------------------------------------
+  - id: kn-t-programm
+    kind: Anzeige
+    title: Wochenende in Köln – Veranstaltungstipps
+    text: |
+      Was ist los in Köln? Unsere Tipps für das Wochenende
+
+      FREITAG
+      19.30 Uhr · Rheinpark: Open-Air-Kino. Heute läuft eine französische Komödie mit deutschen Untertiteln. Eintritt 9 Euro. Bitte bringen Sie eine Decke mit. Bei Regen fällt die Vorstellung aus.
+
+      SAMSTAG
+      10 bis 18 Uhr · Altstadt: großer Flohmarkt am Rheinufer. Über 200 Stände mit Kleidung, Büchern und alten Möbeln.
+      15 Uhr · Ehrenfeld: Straßenfest „Bunte Veedel“ mit Musik aus aller Welt, internationalem Essen und einem Programm für Kinder. Eintritt frei!
+      20 Uhr · Philharmonie: Konzert des Kölner Jugendorchesters. Karten ab 15 Euro, für Schüler und Studenten die Hälfte.
+
+      SONNTAG
+      11 Uhr · Dom: Führung „Der Dom von oben“. Über 500 Stufen bis zur Aussicht auf fast 100 Meter Höhe! Treffpunkt am Haupteingang. Nicht für Kinder unter acht Jahren. Bitte tragen Sie bequeme Schuhe.
+      14 Uhr · Rheinufer: Schifffahrt auf dem Rhein mit Kaffee und Kuchen an Bord. Dauer: circa drei Stunden. Anmeldung bis Freitag im Reisebüro am Bahnhof.
+    glossary:
+      Was ist los?: Что происходит? (какие мероприятия)
+      die Untertitel: субтитры
+      die Decke: плед, покрывало
+      aus·fallen: отменяться, не состояться
+      der Flohmarkt: блошиный рынок
+      der Stand: прилавок, палатка
+      das Veedel: район, квартал (кёльнский диалект; = das Viertel)
+      die Hälfte: половина
+      die Stufe: ступенька
+      der Treffpunkt: место встречи
+      die Schifffahrt: прогулка на теплоходе
+      an Bord: на борту
+      die Anmeldung: запись, регистрация
+    questions:
+      - type: tf
+        q: Das Kino im Rheinpark findet auch bei Regen statt.
+        ru: Кинопоказ в Рейнпарке проходит и в дождь.
+        answer: false
+      - type: choice
+        q: Wo kann man alte Möbel kaufen?
+        ru: Где можно купить старую мебель?
+        options: [auf dem Flohmarkt, auf dem Straßenfest, in der Philharmonie]
+        answer: auf dem Flohmarkt
+      - type: choice
+        q: Eine Studentin möchte ins Konzert. Wie viel kostet die Karte mindestens?
+        ru: Студентка хочет пойти на концерт. Сколько стоит билет минимум?
+        options: ["7,50 Euro", "15 Euro", "30 Euro"]
+        answer: "7,50 Euro"
+      - type: tf
+        q: Für das Straßenfest in Ehrenfeld muss man nichts bezahlen.
+        ru: За уличный праздник в Эренфельде платить не нужно.
+        answer: true
+      - type: choice
+        q: Familie Novak hat eine Tochter (6 Jahre). Welche Veranstaltung ist nicht für die ganze Familie?
+        ru: У семьи Новак дочь шести лет. Какое мероприятие не подходит для всей семьи?
+        options: [die Führung im Dom, das Straßenfest, die Schifffahrt]
+        answer: die Führung im Dom
+      - type: tf
+        q: Für die Schifffahrt muss man sich vorher anmelden.
+        ru: На прогулку на теплоходе нужно записаться заранее.
+        answer: true
+
+listening:
+  # ------------------------------------------------------------------
+  - id: kn-h-radio
+    kind: Radio
+    title: Wetter und Wochenendtipp
+    voice: de-DE
+    lines:
+      - s: A
+        t: "Radio Rheinwelle, es ist sieben Uhr dreißig. Und jetzt das Wetter für Köln und die Region."
+      - s: B
+        t: "Guten Morgen! Heute beginnt der Tag noch bewölkt, am Vormittag kann es auch kurz regnen."
+      - s: B
+        t: "Am Nachmittag kommt dann die Sonne, und die Temperaturen steigen auf 22 Grad."
+      - s: B
+        t: "Morgen, am Samstag, wird es noch wärmer: viel Sonne und bis zu 27 Grad. Perfektes Wetter für einen Ausflug!"
+      - s: B
+        t: "Am Sonntag kommen von Westen Wolken. Ab Mittag gibt es Gewitter, und es wird deutlich kühler, nur noch 18 Grad."
+      - s: A
+        t: "Danke! Und hier unser Tipp für das Wochenende: Am Samstag feiern die Kölner Musikschulen ihr Sommerfest im Stadtgarten."
+      - s: A
+        t: "Von 14 bis 22 Uhr spielen über zwanzig Bands auf drei Bühnen – von Jazz bis Rock."
+      - s: A
+        t: "Der Eintritt ist frei, und auch für Essen und Getränke ist gesorgt."
+      - s: A
+        t: "Noch ein Hinweis: Wegen des Festes ist die Venloer Straße am Samstag ab 12 Uhr gesperrt. Kommen Sie also lieber mit Bus und Bahn!"
+    questions:
+      - type: choice
+        q: Wie ist das Wetter heute am Vormittag?
+        ru: Какая погода сегодня до обеда?
+        options: ["bewölkt, vielleicht kurz Regen", "sonnig und warm", "Gewitter"]
+        answer: "bewölkt, vielleicht kurz Regen"
+      - type: choice
+        q: An welchem Tag wird es am wärmsten?
+        ru: В какой день будет теплее всего?
+        options: [heute, am Samstag, am Sonntag]
+        answer: am Samstag
+      - type: tf
+        q: Am Sonntag wird es kühler als am Samstag.
+        ru: В воскресенье будет прохладнее, чем в субботу.
+        answer: true
+      - type: choice
+        q: Was kostet das Sommerfest im Stadtgarten?
+        ru: Сколько стоит летний праздник в Штадтгартене?
+        options: [nichts, 14 Euro, 22 Euro]
+        answer: nichts
+      - type: tf
+        q: Am Samstagnachmittag kann man mit dem Auto über die Venloer Straße fahren.
+        ru: В субботу днём можно проехать на машине по Фенлоэр-штрассе.
+        answer: false
+    dictation:
+      - Am Nachmittag kommt die Sonne.
+      - Morgen wird es noch wärmer.
+      - Am Sonntag gibt es Gewitter, und es wird kühler.
+      - Der Eintritt zum Sommerfest ist frei.
+      - Kommen Sie lieber mit Bus und Bahn!
+
+  # ------------------------------------------------------------------
+  - id: kn-h-dialog
+    kind: Dialog
+    title: Was machen wir am Wochenende?
+    voice: de-DE
+    lines:
+      - s: A
+        t: "Hey Maxim, hast du am Wochenende schon was vor?"
+      - s: B
+        t: "Noch nicht. Am Samstag muss ich bis zwei arbeiten, aber danach habe ich Zeit. Warum?"
+      - s: A
+        t: "Das Wetter soll super werden. Wollen wir eine Radtour machen? Zum Beispiel am Rhein entlang bis nach Bonn?"
+      - s: B
+        t: "Bis nach Bonn? Das sind fast dreißig Kilometer! Das ist mir zu anstrengend. Ich bin nicht so sportlich wie du, Selin."
+      - s: A
+        t: "Okay, dann etwas Ruhigeres. Wir könnten an den See fahren und baden."
+      - s: B
+        t: "Das klingt gut! Aber am Samstag ist es dort bestimmt sehr voll. Lieber am Sonntag?"
+      - s: A
+        t: "Am Sonntag soll es aber Gewitter geben. Das habe ich heute Morgen im Radio gehört."
+      - s: B
+        t: "Hm, stimmt. Dann also Samstag. Ich bin um halb drei fertig. Treffen wir uns um drei?"
+      - s: A
+        t: "Lieber um halb vier. Ich muss vorher noch einkaufen. Ich bringe Obst und etwas zu trinken mit."
+      - s: B
+        t: "Super. Und ich nehme eine Decke und mein Federballspiel mit. Wo treffen wir uns?"
+      - s: A
+        t: "Am besten an der Haltestelle vor deinem Büro. Von dort fährt der Bus direkt zum See."
+      - s: B
+        t: "Perfekt. Dann bis Samstag! Und vergiss die Sonnencreme nicht!"
+    questions:
+      - type: choice
+        q: Warum möchte Maxim nicht mit dem Rad nach Bonn fahren?
+        ru: Почему Максим не хочет ехать на велосипеде в Бонн?
+        options: [Die Tour ist ihm zu anstrengend., Er hat kein Fahrrad., Er muss am Samstag arbeiten.]
+        answer: Die Tour ist ihm zu anstrengend.
+      - type: tf
+        q: Maxim arbeitet am Samstag den ganzen Tag.
+        ru: Максим в субботу работает весь день.
+        answer: false
+      - type: choice
+        q: Warum fahren die beiden nicht am Sonntag an den See?
+        ru: Почему они не едут на озеро в воскресенье?
+        options: [Es soll Gewitter geben., Am Sonntag ist es dort zu voll., Selin hat am Sonntag keine Zeit.]
+        answer: Es soll Gewitter geben.
+      - type: choice
+        q: Um wie viel Uhr treffen sie sich?
+        ru: Во сколько они встречаются?
+        options: [um halb drei, um drei, um halb vier]
+        answer: um halb vier
+      - type: choice
+        q: Was bringt Maxim mit?
+        ru: Что принесёт Максим?
+        options: [eine Decke und ein Federballspiel, Obst und Getränke, nur Sonnencreme]
+        answer: eine Decke und ein Federballspiel
+    dictation:
+      - Hast du am Wochenende schon etwas vor?
+      - Das ist mir zu anstrengend.
+      - Am Sonntag soll es Gewitter geben.
+      - Ich bringe Obst und etwas zu trinken mit.
+      - Vergiss die Sonnencreme nicht!
+
+writing:
+  - id: kn-s-einladung
+    exam: Goethe A2 · Schreiben Teil 2
+    kind: E-Mail
+    task: |
+      Ihr Kollege, Herr Brandt, arbeitet seit 25 Jahren in Ihrer Firma. Er feiert das am Freitag mit einem Gartenfest und hat alle Kolleginnen und Kollegen eingeladen. Sie können nicht kommen.
+      Schreiben Sie Herrn Brandt eine E-Mail:
+      – Bedanken Sie sich für die Einladung.
+      – Sagen Sie, warum Sie nicht kommen können.
+      – Machen Sie einen Vorschlag für ein anderes Treffen.
+      Schreiben Sie circa 40 Wörter. Vergessen Sie Anrede und Gruß nicht.
+    task_ru: |
+      Ваш коллега господин Брандт работает в фирме 25 лет. В пятницу он отмечает это праздником в саду и пригласил всех коллег. Вы не можете прийти.
+      Напишите ему письмо: поблагодарите за приглашение; объясните, почему не можете прийти; предложите встретиться в другой раз.
+      Около 40 слов. Не забудьте обращение и прощание. С коллегой, которого вы называете «Herr Brandt», — на Sie.
+    points:
+      - Bedanken Sie sich für die Einladung.
+      - Sagen Sie, warum Sie nicht kommen können.
+      - Machen Sie einen Vorschlag für ein anderes Treffen.
+    words: [35, 50]
+    structure:
+      - "Обращение: Lieber Herr Brandt, (полуофициально) — после запятой письмо продолжается со строчной буквы"
+      - "Пункт 1: благодарность за приглашение (+ можно поздравить)"
+      - "Пункт 2: отказ и причина (Leider kann ich nicht kommen, weil …)"
+      - "Пункт 3: предложение (Darf ich Sie … einladen? / Hätten Sie … Zeit?)"
+      - "Прощание: Herzliche Grüße / Viele Grüße и ваше имя"
+    redemittel:
+      - de: Lieber Herr Brandt, / Liebe Frau Krämer,
+        ru: Уважаемый господин Брандт, / Уважаемая госпожа Кремер, (полуофициально)
+      - de: Liebe Mira, / Lieber Jonas,
+        ru: Дорогая Мира, / Дорогой Йонас, (другу)
+      - de: Vielen Dank für Ihre Einladung!
+        ru: Большое спасибо за ваше приглашение!
+      - de: Ich habe mich sehr über Ihre Einladung gefreut.
+        ru: Я очень обрадовался(-лась) вашему приглашению.
+      - de: Herzlichen Glückwunsch zum …!
+        ru: Поздравляю с …!
+      - de: Ich komme sehr gern.
+        ru: Я с удовольствием приду.
+      - de: Leider kann ich nicht kommen, weil …
+        ru: К сожалению, я не смогу прийти, потому что …
+      - de: Leider habe ich am Freitag schon einen Termin.
+        ru: К сожалению, в пятницу у меня уже назначена встреча.
+      - de: Es tut mir sehr leid, aber …
+        ru: Мне очень жаль, но …
+      - de: Darf ich Sie stattdessen zu einem Kaffee einladen?
+        ru: Можно вместо этого пригласить вас на кофе?
+      - de: Hätten Sie vielleicht nächste Woche Zeit?
+        ru: Может быть, у вас будет время на следующей неделе?
+      - de: Wie wäre es mit Dienstag?
+        ru: Как насчёт вторника?
+      - de: Soll ich etwas mitbringen?
+        ru: Мне что-нибудь принести? (если вы принимаете приглашение)
+      - de: Ich wünsche Ihnen ein schönes Fest!
+        ru: Желаю вам хорошего праздника!
+      - de: Herzliche Grüße / Viele Grüße
+        ru: С сердечным приветом / С приветом
+    model: |
+      Lieber Herr Brandt,
+
+      vielen Dank für Ihre Einladung und herzlichen Glückwunsch zum Jubiläum! Leider kann ich am Freitag nicht kommen, weil meine Schwester an diesem Tag heiratet. Darf ich Sie stattdessen nächste Woche zu einem Kaffee einladen? Wie wäre es mit Dienstag?
+
+      Herzliche Grüße
+      Daria Melnyk
+    checklist:
+      - Все три пункта раскрыты (спасибо, причина, предложение)?
+      - Есть обращение, прощание и имя? После «Lieber Herr Brandt,» письмо продолжается со строчной буквы.
+      - Везде одна форма обращения — Sie, Ihnen, Ihre с большой буквы?
+      - После weil глагол стоит в конце предложения?
+      - Порядок слов в главном предложении — глагол на позиции 2 (Leider kann ich …)?
+      - Около 40 слов — не намного меньше и не намного больше?
+      - "Причина звучит реалистично и коротко (одно предложение)?"
+
+speaking:
+  - id: kn-sp-1
+    exam: Goethe A2 · Sprechen Teil 1
+    task: "Fragen zur Person: Wortkarten"
+    task_ru: Вы и партнёр по очереди тянете карточки со словом. Задайте по слову вопрос партнёру; партнёр отвечает и задаёт вопрос вам по своей карточке. Отвечайте 1–2 предложениями.
+    prompts: ["Geburtstag?", "Lieblingsfest?", "Hobby?", "Sport?", "Wochenende?", "Wetter?", "Kleidung?", "Musik?"]
+    model: |
+      Geburtstag: Wann hast du Geburtstag? – Am 14. März. Ich feiere meistens mit meiner Familie.
+      Lieblingsfest: Was ist dein Lieblingsfest? – Silvester, weil ich gern Feuerwerk sehe.
+      Hobby: Was machst du in deiner Freizeit? – Ich spiele Gitarre und singe in einem Chor.
+      Sport: Machst du gern Sport? – Ja, ich gehe zweimal pro Woche joggen.
+      Wochenende: Was hast du letztes Wochenende gemacht? – Ich habe mit Freunden eine Radtour gemacht.
+      Wetter: Welches Wetter magst du am liebsten? – Ich mag es warm und sonnig, aber nicht zu heiß.
+      Kleidung: Was ziehst du zu einer Hochzeit an? – Einen dunklen Anzug, aber ohne Krawatte.
+      Musik: Welche Musik hörst du gern? – Am liebsten Jazz.
+
+  - id: kn-sp-2
+    exam: Goethe A2 · Sprechen Teil 2
+    task: "Über das eigene Leben erzählen: Wie feiern Sie Feste?"
+    task_ru: Расскажите о себе по карточке (около 1–2 минут). На карточке вопрос и 5 подсказок — затроньте каждую. Экзаменатор потом задаст один-два вопроса.
+    prompts: ["Welches Fest?", "Wann und wo?", "Mit wem?", "Essen und Trinken?", "Geschenke?"]
+    model: |
+      Mein Lieblingsfest ist Neujahr. In meiner Heimat ist das das wichtigste Fest im Jahr, noch wichtiger als Weihnachten. Wir feiern am 31. Dezember bei meinen Eltern. Meistens kommen zehn oder zwölf Personen: meine Geschwister, meine Großeltern und ein paar Freunde. Wir kochen den ganzen Tag, denn es gibt viele Salate, Fleisch und natürlich eine große Torte. Um Mitternacht stoßen wir mit Sekt an und gehen nach draußen, weil es dann ein Feuerwerk gibt. Die Kinder bekommen Geschenke, die Erwachsenen meistens nur kleine Überraschungen. Hier in Österreich feiere ich Silvester mit meinen Kollegen, aber am liebsten bin ich an diesem Tag bei meiner Familie.
+
+  - id: kn-sp-3
+    exam: Goethe A2 · Sprechen Teil 3
+    task: "Gemeinsam etwas planen: ein Abschiedsfest für die Kursleiterin"
+    task_ru: Ваша преподавательница скоро уходит из языковой школы. Вы и партнёр хотите устроить для неё прощальный праздник в субботу. У каждого свой календарь на этот день. Найдите время, когда вы оба свободны, и распределите задачи (место, еда, подарок, приглашения).
+    prompts: ["Ihr Kalender am Samstag: 8–12 Uhr Arbeit", "13 Uhr Mittagessen mit Oma", "17 Uhr Fußballtraining", "Wann?", "Wo feiern?", "Wer kauft das Geschenk?", "Essen und Getränke?", "Wer lädt die anderen ein?"]
+    model: |
+      A: Wann hast du am Samstag Zeit? Ich arbeite bis zwölf, und um eins esse ich mit meiner Oma.
+      B: Am Vormittag habe ich einen Arzttermin, aber ab zwei bin ich frei.
+      A: Um fünf habe ich Fußballtraining. Wie wäre es um drei?
+      B: Um drei ist gut. Wo feiern wir? Im Kursraum oder lieber im Park?
+      A: Lieber im Park, das Wetter soll schön werden. Wenn es regnet, gehen wir ins Café neben der Schule.
+      B: Gute Idee. Wer kümmert sich um das Geschenk?
+      A: Das mache ich. Ich schlage vor, wir kaufen einen Blumenstrauß und einen Gutschein für eine Buchhandlung.
+      B: Einverstanden. Dann bringe ich Kuchen und Getränke mit. Und wer lädt die anderen ein?
+      A: Ich schreibe heute Abend in unsere Gruppe.
+      B: Super, dann ist alles klar!
+
+test:
+  - type: choice
+    q: Ich freue mich schon ___ das Wochenende.
+    options: [auf, über, für]
+    answer: auf
+    why: Выходные ещё впереди → sich freuen auf + Akk.
+  - type: choice
+    q: Die Luftballons hängen schon ___ Wand.
+    options: [an der, an die, am]
+    answer: an der
+    why: "hängen = висеть (wo?) → Dativ: an der Wand."
+  - type: gap
+    q: Leg die Geschenke bitte auf ___ Tisch. (der)
+    answer: [den]
+    why: "legen → wohin? → Akkusativ: den Tisch."
+  - type: choice
+    q: Im Sommer ist es in Köln ___ als im Winter.
+    options: [wärmer, wärmster, mehr warm]
+    answer: wärmer
+    why: Komparativ + als.
+  - type: gap
+    q: Ich tanze gern, aber am ___ singe ich Karaoke. (gern)
+    answer: [liebsten]
+    why: gern → lieber → am liebsten.
+  - type: choice
+    q: Zur Hochzeit trägt Ben einen ___ Anzug.
+    options: [dunklen, dunkle, dunkler]
+    answer: dunklen
+    why: "Akk. m → -en; dunkel теряет e: dunklen."
+  - type: table
+    title: Adjektivendungen
+    head: [Nomen, Endung]
+    rows:
+      - [ein schön__ Fest (Nom.), "?es"]
+      - [mit einer nett__ Freundin, "?en"]
+      - [der neu__ Hut (Nom.), "?e"]
+      - [einen warm__ Schal, "?en"]
+  - type: gap
+    q: Wir treffen ___ um acht vor dem Dom.
+    answer: [uns]
+    why: wir → uns.
+  - type: order
+    answer: Ich kann nicht kommen, weil ich arbeiten muss.
+    tokens: ["Ich kann nicht kommen,", weil, ich, arbeiten, muss]
+    ru: Я не смогу прийти, потому что мне нужно работать.
+  - type: choice
+    q: Es regnet, ___ fällt das Open-Air-Kino aus.
+    options: [deshalb, weil, denn]
+    answer: deshalb
+    why: Глагол сразу после пропуска → deshalb.
+  - type: choice
+    q: In Köln sagt man „Karneval“. Wie heißt das Fest in Österreich?
+    ru: В Кёльне говорят «Karneval». Как этот праздник называется в Австрии?
+    options: [Fasching, Oktoberfest, Silvester]
+    answer: Fasching
+  - type: choice
+    q: Eine Wienerin sagt „heuer“. Was bedeutet das?
+    ru: Венка говорит «heuer». Что это значит?
+    options: [in diesem Jahr, heute, im Herbst]
+    answer: in diesem Jahr

@@ -51,7 +51,7 @@ async function go(pg, hash) {
 }
 
 test('Daten: build.py --check ist grün', () => {
-  const out = execFileSync('python3', [path.join(ROOT, 'build.py'), '--check'], { encoding: 'utf8' });
+  const out = execFileSync('python3', [path.join(ROOT, 'build.py'), '--check'].concat(process.env.DR_EXCLUDE ? ['--exclude', process.env.DR_EXCLUDE] : []), { encoding: 'utf8' });
   assert.match(out, /alles gültig/);
 });
 
@@ -62,6 +62,10 @@ test('Alle Bildschirme laden ohne Fehler und ohne horizontales Scrollen (390 px,
     await pg.waitForSelector('.tiles');
     const index = await pg.evaluate(() => DR.INDEX.units);
     const routes = ['/', '/karte', '/wortschatz', '/wortschatz-karten', '/wortschatz-eingabe', '/wortschatz-sprint', '/wortschatz-liste', '/grammatik', '/hoeren', '/lesen', '/schreiben', '/dialoge', '/sprechen', '/pruefung', '/pruefung/info', '/hausaufgaben', '/hausaufgaben/neu', '/hausaufgaben/auswerten', '/pass', '/einstellungen', '/quellen'];
+    for (const x of await pg.evaluate(() => DR.INDEX.tests || [])) {
+      routes.push('/pruefung/test/' + x.id);
+      for (const p of x.parts) routes.push(`/pruefung/test/${x.id}/${p.id}`);
+    }
     for (const u of index) {
       routes.push('/stadt/' + u.id);
       if (!u.ready) continue;

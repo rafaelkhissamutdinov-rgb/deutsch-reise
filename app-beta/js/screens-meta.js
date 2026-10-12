@@ -81,15 +81,6 @@
       h('p', 'Die App speichert den Lernfortschritt nur lokal im Browser (localStorage). Es gibt keinen Server, kein Tracking, keine Cookies.')));
   });
 
-  R.add('/pruefung', function (el) {
-    el.appendChild(h('div', DR.ui.hero('graduation', 'Goethe · ÖSD · ÖIF', t('s_pruef'))));
-    el.appendChild(h('div.card', DR.ui.empty(t('pruef_soon'), 'hourglass')));
-    el.appendChild(h('div.list', DR.ui.item({ href: '#/pruefung/info', emoji: 'book', c: DR.section('pruef').c, title: 'Wie ist die Prüfung aufgebaut?', sub: 'Как устроен экзамен' })));
-    el.appendChild(h('h2', t('mini_test')));
-    var list = h('div.list'), st = DR.store.get();
-    DR.readyUnits().forEach(function (u) { list.appendChild(DR.ui.item({ href: '#/stadt/' + u.id + '/test', emoji: u.emoji, c: DR.ui.levelColor(u.level), title: u.city, level: u.level, sub: u.title, done: !!st.done['test:' + u.id] })); });
-    el.appendChild(list);
-  });
   R.add('/pruefung/info', function (el) {
     el.appendChild(h('div', DR.ui.hero('graduation', 'Как устроен экзамен', 'Prüfungsaufbau')));
     el.appendChild(h('div.card.prose',

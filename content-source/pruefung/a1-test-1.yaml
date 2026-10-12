@@ -1,0 +1,497 @@
+id: a1-test-1
+level: A1
+exam: Goethe-Zertifikat A1 (Format)
+title: Modelltest A1 · 1
+title_ru: Пробный тест A1 · 1
+intro_ru: |
+  Тест построен по формату экзамена Goethe-Zertifikat A1 (Start Deutsch 1): Hören, Lesen, Schreiben, Sprechen.
+  Все тексты написаны специально для приложения. Часть Hören и Lesen проверяется автоматически, Schreiben и Sprechen
+  вы оцениваете сами по чек-листу (или вместе с учителем). Старайтесь уложиться во время, как на настоящем экзамене.
+parts:
+  - id: hoeren
+    skill: Hören
+    minutes: 20
+    instructions: |
+      Dieser Teil hat drei Teile. Sie hören Gespräche, Durchsagen und Nachrichten. Lesen Sie zuerst die Aufgaben.
+      Kreuzen Sie die richtige Lösung an.
+    instructions_ru: |
+      В этой части три задания: диалоги, объявления и сообщения на автоответчике. Сначала прочитайте вопросы,
+      затем слушайте и выберите правильный ответ.
+    sections:
+      - title: Teil 1
+        task: "Sie hören sechs kurze Gespräche. Sie hören jedes Gespräch zweimal. Kreuzen Sie an: a, b oder c."
+        task_ru: Вы услышите шесть коротких диалогов, каждый дважды. Выберите a, b или c.
+        voice: de-DE
+        play: 2
+        blocks:
+          - lines:
+              - s: A
+                t: "Guten Morgen! Was darf es sein?"
+              - s: B
+                t: "Vier Brötchen und ein Brot, bitte."
+              - s: A
+                t: "Gerne. Möchten Sie auch Kuchen? Der ist heute ganz frisch."
+              - s: B
+                t: "Nein, danke. Das ist alles."
+            items:
+              - type: choice
+                q: Was kauft der Kunde?
+                ru: Что покупает покупатель?
+                options: [Brötchen und Brot, Brötchen und Kuchen, Brot und Kuchen]
+                answer: Brötchen und Brot
+          - lines:
+              - s: A
+                t: "Entschuldigung, wie spät ist es?"
+              - s: B
+                t: "Es ist Viertel nach acht."
+              - s: A
+                t: "Oh, dann muss ich schnell gehen. Mein Bus fährt um halb neun."
+              - s: B
+                t: "Dann haben Sie noch fünfzehn Minuten Zeit."
+            items:
+              - type: choice
+                q: Wann fährt der Bus?
+                ru: Когда отправляется автобус?
+                options: [um Viertel nach acht, um halb neun, um Viertel vor neun]
+                answer: um halb neun
+          - lines:
+              - s: A
+                t: "Entschuldigung, was kostet das T-Shirt?"
+              - s: B
+                t: "Das gelbe kostet zwölf Euro, das blaue vierzehn Euro."
+              - s: A
+                t: "Ich nehme das blaue, bitte."
+              - s: B
+                t: "Gern. Bezahlen Sie bitte an der Kasse."
+            items:
+              - type: choice
+                q: Wie viel bezahlt die Kundin?
+                ru: Сколько платит покупательница?
+                options: [12 Euro, 14 Euro, 40 Euro]
+                answer: 14 Euro
+          - lines:
+              - s: A
+                t: "Hast du Geschwister, Mia?"
+              - s: B
+                t: "Ja, ich habe einen Bruder und eine Schwester."
+              - s: A
+                t: "Wie alt sind sie?"
+              - s: B
+                t: "Mein Bruder ist zwölf und meine Schwester ist acht."
+            items:
+              - type: choice
+                q: Welche Geschwister hat Mia?
+                ru: Какие братья и сёстры у Мии?
+                options: [nur einen Bruder, einen Bruder und eine Schwester, zwei Brüder]
+                answer: einen Bruder und eine Schwester
+          - lines:
+              - s: A
+                t: "Praxis Dr. Berger, guten Tag."
+              - s: B
+                t: "Guten Tag, mein Name ist Kowalski. Ich brauche einen Termin."
+              - s: A
+                t: "Geht es am Dienstag um zehn Uhr?"
+              - s: B
+                t: "Nein, am Dienstag arbeite ich. Am Mittwoch habe ich Zeit."
+              - s: A
+                t: "Gut, dann am Mittwoch um zehn Uhr."
+            items:
+              - type: choice
+                q: Wann hat Herr Kowalski den Termin?
+                ru: Когда у господина Ковальского приём?
+                options: [am Dienstag um 10 Uhr, am Mittwoch um 10 Uhr, am Donnerstag um 10 Uhr]
+                answer: am Mittwoch um 10 Uhr
+          - lines:
+              - s: A
+                t: "Was machst du am Wochenende, Tarek?"
+              - s: B
+                t: "Am Samstag spiele ich Fußball. Am Sonntag besuche ich meine Oma."
+              - s: A
+                t: "Und am Samstagabend?"
+              - s: B
+                t: "Da gehe ich mit Freunden ins Kino."
+            items:
+              - type: choice
+                q: Was macht Tarek am Sonntag?
+                ru: Что Тарек делает в воскресенье?
+                options: [Er spielt Fußball., Er besucht seine Oma., Er geht ins Kino.]
+                answer: Er besucht seine Oma.
+      - title: Teil 2
+        task: Sie hören vier Durchsagen. Sie hören jede Durchsage einmal. Sind die Aussagen richtig oder falsch?
+        task_ru: Вы услышите четыре объявления, каждое один раз. Верны ли утверждения?
+        voice: de-DE
+        play: 1
+        blocks:
+          - lines:
+              - s: A
+                t: "Achtung am Bahnsteig! Der Railjet nach Graz fährt heute nicht von Gleis vier, sondern von Gleis sieben. Abfahrt ist um fünfzehn Uhr zehn. Vielen Dank."
+            items:
+              - type: tf
+                q: Der Zug nach Graz fährt von Gleis 4 ab.
+                ru: Поезд на Грац отправляется с пути 4.
+                answer: false
+          - lines:
+              - s: A
+                t: "Liebe Kunden, heute haben wir frische Erdbeeren im Angebot. Ein Kilo kostet nur drei Euro neunzig. Das Angebot gilt bis achtzehn Uhr."
+            items:
+              - type: tf
+                q: Heute sind die Erdbeeren billiger.
+                ru: Сегодня клубника дешевле обычного.
+                answer: true
+          - lines:
+              - s: A
+                t: "Achtung, bitte! Passagiere des Fluges vier-sieben-zwei-eins nach München, bitte kommen Sie jetzt zum Ausgang B zwölf. Der Flug ist bereit zum Einsteigen."
+            items:
+              - type: tf
+                q: Der Flug geht nach Frankfurt.
+                ru: Рейс летит во Франкфурт.
+                answer: false
+          - lines:
+              - s: A
+                t: "Liebe Gäste, das Schwimmbad schließt in fünf Minuten. Bitte gehen Sie jetzt zu den Umkleidekabinen. Morgen sind wir ab acht Uhr wieder für Sie da."
+            items:
+              - type: tf
+                q: Das Schwimmbad macht morgen um 8 Uhr auf.
+                ru: Бассейн завтра открывается в 8 часов.
+                answer: true
+      - title: Teil 3
+        task: "Sie hören fünf Nachrichten auf dem Anrufbeantworter. Sie hören jede Nachricht zweimal. Kreuzen Sie an: a, b oder c."
+        task_ru: Вы услышите пять сообщений на автоответчике, каждое дважды. Выберите a, b или c.
+        voice: de-DE
+        play: 2
+        blocks:
+          - lines:
+              - s: A
+                t: "Hier ist der Friseursalon Haarscharf. Frau Weber, Ihr Termin morgen um neun Uhr geht leider nicht. Bitte rufen Sie uns an. Wir sind bis achtzehn Uhr da. Auf Wiederhören."
+            items:
+              - type: choice
+                q: Was soll Frau Weber tun?
+                ru: Что должна сделать госпожа Вебер?
+                options: [morgen um 9 Uhr kommen, den Friseursalon anrufen, eine E-Mail schreiben]
+                answer: den Friseursalon anrufen
+          - lines:
+              - s: A
+                t: "Hallo Paul, hier ist Lena. Wir gehen heute Abend ins Kino. Der Film beginnt um halb acht. Ich warte vor dem Kino auf dich. Bis später!"
+            items:
+              - type: choice
+                q: Wo wartet Lena auf Paul?
+                ru: Где Лена ждёт Пауля?
+                options: [vor dem Kino, zu Hause, am Bahnhof]
+                answer: vor dem Kino
+          - lines:
+              - s: A
+                t: "Guten Tag, Frau Yilmaz, hier ist Kraus, der Hausmeister. Morgen von acht bis zwölf Uhr gibt es im Haus kein Wasser. Bitte füllen Sie heute Wasser in Flaschen. Danke!"
+            items:
+              - type: choice
+                q: Was gibt es morgen Vormittag nicht?
+                ru: Чего завтра утром не будет?
+                options: [Strom, Wasser, Heizung]
+                answer: Wasser
+          - lines:
+              - s: A
+                t: "Restaurant Zum Löwen, guten Tag. Ihre Reservierung für Samstag um neunzehn Uhr ist bestätigt. Wir haben einen Tisch am Fenster für vier Personen. Bis Samstag!"
+            items:
+              - type: choice
+                q: Für wie viele Personen ist der Tisch?
+                ru: На сколько человек столик?
+                options: [für zwei Personen, für vier Personen, für sechs Personen]
+                answer: für vier Personen
+          - lines:
+              - s: A
+                t: "Guten Tag, hier ist die Sprachschule Lingua. Der Deutschkurs am Montag beginnt nicht um achtzehn Uhr, sondern erst um neunzehn Uhr. Der Raum ist die Nummer 204 im zweiten Stock. Bis Montag!"
+            items:
+              - type: choice
+                q: Wann beginnt der Kurs am Montag?
+                ru: Когда начинается курс в понедельник?
+                options: [um 18 Uhr, um 19 Uhr, um 20 Uhr]
+                answer: um 19 Uhr
+  - id: lesen
+    skill: Lesen
+    minutes: 25
+    instructions: |
+      Dieser Teil hat drei Teile. Lesen Sie die Texte und die Aufgaben. Kreuzen Sie die richtige Lösung an.
+    instructions_ru: |
+      В этой части три задания. Прочитайте тексты и задания, затем отметьте правильный ответ.
+    sections:
+      - title: Teil 1
+        task: Lesen Sie die Texte. Sind die Aussagen richtig oder falsch?
+        task_ru: Прочитайте тексты. Верны ли утверждения?
+        blocks:
+          - text: |
+              Liebe Anna,
+
+              vielen Dank für deine Einladung. Ich komme gern zu deiner Party am Samstag. Leider kann ich erst um 20 Uhr kommen, denn ich arbeite bis 19 Uhr. Ich bringe einen Salat und Getränke mit. Mein Bruder Tom ist zu Besuch aus Linz. Darf er auch mitkommen?
+
+              Viele Grüße
+              Daniel
+            items:
+              - type: tf
+                q: Daniel kommt zur Party.
+                ru: Даниэль придёт на вечеринку.
+                answer: true
+              - type: tf
+                q: Daniel arbeitet am Samstag bis 20 Uhr.
+                ru: В субботу Даниэль работает до 20 часов.
+                answer: false
+              - type: tf
+                q: Daniel bringt Kuchen mit.
+                ru: Даниэль принесёт торт.
+                answer: false
+          - text: |
+              Hallo Mama,
+
+              ich bin noch in der Schule. Wir haben heute länger Unterricht. Ich komme erst um vier Uhr nach Hause. Kannst du bitte Brot und Milch kaufen? Danke!
+
+              Kuss
+              Lea
+            items:
+              - type: tf
+                q: Lea ist schon zu Hause.
+                ru: Леа уже дома.
+                answer: false
+              - type: tf
+                q: Lea möchte, dass ihre Mutter Brot und Milch kauft.
+                ru: Леа хочет, чтобы мама купила хлеб и молоко.
+                answer: true
+      - title: Teil 2
+        task: "Wo finden Sie die Informationen? Lesen Sie die Situationen und die Anzeigen. Kreuzen Sie an: a oder b."
+        task_ru: Где вы найдёте информацию? Прочитайте ситуации и объявления. Выберите a или b.
+        blocks:
+          - text: Sie möchten wissen, wie das Wetter am Wochenende in Wien wird.
+            items:
+              - type: choice
+                q: Wo finden Sie die Information?
+                ru: Где вы найдёте информацию? (Вы хотите узнать, какая погода будет в Вене на выходных.)
+                options:
+                  - "a) www.wetter-wien.at – Wetter für heute, morgen und das Wochenende"
+                  - "b) www.zugreise-online.de – Fahrpläne und Tickets für ganz Europa"
+                answer: "a) www.wetter-wien.at – Wetter für heute, morgen und das Wochenende"
+          - text: Sie suchen eine Wohnung in Graz. Sie haben zwei Kinder.
+            items:
+              - type: choice
+                q: Wo finden Sie die Information?
+                ru: Где вы найдёте информацию? (Вы ищете квартиру в Граце, у вас двое детей.)
+                options:
+                  - "a) www.reisefreunde.de – Hotels und Ferienwohnungen am Meer"
+                  - "b) www.wohnen-graz.at – Wohnungen zu mieten, auch 3 und 4 Zimmer"
+                answer: "b) www.wohnen-graz.at – Wohnungen zu mieten, auch 3 und 4 Zimmer"
+          - text: Sie möchten abends Deutsch lernen. Sie sind Anfänger.
+            items:
+              - type: choice
+                q: Wo finden Sie die Information?
+                ru: Где вы найдёте информацию? (Вы хотите учить немецкий по вечерам, вы начинающий.)
+                options:
+                  - "a) Tanzschule Rhythmus – Salsa und Walzer für alle, jeden Freitag"
+                  - "b) Sprachschule Lingua – Deutschkurse für Anfänger, abends und samstags"
+                answer: "b) Sprachschule Lingua – Deutschkurse für Anfänger, abends und samstags"
+          - text: Sie haben Zahnschmerzen und brauchen einen Arzt.
+            items:
+              - type: choice
+                q: Wo finden Sie die Information?
+                ru: Где вы найдёте информацию? (У вас болит зуб, нужен врач.)
+                options:
+                  - "a) Fitnessstudio Aktiv – Training für Anfänger, Montag bis Samstag"
+                  - "b) Zahnarztpraxis Dr. Huber – Montag bis Freitag, 8 bis 16 Uhr"
+                answer: "b) Zahnarztpraxis Dr. Huber – Montag bis Freitag, 8 bis 16 Uhr"
+          - text: Sie möchten mit dem Zug von Wien nach Salzburg fahren. Wann fährt der nächste Zug?
+            items:
+              - type: choice
+                q: Wo finden Sie die Information?
+                ru: Где вы найдёте информацию? (Вы хотите поехать на поезде из Вены в Зальцбург; когда следующий поезд?)
+                options:
+                  - "a) www.oebb.at – Fahrpläne, Tickets und Verspätungen"
+                  - "b) www.kino-info.at – Filme und Kinoprogramm in Österreich"
+                answer: "a) www.oebb.at – Fahrpläne, Tickets und Verspätungen"
+      - title: Teil 3
+        task: Lesen Sie die Schilder und Anzeigen. Sind die Aussagen richtig oder falsch?
+        task_ru: Прочитайте таблички и объявления. Верны ли утверждения?
+        blocks:
+          - text: |
+              BÄCKEREI SONNENSCHEIN
+              Montag bis Freitag: 6.30–18.00 Uhr
+              Samstag: 6.30–12.00 Uhr
+              Sonntag: geschlossen
+            items:
+              - type: tf
+                q: Die Bäckerei ist am Sonntag geöffnet.
+                ru: Булочная открыта в воскресенье.
+                answer: false
+          - text: |
+              ACHTUNG!
+              Der Aufzug ist heute kaputt.
+              Bitte benutzen Sie die Treppe.
+            items:
+              - type: tf
+                q: Man kann heute nicht mit dem Aufzug fahren.
+                ru: Сегодня на лифте ехать нельзя.
+                answer: true
+          - text: |
+              PENSION AM SEE
+              Frühstück: täglich von 7 bis 10 Uhr im Erdgeschoss
+              Kaffee und Tee sind gratis.
+            items:
+              - type: tf
+                q: Das Frühstück gibt es nur bis 9 Uhr.
+                ru: Завтрак подают только до 9 часов.
+                answer: false
+          - text: |
+              STADTPARK
+              Hunde bitte an die Leine!
+              Keine laute Musik nach 22 Uhr.
+            items:
+              - type: tf
+                q: Hunde müssen im Park an der Leine sein.
+                ru: В парке собаки должны быть на поводке.
+                answer: true
+          - text: |
+              STADTBIBLIOTHEK
+              Bücher bitte nach drei Wochen zurückbringen.
+              Sie können die Bücher auch online verlängern.
+            items:
+              - type: tf
+                q: Man muss die Bücher nach einer Woche zurückbringen.
+                ru: Книги нужно вернуть через неделю.
+                answer: false
+  - id: schreiben
+    skill: Schreiben
+    minutes: 20
+    instructions: |
+      Dieser Teil hat zwei Teile. Schreiben Sie in vollständigen Sätzen. Achten Sie auf Anrede und Gruß.
+    instructions_ru: |
+      В этой части два задания. Пишите законченными предложениями, не забудьте обращение и прощание.
+      Оценка (всего 25 баллов): Teil 1 — 10 баллов (по 2 за каждое верно заполненное поле);
+      Teil 2 — 15 баллов (по 3 за каждый из трёх пунктов + до 6 баллов за связность, порядок слов и орфографию).
+    writing:
+      - id: a1t1-sch-1
+        exam: Goethe A1 · Schreiben Teil 1
+        kind: Formular
+        task: |
+          Elena Petrova möchte in Wien einen Deutschkurs machen. Sie schreibt an die Sprachschule:
+          „Ich bin 27 Jahre alt und komme aus Odessa in der Ukraine. Ich wohne in Wien, Mariahilfer Straße 45.
+          Ich bin Krankenschwester. Meine Handynummer ist 0664 555 12 34. Ich möchte am Abend lernen.“
+          Füllen Sie das Formular aus.
+
+          Formular Sprachschule Lingua
+          Name: Elena Petrova
+          Alter: ______
+          Heimatland: ______
+          Straße und Hausnummer: ______
+          Beruf: ______
+          Handynummer: ______
+        task_ru: |
+          Елена Петрова хочет пройти курс немецкого в Вене и пишет в языковую школу (см. текст). Заполните форму:
+          возраст, страна, улица и номер дома, профессия, номер мобильного.
+        points:
+          - Alter
+          - Heimatland
+          - Straße und Hausnummer
+          - Beruf
+          - Handynummer
+        words: [5, 15]
+        structure:
+          - В каждое поле — только нужные данные (одно слово или короткая фраза), полные предложения не нужны.
+        redemittel:
+          - de: Ich bin … Jahre alt.
+            ru: Мне … лет.
+          - de: Ich komme aus …
+            ru: Я из …
+          - de: Ich bin … von Beruf.
+            ru: По профессии я …
+        model: |
+          Alter: 27
+          Heimatland: Ukraine
+          Straße und Hausnummer: Mariahilfer Straße 45
+          Beruf: Krankenschwester
+          Handynummer: 0664 555 12 34
+        checklist:
+          - Все 5 полей заполнены данными из текста?
+          - Цифры (возраст, номер дома, телефон) списаны без ошибок?
+          - Страна указана (Ukraine), а не город (Odessa)?
+          - Названия написаны с заглавной буквы, где нужно (Ukraine, Mariahilfer Straße)?
+      - id: a1t1-sch-2
+        exam: Goethe A1 · Schreiben Teil 2
+        kind: E-Mail
+        task: |
+          Ihre Freundin Sophie hat Geburtstag und lädt Sie am Samstag zu einer Party ein.
+          Schreiben Sie eine E-Mail an Sophie (ca. 30 Wörter).
+          Schreiben Sie zu allen drei Punkten.
+        task_ru: |
+          У вашей подруги Софи день рождения, она приглашает вас на вечеринку в субботу.
+          Напишите ей письмо (около 30 слов). Раскройте все три пункта.
+        points:
+          - Bedanken Sie sich für die Einladung.
+          - Sagen Sie, wann Sie kommen.
+          - "Fragen Sie: Was soll ich mitbringen?"
+        words: [25, 40]
+        structure:
+          - Обращение (Liebe Sophie,)
+          - Благодарность за приглашение
+          - Время прихода
+          - Вопрос, что принести
+          - Прощание и имя (Viele Grüße / Bis Samstag! + имя)
+        redemittel:
+          - de: Vielen Dank für die Einladung.
+            ru: Большое спасибо за приглашение.
+          - de: Ich komme um … Uhr.
+            ru: Я приду в … часов.
+          - de: Was soll ich mitbringen?
+            ru: Что мне принести?
+          - de: Viele Grüße
+            ru: С наилучшими пожеланиями
+        model: |
+          Liebe Sophie,
+
+          vielen Dank für die Einladung. Ich komme gern zu deiner Party. Ich komme um 19 Uhr zu dir. Was soll ich mitbringen? Soll ich einen Kuchen machen?
+
+          Bis Samstag!
+          Deine Katja
+        checklist:
+          - Есть обращение и прощание?
+          - Раскрыты все три пункта?
+          - Глагол стоит на втором месте в простых предложениях (Ich komme gern…)?
+          - Существительные написаны с заглавной буквы?
+          - Объём примерно 30 слов?
+    max_points: 25
+  - id: sprechen
+    skill: Sprechen
+    minutes: 15
+    instructions: |
+      Dieser Teil hat drei Teile. Sprechen Sie in ganzen Sätzen. Sie können sich Notizen machen.
+    instructions_ru: |
+      В этой части три задания. Говорите законченными предложениями. Оценка (всего 25 баллов): Teil 1 — 8,
+      Teil 2 — 9, Teil 3 — 8 (содержание, понятность, грамматика, произношение).
+    speaking:
+      - id: a1t1-sp-1
+        exam: Goethe A1 · Sprechen Teil 1
+        task: Sich vorstellen
+        task_ru: Представьтесь и расскажите о себе (ориентируйтесь на подсказки).
+        prompts: ["Name?", "Alter?", "Land?", "Wohnort?", "Sprachen?", "Beruf?", "Hobby?"]
+        model: |
+          Ich heiße Irina Sokolova. Ich bin 29 Jahre alt und komme aus Russland. Jetzt wohne ich in Wien.
+          Ich spreche Russisch, ein bisschen Englisch und Deutsch. Ich bin Köchin von Beruf.
+          Mein Hobby ist Schwimmen.
+      - id: a1t1-sp-2
+        exam: Goethe A1 · Sprechen Teil 2
+        task: "Thema: Essen und Trinken. Stellen Sie Fragen zu den Wortkarten und antworten Sie."
+        task_ru: Тема «Еда и напитки». Задайте партнёру вопрос по каждой карточке и ответьте на его вопросы.
+        prompts: [Frühstück, Lieblingsessen, Kaffee oder Tee, Restaurant, Obst, Wasser]
+        model: |
+          Frühstück — Was isst du zum Frühstück? ~ Ich esse Brot mit Käse und trinke Tee.
+          Lieblingsessen — Was ist dein Lieblingsessen? ~ Mein Lieblingsessen ist Pizza.
+          Kaffee oder Tee — Trinkst du lieber Kaffee oder Tee? ~ Ich trinke lieber Kaffee.
+          Restaurant — Gehst du oft ins Restaurant? ~ Nein, nur am Wochenende.
+          Obst — Magst du Obst? ~ Ja, ich esse gern Äpfel und Bananen.
+          Wasser — Trinkst du viel Wasser? ~ Ja, ich trinke jeden Tag zwei Liter.
+      - id: a1t1-sp-3
+        exam: Goethe A1 · Sprechen Teil 3
+        task: Bitten formulieren. Sie sehen ein Wort auf der Karte. Bitten Sie Ihren Partner um etwas.
+        task_ru: На каждой карточке слово. Сформулируйте вежливую просьбу к партнёру.
+        prompts: [Fenster (öffnen), Stift, Salz, Wasser, langsam sprechen, Tür (schließen)]
+        model: |
+          Fenster — Können Sie bitte das Fenster öffnen?
+          Stift — Kannst du mir bitte einen Stift geben?
+          Salz — Können Sie mir bitte das Salz geben?
+          Wasser — Kann ich bitte ein Glas Wasser haben?
+          langsam sprechen — Können Sie bitte langsamer sprechen?
+          Tür schließen — Können Sie bitte die Tür zumachen?
+    max_points: 25

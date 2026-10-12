@@ -356,6 +356,49 @@ def check_unit(u, path, ids):
         check_ex(ex, f'{where} test[{k}]')
 
 
+SKILLS = {'hoeren': 'Hören', 'lesen': 'Lesen', 'schreiben': 'Schreiben', 'sprechen': 'Sprechen'}
+
+
+def check_test(tst, path, ids):
+    where = os.path.relpath(path, ROOT)
+    req(tst, ('id', 'level', 'exam', 'title', 'parts'), where)
+    if tst.get('id') != os.path.basename(path)[:-5]:
+        err(where, 'id passt nicht zum Dateinamen')
+    if tst.get('id') in ids:
+        err(where, f'doppelte id {tst.get("id")}')
+    ids[tst.get('id')] = where
+    if tst.get('level') not in LEVELS:
+        err(where, 'Niveau ungültig')
+    for part in tst.get('parts') or []:
+        w = f'{where} {part.get("id")}'
+        if part.get('id') not in SKILLS:
+            err(w, 'Teil-id muss hoeren/lesen/schreiben/sprechen sein')
+            continue
+        req(part, ('minutes', 'instructions'), w)
+        if part['id'] in ('hoeren', 'lesen'):
+            n = 0
+            for si, sec in enumerate(part.get('sections') or []):
+                for bi, b in enumerate(sec.get('blocks') or []):
+                    if part['id'] == 'hoeren' and not b.get('lines'):
+                        err(f'{w} Teil {si + 1} Block {bi + 1}', 'Hören-Block ohne lines')
+                    for ln in b.get('lines') or []:
+                        ln['s'] = str(ln.get('s', 'A'))
+                    for k, ex in enumerate(b.get('items') or []):
+                        check_ex(ex, f'{w} Teil {si + 1} Block {bi + 1} [{k}]', need_ru=True)
+                        n += 1
+            if not n:
+                err(w, 'keine Aufgaben')
+            part['n'] = n
+        elif part['id'] == 'schreiben':
+            for x in part.get('writing') or []:
+                req(x, ('task', 'points', 'model'), f'{w} {x.get("id")}')
+            part['n'] = part.get('max_points', 0)
+        else:
+            for x in part.get('speaking') or []:
+                req(x, ('task',), f'{w} {x.get("id")}')
+            part['n'] = part.get('max_points', 0)
+
+
 def build(only=None, write=True):
     ids = {}
     units = {}
@@ -397,10 +440,31 @@ def build(only=None, write=True):
             if k in seen_words:
                 err(f'content-source/vocab/{uid_}.txt', f'Wort „{e["de"]}“ steht schon in {seen_words[k]}')
             seen_words[k] = uid_
+    tests = {}
+    if not only:
+        for path in sorted(glob.glob(os.path.join(SRC, 'pruefung', '*.yaml'))):
+            if any(os.path.basename(path).startswith(x) for x in EXCLUDE):
+                continue
+            try:
+                with open(path, encoding='utf-8') as f:
+                    tst = yaml.safe_load(f)
+            except yaml.YAMLError as e:
+                err(os.path.relpath(path, ROOT), f'YAML-Fehler: {e}')
+                continue
+            check_test(tst or {}, path, ids)
+            tests[os.path.basename(path)[:-5]] = tst
     if errors:
         return units
     if not write:
         return units
+    for f in glob.glob(os.path.join(DATA, 'pruefung-*.js')):
+        os.remove(f)
+    test_index = []
+    for tid, tst in tests.items():
+        with open(os.path.join(DATA, f'pruefung-{tid}.js'), 'w', encoding='utf-8') as f:
+            f.write(f'DR.extra[{json.dumps("pruefung-" + tid)}] = ' + json.dumps(tst, ensure_ascii=False, separators=(',', ':')) + ';\n')
+        test_index.append({'id': tid, 'level': tst['level'], 'exam': tst['exam'], 'title': tst['title'], 'title_ru': tst.get('title_ru', ''),
+                           'parts': [{'id': p['id'], 'skill': SKILLS[p['id']], 'minutes': p.get('minutes'), 'n': p.get('n', 0)} for p in tst['parts']]})
     os.makedirs(DATA, exist_ok=True)
     for f in glob.glob(os.path.join(DATA, 'unit-*.js')):
         os.remove(f)
@@ -426,7 +490,7 @@ def build(only=None, write=True):
         return units
     stamp = time.strftime('%Y%m%d%H%M%S')
     with open(os.path.join(DATA, 'index.js'), 'w', encoding='utf-8') as f:
-        f.write('DR.INDEX = ' + json.dumps({'build': stamp, 'units': index}, ensure_ascii=False, separators=(',', ':')) + ';\n')
+        f.write('DR.INDEX = ' + json.dumps({'build': stamp, 'units': index, 'tests': test_index}, ensure_ascii=False, separators=(',', ':')) + ';\n')
     bump_sw()
     return units
 
