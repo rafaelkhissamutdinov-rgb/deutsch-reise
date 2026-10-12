@@ -1,0 +1,234 @@
+# Словарь юнита a2-heidelberg — Lernen & Gesundheit (A2)
+
+## Schule & Ausbildung
+N die Grundschule | Grundschulen | начальная школа | Meine Tochter geht in die Grundschule. | Моя дочь ходит в начальную школу. | AT: die Volksschule, Volksschulen
+N das Gymnasium | Gymnasien | гимназия (школа, после которой можно поступать в вуз) | Mein Sohn besucht ein Gymnasium in Heidelberg. | Мой сын учится в гимназии в Гейдельберге. | note: в Австрии гимназия относится к AHS (allgemeinbildende höhere Schule)
+N die Klasse | Klassen | класс | Lena ist in der achten Klasse. | Лена в восьмом классе.
+N der Klassenlehrer | Klassenlehrer | классный руководитель | Unser Klassenlehrer heißt Herr Brandt. | Нашего классного руководителя зовут господин Брандт. | AT: der Klassenvorstand, Klassenvorstände
+N das Fach | Fächer | школьный предмет | Welches Fach hast du am liebsten? | Какой предмет тебе нравится больше всего?
+N das Lieblingsfach | Lieblingsfächer | любимый предмет | Mein Lieblingsfach war Mathematik. | Моим любимым предметом была математика.
+N der Stundenplan | Stundenpläne | расписание уроков | Am Montag steht Sport auf dem Stundenplan. | В понедельник по расписанию физкультура.
+N der Unterricht | Sg. | занятия, уроки | Der Unterricht beginnt um acht Uhr. | Занятия начинаются в восемь.
+N die Hausaufgabe | Hausaufgaben | домашнее задание | Hast du deine Hausaufgaben schon gemacht? | Ты уже сделал домашнее задание? | AT: die Hausübung, Hausübungen
+N die Tafel | Tafeln | (школьная) доска | Die Lehrerin schreibt das Wort an die Tafel. | Учительница пишет слово на доске.
+N die Note | Noten | оценка | In Mathe hat er eine gute Note bekommen. | По математике он получил хорошую оценку. | note: в Германии 1 — лучшая оценка, 6 — худшая; в Австрии шкала от 1 (Sehr gut) до 5 (Nicht genügend)
+N das Zeugnis | Zeugnisse | табель; аттестат; свидетельство | Im Juli bekommen die Kinder ihr Zeugnis. | В июле дети получают табель.
+N die Klassenarbeit | Klassenarbeiten | контрольная работа (в школе) | Morgen schreiben wir eine Klassenarbeit in Deutsch. | Завтра у нас контрольная по немецкому. | AT: die Schularbeit, Schularbeiten
+N der Elternabend | Elternabende | родительское собрание | Am Donnerstag ist Elternabend. | В четверг родительское собрание.
+N die Ausbildung | Ausbildungen | профессиональное обучение | Er macht eine Ausbildung als Elektriker. | Он учится на электрика. | AT: die Lehre, Lehren | note: в Австрии говорят и Ausbildung; Lehre — обучение рабочей профессии на предприятии
+N die Berufsschule | Berufsschulen | профессиональное училище (теоретическая часть обучения) | Zwei Tage pro Woche geht er in die Berufsschule. | Два дня в неделю он ходит в профучилище.
+N der Abschluss | Abschlüsse | окончание учёбы; диплом, аттестат | Nach dem Abschluss möchte ich studieren. | После окончания школы я хочу учиться в университете.
+
+## Studium & Kurs
+N die Universität | Universitäten | университет | Die Universität Heidelberg ist sehr alt. | Гейдельбергский университет очень старый. | note: разговорно — die Uni
+N das Studium | Studien | учёба в вузе | Das Studium dauert drei Jahre. | Учёба длится три года.
+N das Semester | Semester | семестр | Im ersten Semester habe ich viel gelernt. | В первом семестре я многому научился.
+N die Vorlesung | Vorlesungen | лекция | Die Vorlesung beginnt um Viertel nach zehn. | Лекция начинается в четверть одиннадцатого. | note: в австрийских вузах любое занятие часто называют die Lehrveranstaltung (LV)
+N das Seminar | Seminare | семинар | Im Seminar diskutieren wir viel. | На семинаре мы много дискутируем.
+N der Hörsaal | Hörsäle | аудитория (лекционный зал) | Der Hörsaal ist heute ganz voll. | Сегодня аудитория совсем полная.
+N die Mensa | Mensen | студенческая столовая | Mittags essen wir in der Mensa. | В обед мы едим в столовой.
+N die Bibliothek | Bibliotheken | библиотека | Ich lerne am liebsten in der Bibliothek. | Больше всего мне нравится заниматься в библиотеке.
+N der Studienplatz | Studienplätze | место в университете | Sie hat einen Studienplatz in Heidelberg bekommen. | Она получила место в университете в Гейдельберге.
+N der Sprachkurs | Sprachkurse | языковые курсы | Ich mache einen Sprachkurs an der Volkshochschule. | Я хожу на языковые курсы в народный университет.
+N die Volkshochschule | Volkshochschulen | народный университет (курсы для взрослых) | Die Volkshochschule bietet viele Kurse an. | Народный университет предлагает много курсов. | note: сокращение VHS; в Австрии тоже есть VHS
+N der Kursleiter | Kursleiter | преподаватель курса | Unser Kursleiter erklärt alles sehr gut. | Наш преподаватель всё очень хорошо объясняет.
+N die Kursleiterin | Kursleiterinnen | преподавательница курса | Die Kursleiterin heißt Frau Neumann. | Преподавательницу зовут госпожа Нойман.
+N der Teilnehmer | Teilnehmer | участник | Der Kurs hat zwölf Teilnehmer. | В курсе двенадцать участников.
+N die Teilnehmerin | Teilnehmerinnen | участница | Jede Teilnehmerin bekommt ein Kursbuch. | Каждая участница получает учебник.
+N die Anmeldung | Anmeldungen | запись, регистрация | Die Anmeldung ist bis zum 15. September möglich. | Записаться можно до 15 сентября.
+N die Gebühr | Gebühren | плата, взнос | Die Gebühr für den Kurs beträgt 180 Euro. | Плата за курс составляет 180 евро.
+N das Niveau | Niveaus | уровень | Auf welchem Niveau sind Sie? | Какой у вас уровень?
+N der Einstufungstest | Einstufungstests | тест на определение уровня | Vor dem Kurs machen alle einen Einstufungstest. | Перед курсом все пишут тест на определение уровня.
+N das Lehrbuch | Lehrbücher | учебник | Das Lehrbuch kostet 25 Euro. | Учебник стоит 25 евро.
+N das Wörterbuch | Wörterbücher | словарь | Im Wörterbuch finde ich das Wort nicht. | В словаре я не нахожу это слово.
+
+## Lernen & Prüfung
+N die Prüfung | Prüfungen | экзамен | Im Juni habe ich eine wichtige Prüfung. | В июне у меня важный экзамен.
+N die Prüfungsangst | Sg. | страх перед экзаменом | Viele Studenten haben Prüfungsangst. | У многих студентов страх перед экзаменами.
+N der Test | Tests | тест | Der Test war leichter als gedacht. | Тест оказался легче, чем я думал.
+N die Aufgabe | Aufgaben | задание | Lesen Sie die Aufgabe genau. | Внимательно прочитайте задание.
+N die Lösung | Lösungen | решение; ответ | Die Lösungen stehen hinten im Buch. | Ответы — в конце книги.
+N der Fehler | Fehler | ошибка | Im Test habe ich nur zwei Fehler gemacht. | В тесте я сделал всего две ошибки.
+N die Übung | Übungen | упражнение | Diese Übung ist ziemlich schwer. | Это упражнение довольно трудное.
+N die Wiederholung | Wiederholungen | повторение | Regelmäßige Wiederholung ist wichtig. | Регулярное повторение важно.
+N die Vokabel | Vokabeln | (иностранное) слово для заучивания | Jeden Tag lerne ich zehn neue Vokabeln. | Каждый день я учу десять новых слов. | AT: das Vokabel, Vokabeln
+N die Grammatik | Sg. | грамматика | Die Grammatik ist für mich nicht so schwer. | Грамматика для меня не такая уж трудная.
+N die Aussprache | Sg. | произношение | Deine Aussprache ist sehr gut. | У тебя очень хорошее произношение.
+N die Lernstrategie | Lernstrategien | способ учиться, стратегия обучения | Welche Lernstrategie hilft dir am meisten? | Какой способ учиться тебе больше всего помогает?
+N die Karteikarte | Karteikarten | карточка (для заучивания слов) | Ich schreibe neue Wörter auf Karteikarten. | Я записываю новые слова на карточки.
+N die Lerngruppe | Lerngruppen | учебная группа (для совместных занятий) | In der Lerngruppe erklären wir uns alles gegenseitig. | В учебной группе мы всё объясняем друг другу.
+N das Ergebnis | Ergebnisse | результат | Das Ergebnis bekommen Sie in vier Wochen. | Результат вы получите через четыре недели.
+N das Zertifikat | Zertifikate | сертификат | Nach der Prüfung bekommen Sie ein Zertifikat. | После экзамена вы получите сертификат.
+N die Erfahrung | Erfahrungen | опыт | Mit Karteikarten habe ich gute Erfahrungen gemacht. | С карточками у меня хороший опыт.
+N der Spickzettel | Spickzettel | шпаргалка | Ein Spickzettel ist in der Prüfung verboten. | Шпаргалка на экзамене запрещена. | AT: der Schwindelzettel, Schwindelzettel
+W auswendig | Adv. | наизусть | Ich lerne den Dialog auswendig. | Я учу диалог наизусть.
+W mündlich | Adj. | устный; устно | Die mündliche Prüfung dauert 15 Minuten. | Устный экзамен длится 15 минут.
+W schriftlich | Adj. | письменный; письменно | Der schriftliche Teil ist am Vormittag. | Письменная часть — в первой половине дня.
+
+## Körper
+N der Körper | Körper | тело | Sport ist gut für Körper und Kopf. | Спорт полезен и для тела, и для головы.
+N das Ohr | Ohren | ухо | Mein linkes Ohr tut weh. | У меня болит левое ухо.
+N der Mund | Münder | рот | Bitte machen Sie den Mund auf. | Пожалуйста, откройте рот.
+N die Zunge | Zungen | язык (орган) | Zeigen Sie mir bitte die Zunge. | Покажите мне, пожалуйста, язык.
+N die Brust | Brüste | грудь, грудная клетка | Beim Atmen tut mir die Brust weh. | Когда я дышу, у меня болит грудь.
+N das Herz | Herzen | сердце | Ihr Herz ist völlig gesund. | Сердце у вас совершенно здоровое.
+N die Lunge | Lungen | лёгкие | Rauchen schadet der Lunge. | Курение вредит лёгким.
+N der Magen | Mägen | желудок | Mein Magen ist heute nicht in Ordnung. | У меня сегодня что-то с желудком.
+N die Schulter | Schultern | плечо | Nach dem Training tut mir die Schulter weh. | После тренировки у меня болит плечо.
+N der Arm | Arme | рука (от плеча до кисти) | Er hat sich den Arm gebrochen. | Он сломал руку.
+N der Finger | Finger | палец (руки) | Ich habe mich in den Finger geschnitten. | Я порезал палец.
+N das Knie | Knie | колено | Beim Joggen tut mir das Knie weh. | Когда я бегаю, у меня болит колено.
+N die Zehe | Zehen | палец ноги | Ich habe mir die Zehe gestoßen. | Я ударил палец на ноге. | note: так же правильно der Zeh, Zehen
+N der Nacken | Nacken | шея (сзади) | Vom Sitzen am Computer tut mir der Nacken weh. | От сидения за компьютером у меня болит шея.
+N die Haut | Häute | кожа | Im Sommer braucht die Haut Sonnencreme. | Летом коже нужен солнцезащитный крем.
+N das Blut | Sg. | кровь | Die Ärztin nimmt mir Blut ab. | Врач берёт у меня кровь.
+N der Knochen | Knochen | кость | Der Knochen ist zum Glück nicht gebrochen. | Кость, к счастью, не сломана.
+N der Muskel | Muskeln | мышца | Nach dem Sport tun mir die Muskeln weh. | После спорта у меня болят мышцы.
+
+## Krankheiten & Symptome
+N die Krankheit | Krankheiten | болезнь | Diese Krankheit ist nicht gefährlich. | Эта болезнь не опасна.
+N das Symptom | Symptome | симптом | Welche Symptome haben Sie? | Какие у вас симптомы?
+N die Grippe | Grippen | грипп | Er liegt mit Grippe im Bett. | Он лежит в постели с гриппом. | note: лёгкую простуду в разговоре иногда тоже называют Grippe; врач скажет grippaler Infekt
+N der Schnupfen | Sg. | насморк | Ich habe Schnupfen und brauche Taschentücher. | У меня насморк, мне нужны носовые платки. | note: в Австрии простуду часто называют die Verkühlung: Ich bin verkühlt.
+N die Halsschmerzen | Pl. | боль в горле | Ich habe seit gestern Halsschmerzen. | У меня со вчерашнего дня болит горло.
+N die Kopfschmerzen | Pl. | головная боль | Bei Kopfschmerzen trinke ich viel Wasser. | При головной боли я пью много воды.
+N die Bauchschmerzen | Pl. | боль в животе | Das Kind hat Bauchschmerzen. | У ребёнка болит живот.
+N die Zahnschmerzen | Pl. | зубная боль | Mit Zahnschmerzen gehst du am besten sofort zum Zahnarzt. | С зубной болью лучше сразу идти к стоматологу.
+N die Rückenschmerzen | Pl. | боль в спине | Viele Leute im Büro haben Rückenschmerzen. | У многих офисных работников болит спина.
+N die Allergie | Allergien | аллергия | Ich habe eine Allergie gegen Nüsse. | У меня аллергия на орехи.
+N der Durchfall | Sg. | диарея, понос | Bei Durchfall muss man viel trinken. | При диарее нужно много пить.
+N die Übelkeit | Sg. | тошнота | Gegen Übelkeit hilft oft Ingwertee. | От тошноты часто помогает имбирный чай.
+N die Temperatur | Temperaturen | температура | Das Kind hat erhöhte Temperatur. | У ребёнка повышенная температура.
+N die Entzündung | Entzündungen | воспаление | Sie haben eine Entzündung im Ohr. | У вас воспаление уха.
+N die Verletzung | Verletzungen | травма, ранение | Die Verletzung ist nicht schlimm. | Травма несерьёзная.
+N die Wunde | Wunden | рана | Die Wunde muss sauber bleiben. | Рана должна оставаться чистой.
+N der Unfall | Unfälle | несчастный случай; авария | Sie hatte einen Unfall mit dem Fahrrad. | Она попала в аварию на велосипеде.
+W schwindlig | Adj. | испытывающий головокружение | Mir ist schwindlig. | У меня кружится голова. | note: безличная конструкция: mir ist schwindlig
+W übel | Adj. | дурно, тошно | Mir ist übel. | Меня тошнит. | note: безличная конструкция, как mir ist schwindlig
+W erkältet | Adj. | простуженный | Ich bin seit Montag erkältet. | Я простужен с понедельника. | AT: verkühlt
+V sich erkälten | erkältet sich | erkältete sich | hat sich erkältet | простудиться | Zieh eine Jacke an, sonst erkältest du dich! | Надень куртку, а то простудишься! | AT: sich verkühlen
+V niesen | niest | nieste | hat geniest | чихать | Er niest die ganze Zeit. | Он всё время чихает.
+V bluten | blutet | blutete | hat geblutet | кровоточить | Meine Nase blutet. | У меня идёт кровь из носа.
+V sich verletzen | verletzt sich | verletzte sich | hat sich verletzt | пораниться, получить травму | Beim Fußball hat er sich am Knie verletzt. | На футболе он повредил колено. | rek: an + Dat.
+V brechen | bricht | brach | hat gebrochen | ломать | Sie hat sich das Bein gebrochen. | Она сломала ногу. | note: sich (Dat.) etwas brechen — сломать себе что-то
+
+## Arzt, Apotheke & Krankenhaus
+N der Hausarzt | Hausärzte | семейный врач, терапевт | Mein Hausarzt hat heute keine Sprechstunde. | У моего семейного врача сегодня нет приёма. | AT: der praktische Arzt | note: в Австрии говорят и Hausarzt
+N die Hausärztin | Hausärztinnen | семейный врач (женщина) | Die Hausärztin schreibt mir eine Überweisung. | Семейный врач выписывает мне направление. | AT: die praktische Ärztin
+N der Facharzt | Fachärzte | врач-специалист | Mit dem Knie muss ich zum Facharzt. | С коленом мне нужно к специалисту.
+N der Zahnarzt | Zahnärzte | стоматолог | Ich gehe zweimal im Jahr zum Zahnarzt. | Я хожу к стоматологу два раза в год.
+N die Sprechstunde | Sprechstunden | приёмные часы (врача) | Die Sprechstunde ist von 8 bis 12 Uhr. | Приём — с 8 до 12 часов. | AT: die Ordinationszeit, Ordinationszeiten
+N das Wartezimmer | Wartezimmer | приёмная, комната ожидания | Nehmen Sie bitte noch im Wartezimmer Platz. | Пожалуйста, подождите ещё в приёмной.
+N die Arzthelferin | Arzthelferinnen | медицинская ассистентка (в кабинете врача) | Die Arzthelferin gibt mir einen neuen Termin. | Ассистентка назначает мне новый приём. | AT: die Ordinationsassistentin, Ordinationsassistentinnen | note: официальное название в Германии — Medizinische Fachangestellte (MFA)
+N die Untersuchung | Untersuchungen | осмотр, обследование | Die Untersuchung dauert nur zehn Minuten. | Осмотр длится всего десять минут.
+N die Überweisung | Überweisungen | направление (к другому врачу) | Für den Facharzt brauchen Sie eine Überweisung. | К специалисту вам нужно направление. | note: второе значение — банковский перевод
+N die Krankenkasse | Krankenkassen | больничная касса (государственная медицинская страховка) | Die Krankenkasse bezahlt die Untersuchung. | Страховая оплачивает обследование. | note: в Австрии большинство работающих застраховано в ÖGK (Österreichische Gesundheitskasse)
+N die Krankmeldung | Krankmeldungen | больничный (справка о болезни) | Die Krankmeldung schickt die Praxis direkt an die Krankenkasse. | Больничный практика отправляет прямо в страховую. | AT: die Krankenstandsbestätigung | note: в Германии ещё говорят Krankschreibung; «быть на больничном» в Австрии — im Krankenstand sein
+W krankgeschrieben | Adj. | на больничном (по справке врача) | Ich bin bis Freitag krankgeschrieben. | Я на больничном до пятницы. | AT: im Krankenstand
+N die Impfung | Impfungen | прививка | Die Impfung gegen Grippe macht man am besten im Herbst. | Прививку от гриппа лучше делать осенью.
+N die Spritze | Spritzen | укол; шприц | Die Ärztin gibt mir eine Spritze. | Врач делает мне укол.
+N der Blutdruck | Sg. | кровяное давление | Die Ärztin misst den Blutdruck. | Врач измеряет давление.
+N der Notfall | Notfälle | экстренный случай | Im Notfall rufen Sie die 112 an. | В экстренном случае звоните 112. | note: 112 — общеевропейский номер экстренных служб; в Австрии скорая помощь — 144
+N der Notdienst | Notdienste | дежурная служба (ночью, в выходные) | Am Wochenende hat die Apotheke am Markt Notdienst. | В выходные дежурит аптека на рынке. | note: дежурный врач в Германии — 116 117; в Австрии медицинская консультация по телефону — 1450
+N die Notaufnahme | Notaufnahmen | приёмный покой, отделение неотложной помощи | Nach dem Unfall war ich in der Notaufnahme. | После аварии я был в приёмном покое. | AT: die Ambulanz, Ambulanzen
+N der Krankenwagen | Krankenwagen | машина скорой помощи | Der Krankenwagen kommt in fünf Minuten. | Скорая приедет через пять минут. | AT: die Rettung | note: в Австрии говорят die Rettung rufen
+N die Operation | Operationen | операция | Nach der Operation bleibt sie drei Tage im Krankenhaus. | После операции она пробудет три дня в больнице.
+N der Patient | Patienten | пациент | Der Patient wartet schon. | Пациент уже ждёт.
+N die Patientin | Patientinnen | пациентка | Die nächste Patientin, bitte! | Следующая пациентка, пожалуйста!
+N das Medikament | Medikamente | лекарство | Nehmen Sie das Medikament nach dem Essen. | Принимайте лекарство после еды.
+N das Schmerzmittel | Schmerzmittel | обезболивающее | Ein leichtes Schmerzmittel bekommen Sie ohne Rezept. | Лёгкое обезболивающее продаётся без рецепта.
+N die Salbe | Salben | мазь | Tragen Sie die Salbe dreimal täglich auf. | Наносите мазь три раза в день.
+N der Tropfen | Tropfen | капля | Nehmen Sie dreimal täglich 20 Tropfen. | Принимайте по 20 капель три раза в день.
+N der Hustensaft | Hustensäfte | сироп от кашля | Der Hustensaft schmeckt nach Kirsche. | Сироп от кашля со вкусом вишни.
+N das Pflaster | Pflaster | пластырь | Hast du ein Pflaster für mich? | У тебя есть для меня пластырь?
+N die Packungsbeilage | Packungsbeilagen | инструкция (вкладыш в упаковке лекарства) | Lesen Sie vor der Einnahme die Packungsbeilage. | Перед приёмом прочитайте инструкцию. | AT: der Beipacktext, Beipacktexte
+N die Nebenwirkung | Nebenwirkungen | побочное действие | Das Medikament hat kaum Nebenwirkungen. | У лекарства почти нет побочных эффектов.
+
+## Gesund leben
+N die Gesundheit | Sg. | здоровье | Schlaf ist wichtig für die Gesundheit. | Сон важен для здоровья.
+N die Ernährung | Sg. | питание | Eine gesunde Ernährung hilft auch beim Lernen. | Здоровое питание помогает и в учёбе.
+N die Bewegung | Sg. | движение, физическая активность | Ich brauche mehr Bewegung. | Мне нужно больше двигаться.
+N der Schlaf | Sg. | сон | Ich brauche acht Stunden Schlaf. | Мне нужно восемь часов сна.
+N der Stress | Sg. | стресс | In der Prüfungszeit habe ich viel Stress. | В период экзаменов у меня много стресса.
+N die Entspannung | Sg. | расслабление, отдых | Zur Entspannung höre ich Musik. | Чтобы расслабиться, я слушаю музыку.
+N das Gewicht | Sg. | вес | Er möchte sein Gewicht halten. | Он хочет сохранить свой вес.
+N das Vitamin | Vitamine | витамин | Obst und Gemüse haben viele Vitamine. | Во фруктах и овощах много витаминов.
+N die Diät | Diäten | диета | Sie macht gerade eine Diät. | Она сейчас на диете.
+N der Alkohol | Sg. | алкоголь | Vor der Prüfung trinke ich keinen Alkohol. | Перед экзаменом я не пью алкоголь.
+N das Training | Trainings | тренировка | Das Training ist zweimal pro Woche. | Тренировки два раза в неделю.
+N der Spaziergang | Spaziergänge | прогулка | Ein Spaziergang am Neckar tut gut. | Прогулка вдоль Неккара идёт на пользу.
+N der Muskelkater | Sg. | боль в мышцах после нагрузки | Nach dem ersten Training hatte ich Muskelkater. | После первой тренировки у меня болели мышцы.
+V sich bewegen | bewegt sich | bewegte sich | hat sich bewegt | двигаться | Im Büro bewege ich mich zu wenig. | В офисе я слишком мало двигаюсь.
+V sich entspannen | entspannt sich | entspannte sich | hat sich entspannt | расслабляться | Am Abend entspanne ich mich mit Yoga. | Вечером я расслабляюсь с помощью йоги.
+V sich aus·ruhen | ruht sich aus | ruhte sich aus | hat sich ausgeruht | отдыхать | Nach der Prüfung ruhe ich mich aus. | После экзамена я отдохну.
+V ab·nehmen | nimmt ab | nahm ab | hat abgenommen | худеть | Er hat fünf Kilo abgenommen. | Он похудел на пять килограммов.
+V zu·nehmen | nimmt zu | nahm zu | hat zugenommen | поправляться, набирать вес | Im Winter nehme ich oft zu. | Зимой я часто поправляюсь.
+V rauchen | raucht | rauchte | hat geraucht | курить | Mein Vater raucht nicht mehr. | Мой отец больше не курит.
+V joggen | joggt | joggte | hat/ist gejoggt | бегать трусцой | Ich jogge jeden Morgen am Fluss. | Я каждое утро бегаю вдоль реки.
+V trainieren | trainiert | trainierte | hat trainiert | тренироваться | Sie trainiert dreimal pro Woche. | Она тренируется три раза в неделю.
+W fit | Adj. | в хорошей форме | Mit 70 ist meine Oma noch sehr fit. | В 70 лет моя бабушка ещё в отличной форме.
+W ungesund | Adj. | вредный для здоровья; нездоровый | Zu viel Zucker ist ungesund. | Слишком много сахара вредно.
+W regelmäßig | Adj. | регулярный; регулярно | Ich mache regelmäßig Sport. | Я регулярно занимаюсь спортом.
+
+## Verben
+V sich kümmern | kümmert sich | kümmerte sich | hat sich gekümmert | заботиться | Wer kümmert sich um die kranke Katze? | Кто заботится о больной кошке? | rek: um + Akk.
+V denken | denkt | dachte | hat gedacht | думать | Denk an deine Tabletten! | Не забудь про свои таблетки! | rek: an + Akk.
+V sich erinnern | erinnert sich | erinnerte sich | hat sich erinnert | помнить, вспоминать | Ich erinnere mich gern an meine Schulzeit. | Я с удовольствием вспоминаю свои школьные годы. | rek: an + Akk.
+V sich vor·bereiten | bereitet sich vor | bereitete sich vor | hat sich vorbereitet | готовиться | Wir bereiten uns auf die Prüfung vor. | Мы готовимся к экзамену. | rek: auf + Akk.
+V sich konzentrieren | konzentriert sich | konzentrierte sich | hat sich konzentriert | сосредоточиться | Bei Lärm kann ich mich nicht konzentrieren. | При шуме я не могу сосредоточиться. | rek: auf + Akk.
+V sich an·melden | meldet sich an | meldete sich an | hat sich angemeldet | записываться, регистрироваться | Ich melde mich für den Kurs an. | Я записываюсь на курс. | rek: für + Akk. / zu + Dat.
+V teil·nehmen | nimmt teil | nahm teil | hat teilgenommen | участвовать | Zwölf Personen nehmen am Kurs teil. | В курсе участвуют двенадцать человек. | rek: an + Dat.
+V sich interessieren | interessiert sich | interessierte sich | hat sich interessiert | интересоваться | Ich interessiere mich für Medizin. | Я интересуюсь медициной. | rek: für + Akk.
+W Angst haben | Phrase | бояться | Hast du Angst vor der Prüfung? | Ты боишься экзамена? | rek: vor + Dat.
+W sich Sorgen machen | Phrase | беспокоиться, волноваться | Mach dir keine Sorgen um mich! | Не волнуйся за меня! | rek: um + Akk. | form: Sorgen
+V sich ärgern | ärgert sich | ärgerte sich | hat sich geärgert | злиться, сердиться | Ich ärgere mich über meine Fehler. | Я злюсь на свои ошибки. | rek: über + Akk.
+V achten | achtet | achtete | hat geachtet | обращать внимание, следить | Achte auf deine Ernährung! | Следи за своим питанием! | rek: auf + Akk.
+V auf·passen | passt auf | passte auf | hat aufgepasst | быть внимательным; присматривать | Pass im Unterricht gut auf! | Будь внимателен на уроке! | rek: auf + Akk.
+V sich gewöhnen | gewöhnt sich | gewöhnte sich | hat sich gewöhnt | привыкать | Ich gewöhne mich langsam an das frühe Aufstehen. | Я постепенно привыкаю рано вставать. | rek: an + Akk.
+V sich erholen | erholt sich | erholte sich | hat sich erholt | восстанавливаться, отдыхать | Er erholt sich gut von der Operation. | Он хорошо восстанавливается после операции. | rek: von + Dat.
+V leiden | leidet | litt | hat gelitten | страдать | Sie leidet oft unter Kopfschmerzen. | Она часто страдает от головных болей. | rek: unter + Dat. / an + Dat.
+V schützen | schützt | schützte | hat geschützt | защищать | Die Impfung schützt vor Grippe. | Прививка защищает от гриппа. | rek: vor + Dat.
+V bestehen | besteht | bestand | hat bestanden | сдать (экзамен) | Ich habe die Prüfung bestanden! | Я сдал экзамен! | rek: + Akk.
+V durch·fallen | fällt durch | fiel durch | ist durchgefallen | провалиться (на экзамене) | Leider ist sie bei der Prüfung durchgefallen. | К сожалению, она провалила экзамен. | rek: bei + Dat.
+V üben | übt | übte | hat geübt | упражняться, тренировать | Wir üben die Aussprache. | Мы тренируем произношение. | rek: + Akk.
+V sich merken | merkt sich | merkte sich | hat sich gemerkt | запоминать | Diese Regel kann ich mir nicht merken. | Это правило я никак не могу запомнить. | rek: sich (Dat.) + Akk.
+V erklären | erklärt | erklärte | hat erklärt | объяснять | Kannst du mir die Aufgabe erklären? | Можешь объяснить мне задание? | rek: jdm. (Dat.) etw. (Akk.)
+V vergessen | vergisst | vergaß | hat vergessen | забывать | Ich habe meine Hausaufgaben vergessen. | Я забыл домашнее задание. | rek: + Akk. / zu + Inf.
+V versuchen | versucht | versuchte | hat versucht | пытаться, пробовать | Ich versuche, jeden Tag zu lernen. | Я стараюсь заниматься каждый день. | rek: zu + Inf.
+V nach·schlagen | schlägt nach | schlug nach | hat nachgeschlagen | смотреть (в словаре, справочнике) | Ich schlage das Wort im Wörterbuch nach. | Я смотрю слово в словаре.
+V korrigieren | korrigiert | korrigierte | hat korrigiert | исправлять, проверять (работы) | Die Lehrerin korrigiert die Tests. | Учительница проверяет тесты.
+V unterrichten | unterrichtet | unterrichtete | hat unterrichtet | преподавать | Frau Neumann unterrichtet Deutsch und Englisch. | Госпожа Нойман преподаёт немецкий и английский.
+V untersuchen | untersucht | untersuchte | hat untersucht | осматривать, обследовать | Der Arzt untersucht meinen Hals. | Врач осматривает моё горло.
+V verschreiben | verschreibt | verschrieb | hat verschrieben | выписывать (лекарство) | Die Ärztin verschreibt mir einen Hustensaft. | Врач выписывает мне сироп от кашля. | rek: jdm. (Dat.) etw. (Akk.)
+V messen | misst | maß | hat gemessen | измерять | Hast du schon Fieber gemessen? | Ты уже измерил температуру?
+V ein·nehmen | nimmt ein | nahm ein | hat eingenommen | принимать (лекарство) | Nehmen Sie die Tabletten vor dem Essen ein. | Принимайте таблетки перед едой.
+V sich hin·legen | legt sich hin | legte sich hin | hat sich hingelegt | прилечь | Leg dich ein bisschen hin! | Приляг немного!
+V sich krank·melden | meldet sich krank | meldete sich krank | hat sich krankgemeldet | сообщить о болезни (на работе, в школе) | Ich muss mich heute krankmelden. | Мне сегодня нужно сообщить на работу, что я заболел.
+V atmen | atmet | atmete | hat geatmet | дышать | Bitte tief atmen! | Пожалуйста, дышите глубоко.
+
+## Adjektive & Adverbien
+W fleißig | Adj. | прилежный, старательный | Meine Schwester ist sehr fleißig. | Моя сестра очень старательная.
+W faul | Adj. | ленивый | Heute bin ich ein bisschen faul. | Сегодня мне лень.
+W leicht | Adj. | лёгкий; легко | Die Aufgabe war leicht. | Задание было лёгким.
+W schwierig | Adj. | трудный, сложный | Die Prüfung war ziemlich schwierig. | Экзамен был довольно сложным.
+W wichtig | Adj. | важный | Es ist wichtig, genug zu schlafen. | Важно достаточно спать.
+W nervös | Adj. | нервный; взволнованный | Vor Prüfungen bin ich immer nervös. | Перед экзаменами я всегда нервничаю.
+W aufgeregt | Adj. | взволнованный | Vor dem ersten Schultag ist das Kind sehr aufgeregt. | Перед первым школьным днём ребёнок очень волнуется.
+W konzentriert | Adj. | сосредоточенный; сосредоточенно | Am Morgen arbeite ich konzentrierter. | Утром я работаю сосредоточеннее.
+W erschöpft | Adj. | обессиленный, измученный | Nach der Prüfung war ich total erschöpft. | После экзамена я был совершенно без сил.
+W schlimm | Adj. | плохой, серьёзный (о болезни, ситуации) | Ist es schlimm, Frau Doktor? | Это серьёзно, доктор?
+W gefährlich | Adj. | опасный | Eine Grippe kann für alte Menschen gefährlich sein. | Грипп может быть опасен для пожилых людей.
+W rezeptfrei | Adj. | без рецепта | Dieses Mittel ist rezeptfrei. | Это средство продаётся без рецепта.
+W rezeptpflichtig | Adj. | только по рецепту | Antibiotika sind rezeptpflichtig. | Антибиотики продаются только по рецепту.
+W allergisch | Adj. | с аллергией; аллергический | Ich bin allergisch gegen Penicillin. | У меня аллергия на пенициллин.
+W verletzt | Adj. | раненый, травмированный | Ist jemand verletzt? | Кто-нибудь пострадал?
+W gebrochen | Adj. | сломанный | Der Arm ist gebrochen. | Рука сломана.
+W nüchtern | Adj. | натощак; трезвый | Kommen Sie zur Blutabnahme bitte nüchtern. | На анализ крови приходите, пожалуйста, натощак.
+W dreimal täglich | Phrase | три раза в день | Nehmen Sie die Tabletten dreimal täglich. | Принимайте таблетки три раза в день.
+W zum Glück | Phrase | к счастью | Zum Glück ist der Fuß nicht gebrochen. | К счастью, нога не сломана.
+W endlich | Adv. | наконец | Endlich habe ich die Prüfung bestanden! | Наконец-то я сдал экзамен!
+W genug | Adv. | достаточно | Schläfst du genug? | Ты достаточно спишь?
+W zu viel | Phrase | слишком много | Du arbeitest zu viel. | Ты слишком много работаешь.
+W als | Konj. | когда (один раз в прошлом) | Als ich krank war, hat mir meine Freundin geholfen. | Когда я болел, мне помогла подруга.
+W wenn | Konj. | когда (каждый раз; в настоящем и будущем); если | Wenn ich lerne, trinke ich viel Tee. | Когда я занимаюсь, я пью много чая.
+W um … zu | Konj. | чтобы (цель) | Ich lerne Deutsch, um in Heidelberg zu studieren. | Я учу немецкий, чтобы учиться в Гейдельберге.

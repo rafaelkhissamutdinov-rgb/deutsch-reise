@@ -1,0 +1,233 @@
+# a2-frankfurt — Arbeit, Bank & Termine (A2)
+# Формат: см. content-source/FORMAT.md
+
+## Arbeit & Beruf
+N der Arbeitsplatz | Arbeitsplätze | рабочее место | Mein Arbeitsplatz ist im dritten Stock. | Моё рабочее место на четвёртом этаже.
+N die Arbeitszeit | Arbeitszeiten | рабочее время | Meine Arbeitszeit ist von acht bis halb fünf. | Мой рабочий день — с восьми до половины пятого.
+N der Arbeitgeber | Arbeitgeber | работодатель | Mein Arbeitgeber bezahlt mir die Monatskarte. | Мой работодатель оплачивает мне проездной.
+N der Arbeitnehmer | Arbeitnehmer | работник (по найму) | Alle Arbeitnehmer haben 30 Urlaubstage. | У всех работников 30 дней отпуска.
+N der Kollege | Kollegen | коллега (мужчина) | Mein Kollege hilft mir mit dem neuen Programm. | Мой коллега помогает мне с новой программой.
+N die Kollegin | Kolleginnen | коллега (женщина) | Meine Kollegin kommt aus Polen. | Моя коллега из Польши.
+N der Chef | Chefs | начальник, шеф | Der Chef ist heute auf einer Dienstreise. | Начальник сегодня в командировке.
+N die Chefin | Chefinnen | начальница | Ich muss die Chefin etwas fragen. | Мне нужно кое-что спросить у начальницы.
+N der Kunde | Kunden | клиент | Der Kunde wartet schon seit zehn Minuten. | Клиент ждёт уже десять минут.
+N die Kundin | Kundinnen | клиентка | Die Kundin möchte mit dem Chef sprechen. | Клиентка хочет поговорить с начальником.
+N die Abteilung | Abteilungen | отдел | Ich arbeite in der Abteilung Einkauf. | Я работаю в отделе закупок.
+N der Angestellte | Angestellten | служащий, сотрудник | Die Firma hat 200 Angestellte. | В фирме 200 сотрудников. | note: склоняется как прилагательное: ein Angestellter, die Angestellten
+N das Gehalt | Gehälter | зарплата, оклад | Das Gehalt kommt am Monatsende. | Зарплата приходит в конце месяца.
+N der Lohn | Löhne | зарплата (обычно почасовая) | Man bekommt 15 Euro Lohn pro Stunde. | Платят 15 евро в час.
+N die Schicht | Schichten | смена | Diese Woche habe ich Frühschicht. | На этой неделе у меня утренняя смена.
+N die Überstunde | Überstunden | сверхурочный час | Letzte Woche habe ich fünf Überstunden gemacht. | На прошлой неделе я переработал(а) пять часов.
+N die Teilzeit | Sg. | неполный рабочий день | Ich arbeite in Teilzeit, nur vormittags. | Я работаю неполный день, только до обеда.
+N die Vollzeit | Sg. | полный рабочий день | Ab März arbeitet Olena in Vollzeit. | С марта Олена работает полный день.
+N der Vertrag | Verträge | договор | Ich habe den Vertrag noch nicht unterschrieben. | Я ещё не подписал(а) договор.
+N die Ausbildung | Ausbildungen | профессиональное обучение | Tariq macht eine Ausbildung als Elektriker. | Тарик учится на электрика.
+N der Azubi | Azubis | ученик на производстве (стажёр по программе профобучения) | Im Betrieb arbeiten drei Azubis. | На предприятии работают три ученика. | AT: der Lehrling, Lehrlinge | note: Azubi — сокращение от der/die Auszubildende
+N das Praktikum | Praktika | практика, стажировка | Im Sommer mache ich ein Praktikum bei einer Bank. | Летом я прохожу практику в банке.
+N der Urlaubstag | Urlaubstage | день отпуска | Ich habe noch zehn Urlaubstage. | У меня осталось ещё десять дней отпуска.
+N die Mittagspause | Mittagspausen | обеденный перерыв | Die Mittagspause dauert 30 Minuten. | Обеденный перерыв длится 30 минут.
+N die Kantine | Kantinen | столовая (на работе) | Wir essen mittags in der Kantine. | Мы обедаем в столовой.
+N die Rente | Renten | пенсия | Mein Vater geht nächstes Jahr in Rente. | Мой отец в следующем году выходит на пенсию. | AT: die Pension, Pensionen
+N der Betrieb | Betriebe | предприятие | Der Betrieb liegt am Stadtrand. | Предприятие находится на окраине города.
+N das Lager | Lager | склад | Die Pakete liegen im Lager. | Посылки лежат на складе.
+N der Handwerker | Handwerker | мастер (ремесленник) | Morgen kommt ein Handwerker und repariert die Heizung. | Завтра придёт мастер и починит отопление.
+N der Mechaniker | Mechaniker | механик | Der Mechaniker sagt, die Bremsen sind kaputt. | Механик говорит, что тормоза сломаны.
+N der Elektriker | Elektriker | электрик | Wir brauchen dringend einen Elektriker. | Нам срочно нужен электрик.
+N der Krankenpfleger | Krankenpfleger | медбрат | Mein Bruder ist Krankenpfleger im Krankenhaus. | Мой брат работает медбратом в больнице.
+N die Erzieherin | Erzieherinnen | воспитательница (в детском саду) | Die Erzieherin spielt mit den Kindern im Garten. | Воспитательница играет с детьми в саду. | AT: die Kindergartenpädagogin, Kindergartenpädagoginnen
+N die Reinigungskraft | Reinigungskräfte | уборщик, уборщица | Die Reinigungskraft kommt jeden Abend um sechs. | Уборщица приходит каждый вечер в шесть.
+N die Bürokauffrau | Bürokauffrauen | офис-менеджер (профессия) | Svetlana ist Bürokauffrau von Beruf. | Светлана по профессии офис-менеджер. | note: мужчина — der Bürokaufmann
+N der Programmierer | Programmierer | программист | Die Firma sucht zwei Programmierer. | Фирма ищет двух программистов.
+N die Dienstreise | Dienstreisen | командировка | Nächste Woche bin ich auf Dienstreise in Hamburg. | На следующей неделе я в командировке в Гамбурге.
+
+## Im Büro & Computer
+N das Büro | Büros | офис, бюро | Das Büro ist im zweiten Stock. | Офис на третьем этаже.
+N das Homeoffice | Sg. | работа из дома | Freitags arbeite ich im Homeoffice. | По пятницам я работаю из дома.
+N das Team | Teams | команда | Unser Team hat sechs Leute. | В нашей команде шесть человек.
+N die Teamleiterin | Teamleiterinnen | руководитель группы (женщина) | Frau Albrecht ist unsere Teamleiterin. | Госпожа Альбрехт — руководитель нашей группы. | note: мужчина — der Teamleiter
+N die Besprechung | Besprechungen | совещание | Die Besprechung beginnt um zehn. | Совещание начинается в десять.
+N der Besprechungsraum | Besprechungsräume | переговорная | Der Besprechungsraum ist leider besetzt. | Переговорная, к сожалению, занята.
+N die Videokonferenz | Videokonferenzen | видеоконференция | Um elf habe ich eine Videokonferenz mit Wien. | В одиннадцать у меня видеоконференция с Веной.
+N der Laptop | Laptops | ноутбук | Die Firma gibt mir einen Laptop. | Фирма даёт мне ноутбук.
+N der Bildschirm | Bildschirme | экран, монитор | Ich arbeite mit zwei Bildschirmen. | Я работаю с двумя мониторами.
+N die Tastatur | Tastaturen | клавиатура | Auf dieser Tastatur gibt es kein ß. | На этой клавиатуре нет буквы ß.
+N die Maus | Mäuse | мышь (компьютерная) | Die Maus funktioniert nicht. | Мышь не работает.
+N der Drucker | Drucker | принтер | Der Drucker hat kein Papier mehr. | В принтере закончилась бумага.
+N der Kopierer | Kopierer | копировальный аппарат | Der Kopierer steht neben der Küche. | Копир стоит рядом с кухней.
+N die Datei | Dateien | файл | Ich schicke Ihnen die Datei gleich. | Я сейчас пришлю вам файл.
+N der Ordner | Ordner | папка | Die Rechnungen sind im Ordner „Mai“. | Счета в папке «Май».
+N der Anhang | Anhänge | вложение (в письме) | Im Anhang finden Sie meinen Lebenslauf. | Во вложении вы найдёте моё резюме.
+N das Passwort | Passwörter | пароль | Ich habe mein Passwort vergessen. | Я забыл(а) свой пароль.
+N das Programm | Programme | программа | Das Programm ist neu, ich kenne es noch nicht. | Программа новая, я её ещё не знаю.
+N das WLAN | WLANs | вайфай | Wie ist das Passwort für das WLAN? | Какой пароль от вайфая?
+N die Akte | Akten | папка с делом, дело (документ) | Die Akte liegt auf meinem Schreibtisch. | Дело лежит на моём письменном столе. | AT: der Akt, Akten
+N der Kalender | Kalender | календарь, ежедневник | Ich schreibe den Termin in meinen Kalender. | Я записываю встречу в свой календарь.
+N der Kugelschreiber | Kugelschreiber | шариковая ручка | Haben Sie einen Kugelschreiber für mich? | У вас есть для меня ручка? | note: разговорно — der Kuli
+N die Aufgabe | Aufgaben | задача, задание | Heute habe ich viele Aufgaben. | Сегодня у меня много задач.
+N das Projekt | Projekte | проект | Das Projekt muss bis Freitag fertig sein. | Проект должен быть готов к пятнице.
+
+## Bewerbung
+N die Bewerbung | Bewerbungen | заявление о приёме на работу (с документами) | Ich habe meine Bewerbung per E-Mail geschickt. | Я отправил(а) своё заявление по электронной почте.
+N die Stelle | Stellen | место, вакансия | Die Stelle ist leider schon besetzt. | Место, к сожалению, уже занято.
+N die Stellenanzeige | Stellenanzeigen | объявление о вакансии | Ich habe eine interessante Stellenanzeige gefunden. | Я нашёл (нашла) интересное объявление о вакансии. | AT: das Stelleninserat, Stelleninserate
+N der Lebenslauf | Lebensläufe | резюме, биография | Mein Lebenslauf ist zwei Seiten lang. | Моё резюме занимает две страницы.
+N das Anschreiben | Anschreiben | сопроводительное письмо | Im Anschreiben erkläre ich, warum ich die Stelle möchte. | В сопроводительном письме я объясняю, почему хочу получить это место.
+N das Zeugnis | Zeugnisse | аттестат; характеристика с работы | Bitte schicken Sie uns auch Ihre Zeugnisse. | Пожалуйста, пришлите нам также ваши аттестаты и характеристики. | note: Arbeitszeugnis — письменная характеристика от работодателя
+N die Unterlagen | Pl. | документы (комплект) | Ihre Unterlagen sind vollständig. | Ваши документы в полном комплекте.
+N das Vorstellungsgespräch | Vorstellungsgespräche | собеседование | Am Montag habe ich ein Vorstellungsgespräch. | В понедельник у меня собеседование.
+N die Erfahrung | Erfahrungen | опыт | Haben Sie Erfahrung im Verkauf? | У вас есть опыт в продажах?
+N die Berufserfahrung | Sg. | опыт работы | Für die Stelle braucht man zwei Jahre Berufserfahrung. | Для этой должности нужно два года опыта работы.
+N die Kenntnisse | Pl. | знания | Gute Deutschkenntnisse sind wichtig. | Хорошее знание немецкого важно.
+N der Schulabschluss | Schulabschlüsse | школьный аттестат, законченное школьное образование | Für die Ausbildung braucht man einen Schulabschluss. | Для профобучения нужен школьный аттестат.
+N die Probezeit | Probezeiten | испытательный срок | Die Probezeit dauert sechs Monate. | Испытательный срок длится шесть месяцев.
+N das Arbeitsamt | Arbeitsämter | биржа труда (разг.) | Ich habe einen Termin beim Arbeitsamt. | У меня встреча на бирже труда. | note: официально в Германии — die Agentur für Arbeit, в Австрии — das AMS (Arbeitsmarktservice)
+W befristet | Adj. | временный, на определённый срок | Der Vertrag ist auf ein Jahr befristet. | Договор заключён на один год.
+W unbefristet | Adj. | бессрочный | Endlich habe ich einen unbefristeten Vertrag! | Наконец у меня бессрочный договор!
+W zuverlässig | Adj. | надёжный | Wir suchen eine zuverlässige Kollegin. | Мы ищем надёжную коллегу.
+W flexibel | Adj. | гибкий | Die Arbeitszeiten sind flexibel. | Рабочее время гибкое.
+
+## Bank & Geld
+N das Konto | Konten | счёт (в банке) | Ich möchte ein Konto eröffnen. | Я хотел(а) бы открыть счёт.
+N das Girokonto | Girokonten | текущий счёт | Das Girokonto kostet vier Euro im Monat. | Текущий счёт стоит четыре евро в месяц.
+N die Kontonummer | Kontonummern | номер счёта | Bitte geben Sie Ihre Kontonummer an. | Пожалуйста, укажите номер вашего счёта.
+N die IBAN | IBANs | IBAN, международный номер счёта | Die IBAN steht auf der Rückseite der Karte. | IBAN указан на обратной стороне карты.
+N die Überweisung | Überweisungen | (банковский) перевод | Die Überweisung dauert ein bis zwei Tage. | Перевод идёт один-два дня.
+N der Überweisungsträger | Überweisungsträger | бланк для банковского перевода | Den Überweisungsträger bekommen Sie am Schalter. | Бланк перевода вы получите в окошке. | AT: der Erlagschein, Erlagscheine
+N der Dauerauftrag | Daueraufträge | постоянное поручение (автоплатёж) | Die Miete zahle ich per Dauerauftrag. | Квартплату я плачу постоянным поручением.
+N der Geldautomat | Geldautomaten | банкомат | Gibt es hier in der Nähe einen Geldautomaten? | Здесь поблизости есть банкомат? | AT: der Bankomat, Bankomaten
+N die Geheimzahl | Geheimzahlen | ПИН-код | Die Geheimzahl kommt mit der Post. | ПИН-код придёт по почте. | note: синоним — die PIN
+N die Kreditkarte | Kreditkarten | кредитная карта | Kann ich mit Kreditkarte bezahlen? | Можно заплатить кредитной картой?
+N die Gebühr | Gebühren | плата, сбор, комиссия | Für das Konto gibt es keine Gebühr. | За счёт нет никакой платы.
+N der Kontoauszug | Kontoauszüge | выписка со счёта | Den Kontoauszug sehen Sie auch online. | Выписку со счёта вы видите и онлайн.
+N das Onlinebanking | Sg. | онлайн-банкинг | Mit dem Onlinebanking kann ich alles am Handy machen. | С онлайн-банкингом я могу всё делать в телефоне.
+N die App | Apps | приложение | Laden Sie bitte unsere App herunter. | Пожалуйста, скачайте наше приложение.
+N die Filiale | Filialen | отделение, филиал | Die Filiale am Römerberg ist samstags geschlossen. | Отделение на Рёмерберге по субботам закрыто.
+N der Schalter | Schalter | окошко (в банке, на почте) | Bitte gehen Sie zu Schalter 2. | Пожалуйста, подойдите к окошку 2.
+N der Bankberater | Bankberater | консультант в банке | Der Bankberater erklärt mir die Gebühren. | Консультант объясняет мне комиссии.
+N der Betrag | Beträge | сумма | Bitte schreiben Sie den Betrag in Zahlen. | Пожалуйста, напишите сумму цифрами.
+N die Münze | Münzen | монета | Der Automat nimmt nur Münzen. | Автомат принимает только монеты.
+N der Schein | Scheine | купюра | Können Sie mir den Schein wechseln? | Вы можете разменять мне купюру? | note: полностью — der Geldschein
+N das Kleingeld | Sg. | мелочь, мелкие деньги | Ich habe leider kein Kleingeld. | У меня, к сожалению, нет мелочи.
+W kostenlos | Adj. | бесплатный | Die Bankkarte ist kostenlos. | Банковская карта бесплатная.
+W monatlich | Adj. | ежемесячный; ежемесячно | Die Gebühr zahlen Sie monatlich. | Плату вы вносите ежемесячно.
+W bargeldlos | Adj. | безналичный; безналично | Hier kann man nur bargeldlos bezahlen. | Здесь можно платить только безналично.
+
+## Post & Dokumente
+N der Brief | Briefe | письмо | Heute ist ein Brief vom Finanzamt gekommen. | Сегодня пришло письмо из налоговой.
+N das Paket | Pakete | посылка | Das Paket wiegt drei Kilo. | Посылка весит три килограмма. | AT: das Packerl, Packerln | note: Packerl — разговорное слово
+N das Päckchen | Päckchen | небольшая посылка, бандероль | Ein Päckchen nach Polen kostet etwa zehn Euro. | Бандероль в Польшу стоит около десяти евро.
+N die Briefmarke | Briefmarken | почтовая марка | Ich brauche drei Briefmarken für Briefe in die EU. | Мне нужны три марки для писем в ЕС.
+N der Briefumschlag | Briefumschläge | конверт | Schreiben Sie die Adresse auf den Briefumschlag. | Напишите адрес на конверте. | AT: das Kuvert, Kuverts
+N der Absender | Absender | отправитель | Der Absender steht oben links. | Отправитель указывается слева вверху.
+N der Empfänger | Empfänger | получатель | Der Empfänger war nicht zu Hause. | Получателя не было дома.
+N das Einschreiben | Einschreiben | заказное письмо | Wichtige Dokumente schicke ich als Einschreiben. | Важные документы я отправляю заказным письмом. | note: в Австрии разговорно — der Rekobrief
+N die Sendung | Sendungen | (почтовое) отправление | Ihre Sendung kommt morgen. | Ваше отправление придёт завтра.
+N die Benachrichtigung | Benachrichtigungen | извещение, уведомление | Im Briefkasten war eine Benachrichtigung von der Post. | В почтовом ящике было извещение с почты.
+N der Postbote | Postboten | почтальон | Der Postbote kommt meistens gegen elf. | Почтальон обычно приходит около одиннадцати. | AT: der Briefträger, Briefträger
+N das Dokument | Dokumente | документ | Bitte bringen Sie alle Dokumente mit. | Пожалуйста, принесите все документы.
+N die Kopie | Kopien | копия | Ich brauche eine Kopie von Ihrem Pass. | Мне нужна копия вашего паспорта.
+N das Original | Originale | оригинал | Bitte zeigen Sie auch das Original. | Пожалуйста, покажите также оригинал.
+N die Bescheinigung | Bescheinigungen | справка | Für die Bank brauche ich eine Bescheinigung vom Arbeitgeber. | Для банка мне нужна справка от работодателя.
+N die Meldebescheinigung | Meldebescheinigungen | справка о регистрации по месту жительства | Die Meldebescheinigung bekommen Sie beim Bürgeramt. | Справку о регистрации вы получите в бюро по делам граждан. | AT: der Meldezettel, Meldezettel
+N die Aufenthaltserlaubnis | Aufenthaltserlaubnisse | вид на жительство | Meine Aufenthaltserlaubnis ist zwei Jahre gültig. | Мой вид на жительство действителен два года.
+N der Antrag | Anträge | заявление (в учреждение) | Den Antrag können Sie auch online stellen. | Заявление можно подать и онлайн.
+N das Amt | Ämter | ведомство, учреждение | Auf dem Amt muss man oft lange warten. | В учреждении часто приходится долго ждать.
+N die Frist | Fristen | срок | Die Frist endet am 31. Mai. | Срок истекает 31 мая.
+W gültig | Adj. | действительный | Ist Ihr Pass noch gültig? | Ваш паспорт ещё действителен?
+
+## Telefonieren & Termine
+N der Anruf | Anrufe | звонок | Danke für Ihren Anruf! | Спасибо за ваш звонок!
+N der Anrufbeantworter | Anrufbeantworter | автоответчик | Bitte sprechen Sie nach dem Ton auf den Anrufbeantworter. | Пожалуйста, оставьте сообщение на автоответчике после сигнала.
+N die Mailbox | Mailboxen | голосовая почта (в мобильном) | Ich habe dir auf die Mailbox gesprochen. | Я оставил(а) тебе сообщение на голосовой почте.
+N die Nachricht | Nachrichten | сообщение | Kann ich eine Nachricht hinterlassen? | Можно оставить сообщение?
+N die Vorwahl | Vorwahlen | телефонный код (города, страны) | Die Vorwahl von Frankfurt ist 069. | Код Франкфурта — 069.
+N die Durchwahl | Durchwahlen | добавочный номер | Meine Durchwahl ist 214. | Мой добавочный — 214. | AT: die Klappe, Klappen
+N die Verbindung | Verbindungen | связь, соединение | Die Verbindung ist sehr schlecht, ich höre Sie kaum. | Связь очень плохая, я вас почти не слышу.
+N das Telefonat | Telefonate | телефонный разговор | Nach dem Telefonat schreibe ich Ihnen eine E-Mail. | После разговора я напишу вам письмо.
+N die Warteschleife | Warteschleifen | ожидание на линии | Ich hänge seit 20 Minuten in der Warteschleife. | Я уже 20 минут жду на линии.
+N die Sprechstunde | Sprechstunden | приёмные часы | Die Sprechstunde ist dienstags von 14 bis 16 Uhr. | Приёмные часы — по вторникам с 14 до 16.
+N die Absage | Absagen | отказ; отмена | Leider habe ich eine Absage von der Firma bekommen. | К сожалению, я получил(а) отказ от фирмы.
+N die Zusage | Zusagen | согласие, положительный ответ | Ich habe die Zusage! Ich bekomme die Stelle! | Мне ответили «да»! Я получаю это место!
+N die Bestätigung | Bestätigungen | подтверждение | Sie bekommen eine Bestätigung per E-Mail. | Вы получите подтверждение по электронной почте.
+N die Erinnerung | Erinnerungen | напоминание; воспоминание | Einen Tag vorher bekommen Sie eine Erinnerung per SMS. | За день до этого вы получите напоминание по SMS.
+W Auf Wiederhören! | Phrase | До свидания! (по телефону) | Vielen Dank, auf Wiederhören! | Большое спасибо, до свидания!
+W … am Apparat. | Phrase | … у телефона. | Guten Tag, hier ist Mehmet Aydın am Apparat. | Здравствуйте, у телефона Мехмет Айдын. | form: am Apparat
+W Bleiben Sie bitte dran. | Phrase | Не кладите трубку, пожалуйста. | Einen Moment, bleiben Sie bitte dran. | Минутку, не кладите трубку.
+W Kann ich etwas ausrichten? | Phrase | Что-нибудь передать? | Frau Weber ist nicht da. Kann ich etwas ausrichten? | Госпожи Вебер нет на месте. Ей что-нибудь передать?
+W Passt Ihnen …? | Phrase | Вам удобно …? | Passt Ihnen Donnerstag um zehn? | Вам удобно в четверг в десять? | form: Passt Ihnen
+W Das geht leider nicht. | Phrase | К сожалению, не получится. | Am Montag? Das geht leider nicht. | В понедельник? К сожалению, не получится.
+W Bescheid sagen | Phrase | сообщить, дать знать | Sagen Sie mir bitte bis Freitag Bescheid. | Пожалуйста, сообщите мне до пятницы. | form: Bescheid
+W Es tut mir leid. | Phrase | Мне жаль. Извините. | Es tut mir leid, ich kann morgen nicht kommen. | Извините, я не смогу прийти завтра.
+W Sehr geehrte Damen und Herren, | Phrase | Уважаемые дамы и господа, | Sehr geehrte Damen und Herren, ich möchte einen Termin vereinbaren. | Уважаемые дамы и господа, я хотел(а) бы договориться о встрече.
+W Mit freundlichen Grüßen | Phrase | С уважением (в конце письма) | Am Ende schreibe ich „Mit freundlichen Grüßen“ und meinen Namen. | В конце я пишу «С уважением» и своё имя.
+W einverstanden | Adj. | согласен, согласна | Mittwoch um drei? Einverstanden! | В среду в три? Согласен!
+W erreichbar | Adj. | доступен (по телефону) | Ich bin bis 17 Uhr erreichbar. | Я доступен (доступна) до 17 часов.
+
+## Verben
+V sich bewerben | bewirbt sich | bewarb sich | hat sich beworben | подавать заявление (о приёме на работу) | Ich bewerbe mich um eine Stelle als Verkäuferin. | Я подаю заявление на место продавщицы. | rek: um + Akk., bei + Dat. | form: bewerbe
+V verdienen | verdient | verdiente | hat verdient | зарабатывать | Wie viel verdient man als Krankenpfleger? | Сколько зарабатывает медбрат?
+V ein·stellen | stellt ein | stellte ein | hat eingestellt | принимать на работу | Die Firma stellt im Herbst zehn Leute ein. | Осенью фирма возьмёт на работу десять человек. | rek: + Akk.
+V kündigen | kündigt | kündigte | hat gekündigt | увольняться; расторгать договор | Sie hat ihre Stelle gekündigt. | Она уволилась (с этого места).
+V erledigen | erledigt | erledigte | hat erledigt | выполнять, сделать (дело) | Das erledige ich sofort. | Я сделаю это сразу.
+V sich kümmern | kümmert sich | kümmerte sich | hat sich gekümmert | заниматься, заботиться | Herr Haddad kümmert sich um die neuen Kunden. | Господин Хаддад занимается новыми клиентами. | rek: um + Akk.
+V drucken | druckt | druckte | hat gedruckt | печатать | Können Sie mir die Liste drucken? | Можете распечатать мне список?
+V kopieren | kopiert | kopierte | hat kopiert | копировать | Ich kopiere schnell Ihren Ausweis. | Я быстро сделаю копию вашего удостоверения.
+V speichern | speichert | speicherte | hat gespeichert | сохранять (файл) | Hast du die Datei gespeichert? | Ты сохранил(а) файл?
+V löschen | löscht | löschte | hat gelöscht | удалять | Ich habe die E-Mail aus Versehen gelöscht. | Я случайно удалил(а) письмо.
+V sich ein·loggen | loggt sich ein | loggte sich ein | hat sich eingeloggt | входить (в систему) | Ich kann mich nicht einloggen. | Я не могу войти в систему.
+V herunter·laden | lädt herunter | lud herunter | hat heruntergeladen | скачивать | Das Formular können Sie auf unserer Website herunterladen. | Бланк можно скачать на нашем сайте.
+V schicken | schickt | schickte | hat geschickt | посылать, отправлять | Schicken Sie mir bitte die Unterlagen. | Пришлите мне, пожалуйста, документы. | rek: + Dat. + Akk.
+V erklären | erklärt | erklärte | hat erklärt | объяснять | Kannst du mir das Programm erklären? | Можешь объяснить мне эту программу? | rek: + Dat. + Akk.
+V danken | dankt | dankte | hat gedankt | благодарить | Ich danke Ihnen für Ihre Hilfe. | Благодарю вас за помощь. | rek: + Dat., für + Akk.
+V gehören | gehört | gehörte | hat gehört | принадлежать | Gehört der Laptop Ihnen? | Это ваш ноутбук? | rek: + Dat.
+V mit·teilen | teilt mit | teilte mit | hat mitgeteilt | сообщать | Bitte teilen Sie uns Ihre neue Adresse mit. | Пожалуйста, сообщите нам ваш новый адрес. | rek: + Dat. + Akk.
+V eröffnen | eröffnet | eröffnete | hat eröffnet | открывать (счёт, магазин) | Wir möchten ein gemeinsames Konto eröffnen. | Мы хотим открыть общий счёт. | rek: + Akk.
+V überweisen | überweist | überwies | hat überwiesen | переводить (деньги) | Ich überweise Ihnen das Geld morgen. | Я переведу вам деньги завтра. | rek: + Dat. + Akk.
+V ab·heben | hebt ab | hob ab | hat abgehoben | снимать (деньги со счёта) | Ich muss noch Geld abheben. | Мне ещё нужно снять деньги. | rek: + Akk., von + Dat.
+V ein·zahlen | zahlt ein | zahlte ein | hat eingezahlt | вносить (деньги на счёт) | Sie zahlt 200 Euro auf ihr Konto ein. | Она вносит на свой счёт 200 евро. | rek: + Akk., auf + Akk.
+V sparen | spart | sparte | hat gespart | копить; экономить | Wir sparen für eine neue Wohnung. | Мы копим на новую квартиру. | rek: für + Akk.
+V leihen | leiht | lieh | hat geliehen | давать взаймы; брать взаймы | Kannst du mir zwanzig Euro leihen? | Можешь одолжить мне двадцать евро? | rek: + Dat. + Akk.
+V unterschreiben | unterschreibt | unterschrieb | hat unterschrieben | подписывать | Bitte unterschreiben Sie hier unten. | Пожалуйста, распишитесь здесь внизу. | rek: + Akk.
+V aus·füllen | füllt aus | füllte aus | hat ausgefüllt | заполнять (бланк) | Ich habe das Formular schon ausgefüllt. | Я уже заполнил(а) бланк. | rek: + Akk.
+V telefonieren | telefoniert | telefonierte | hat telefoniert | говорить по телефону | Die Chefin telefoniert gerade mit einem Kunden. | Начальница сейчас говорит по телефону с клиентом. | rek: mit + Dat.
+V zurück·rufen | ruft zurück | rief zurück | hat zurückgerufen | перезванивать | Ich rufe Sie in zehn Minuten zurück. | Я перезвоню вам через десять минут. | rek: + Akk.
+V verbinden | verbindet | verband | hat verbunden | соединять (по телефону) | Einen Moment, ich verbinde Sie mit Frau Krämer. | Минутку, я соединю вас с госпожой Кремер. | rek: + Akk., mit + Dat.
+V aus·richten | richtet aus | richtete aus | hat ausgerichtet | передавать (сообщение) | Ich richte ihm Ihre Nachricht aus. | Я передам ему ваше сообщение. | rek: + Dat. + Akk.
+V erreichen | erreicht | erreichte | hat erreicht | застать, дозвониться | Ich habe Sie gestern nicht erreicht. | Я вчера не смог(ла) до вас дозвониться. | rek: + Akk.
+V sich melden | meldet sich | meldete sich | hat sich gemeldet | связаться, дать о себе знать | Ich melde mich morgen bei Ihnen. | Я свяжусь с вами завтра. | rek: bei + Dat.
+V verschieben | verschiebt | verschob | hat verschoben | переносить (на другое время) | Können wir den Termin auf Freitag verschieben? | Можем перенести встречу на пятницу? | rek: + Akk., auf + Akk.
+V ab·sagen | sagt ab | sagte ab | hat abgesagt | отменять, отказываться | Ich muss den Termin leider absagen. | К сожалению, мне придётся отменить встречу. | rek: + Akk.
+V vor·schlagen | schlägt vor | schlug vor | hat vorgeschlagen | предлагать | Ich schlage Dienstag um neun vor. | Я предлагаю вторник в девять. | rek: + Dat. + Akk.
+V bestätigen | bestätigt | bestätigte | hat bestätigt | подтверждать | Bitte bestätigen Sie den Termin per E-Mail. | Пожалуйста, подтвердите встречу по электронной почте. | rek: + Akk.
+V erinnern | erinnert | erinnerte | hat erinnert | напоминать | Ich erinnere Sie an Ihren Termin morgen. | Напоминаю вам о вашей встрече завтра. | rek: + Akk., an + Akk.
+V sich entschuldigen | entschuldigt sich | entschuldigte sich | hat sich entschuldigt | извиняться | Ich entschuldige mich für die Verspätung. | Прошу прощения за опоздание. | rek: bei + Dat., für + Akk.
+V dürfen | darf | durfte | hat gedurft | мочь (иметь разрешение) | Hier darf man nicht telefonieren. | Здесь нельзя говорить по телефону.
+V sollen | soll | sollte | hat gesollt | быть должным (по чьему-то поручению) | Ich soll Sie von Herrn Wolf grüßen. | Господин Вольф просил передать вам привет.
+V werden | wird | wurde | ist geworden | становиться | Meine Schwester wird Ärztin. | Моя сестра станет врачом.
+
+## Adjektive & Adverbien
+W dringend | Adj. | срочный; срочно | Ich muss dringend mit Herrn Wolf sprechen. | Мне срочно нужно поговорить с господином Вольфом.
+W wichtig | Adj. | важный | Morgen habe ich einen wichtigen Termin. | Завтра у меня важная встреча.
+W zuständig | Adj. | ответственный (за что-то) | Wer ist für die Rechnungen zuständig? | Кто отвечает за счета? | note: zuständig für + Akk.
+W selbstständig | Adj. | самостоятельный; работающий на себя | Seit zwei Jahren ist Mariana selbstständig. | Уже два года Мариана работает на себя.
+W berufstätig | Adj. | работающий | Beide Eltern sind berufstätig. | Оба родителя работают.
+W krankgeschrieben | Adj. | на больничном | Herr Szabó ist diese Woche krankgeschrieben. | Господин Сабо на этой неделе на больничном. | AT: im Krankenstand
+W höflich | Adj. | вежливый | Am Telefon muss man höflich sein. | По телефону нужно быть вежливым.
+W unhöflich | Adj. | невежливый | „Ich will“ klingt oft unhöflich. | «Ich will» часто звучит невежливо.
+W anstrengend | Adj. | утомительный | Die Nachtschicht ist sehr anstrengend. | Ночная смена очень утомительная.
+W stressig | Adj. | напряжённый, нервный | Heute war ein stressiger Tag. | Сегодня был напряжённый день.
+W persönlich | Adj. | личный; лично | Ich möchte die Chefin persönlich sprechen. | Я хотел(а) бы поговорить с начальницей лично.
+W beruflich | Adj. | профессиональный; по работе | Ich fahre beruflich oft nach Wien. | Я часто езжу в Вену по работе.
+W privat | Adj. | личный, частный | Das ist meine private Telefonnummer. | Это мой личный номер телефона.
+W ganztags | Adv. | полный день | Die Kita ist ganztags geöffnet. | Детский сад открыт весь день.
+W halbtags | Adv. | полдня | Meine Frau arbeitet halbtags. | Моя жена работает полдня.
+W rechtzeitig | Adv. | вовремя, заблаговременно | Bitte sagen Sie rechtzeitig ab. | Пожалуйста, отменяйте заранее.
+W gleich | Adv. | сейчас, сразу | Einen Moment, ich komme gleich. | Минутку, я сейчас подойду.
+W später | Adv. | позже | Können Sie später noch einmal anrufen? | Можете позвонить ещё раз позже?
+W übermorgen | Adv. | послезавтра | Übermorgen habe ich frei. | Послезавтра у меня выходной.
+W vorher | Adv. | заранее, до этого | Bitte rufen Sie vorher an. | Пожалуйста, позвоните заранее.
+W unterwegs | Adv. | в пути, в дороге | Ich bin gerade unterwegs und rufe später zurück. | Я сейчас в дороге и перезвоню позже.
+W online | Adv. | онлайн | Den Termin können Sie auch online buchen. | Записаться можно и онлайн.
+W dass | Konj. | что (союз) | Ich glaube, dass der Chef heute nicht kommt. | Я думаю, что начальник сегодня не придёт.
+W ob | Konj. | ли | Ich weiß nicht, ob die Bank heute offen ist. | Я не знаю, открыт ли сегодня банк.
+W wenn | Konj. | если; когда (каждый раз) | Wenn ich Zeit habe, rufe ich dich an. | Если у меня будет время, я тебе позвоню.
