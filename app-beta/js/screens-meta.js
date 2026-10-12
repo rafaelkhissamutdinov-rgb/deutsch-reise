@@ -24,12 +24,21 @@
       sw.appendChild(h('button.swatch' + (st.theme === th.id ? '.on' : ''), { type: 'button', onclick: function () { set('theme', th.id); } }, DR.emoji(th.emoji[0]), th.name));
     });
     el.appendChild(h('div.card', h('h3', t('theme')), h('p.small.muted', 'Без выбора тема меняется по дню недели.'), sw));
-    var voices = DR.speech.voices();
-    el.appendChild(h('div.card', h('h3', t('voice')),
+    var voices = DR.speech.voices(), best = DR.speech.best();
+    var sel = h('select.inp', { 'aria-label': t('voice'), onchange: function () { DR.store.setting('voiceName', this.value); DR.speech.say('Grüß Gott! Ich lese dir die Texte vor.'); } },
+      h('option', { value: '' }, t('auto') + (best ? ' — ' + best.name : '')),
+      voices.map(function (v) { return h('option', { value: v.name, selected: st.voiceName === v.name }, v.name + ' (' + v.lang + ')'); }));
+    el.appendChild(h('div.card.stack', h('h3', t('voice')),
       seg([['de-DE', '🇩🇪 de-DE'], ['de-AT', '🇦🇹 de-AT']], st.voice, function (v) { set('voice', v); }),
-      h('p.small.muted', { style: { marginTop: '8px' } }, voices.length ? voices.map(function (v) { return v.name + ' (' + v.lang + ')'; }).join(', ') : t('no_voice')),
-      h('button.btn.ghost.small', { type: 'button', onclick: function () { DR.speech.say('Grüß Gott! Herzlich willkommen auf der Deutsch-Reise.'); } }, DR.icon('volume-2'), t('test_voice'))));
-
+      voices.length ? sel : h('p.small.muted', t('no_voice')),
+      h('div.row', h('button.btn.ghost.small', { type: 'button', onclick: function () { DR.speech.say('Grüß Gott! Herzlich willkommen auf der Deutsch-Reise. Heute fahren wir mit dem Zug nach Wien.'); } }, DR.icon('volume-2'), t('test_voice')),
+        h('span.small.muted', t('speed') + ' ' + (+st.rate).toFixed(2) + '×')),
+      h('input', { type: 'range', min: 0.6, max: 1.2, step: 0.05, value: st.rate, 'aria-label': t('speed'), onchange: function () { DR.store.setting('rate', +this.value); R.refresh(); } }),
+      h('details', h('summary', h('b', 'Как сделать голос естественнее')),
+        h('ul.small', h('li', 'Компьютер (Windows/Mac): откройте сайт в браузере Microsoft Edge — там есть нейросетевые голоса «Microsoft Katja / Conrad / Ingrid Online (Natural)». Это лучший бесплатный вариант.'),
+          h('li', 'iPhone/iPad: Настройки → Универсальный доступ → Устное содержимое → Голоса → Немецкий → скачать «Anna (улучшенный)» или «Premium». Потом выбрать голос здесь.'),
+          h('li', 'Android: Настройки → Синтез речи → Google → Установить голосовые данные → Deutsch. В Chrome появятся голоса Google.'),
+          h('li', 'Приложение само выбирает лучший найденный голос, но здесь можно закрепить конкретный.')))));
     var code = h('code.blob.hide');
     var imp = h('textarea.inp', { placeholder: 'DR1.…', style: { minHeight: '90px', fontFamily: 'monospace', fontSize: '13px' }, 'aria-label': t('import') });
     var undo = DR.store.undoInfo();
@@ -94,8 +103,4 @@
       h('p.small.muted', 'Подробная таблица частей, времени и баллов по каждому экзамену появится вместе с пробными тестами — после сверки с официальными описаниями.')));
   });
 
-  R.add('/hausaufgaben', function (el) {
-    el.appendChild(h('div', DR.ui.hero('backpack', 'Für Lehrkräfte', t('s_haus'))));
-    el.appendChild(h('div.card', DR.ui.empty(t('haus_soon'), 'hourglass')));
-  });
 })();

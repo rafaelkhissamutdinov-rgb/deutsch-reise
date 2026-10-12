@@ -61,7 +61,7 @@ test('Alle Bildschirme laden ohne Fehler und ohne horizontales Scrollen (390 px,
     await pg.goto(base);
     await pg.waitForSelector('.tiles');
     const index = await pg.evaluate(() => DR.INDEX.units);
-    const routes = ['/', '/karte', '/wortschatz', '/wortschatz-karten', '/wortschatz-eingabe', '/wortschatz-sprint', '/wortschatz-liste', '/grammatik', '/hoeren', '/lesen', '/schreiben', '/dialoge', '/sprechen', '/pruefung', '/pruefung/info', '/hausaufgaben', '/pass', '/einstellungen', '/quellen'];
+    const routes = ['/', '/karte', '/wortschatz', '/wortschatz-karten', '/wortschatz-eingabe', '/wortschatz-sprint', '/wortschatz-liste', '/grammatik', '/hoeren', '/lesen', '/schreiben', '/dialoge', '/sprechen', '/pruefung', '/pruefung/info', '/hausaufgaben', '/hausaufgaben/neu', '/hausaufgaben/auswerten', '/pass', '/einstellungen', '/quellen'];
     for (const u of index) {
       routes.push('/stadt/' + u.id);
       if (!u.ready) continue;
@@ -140,6 +140,39 @@ test('Fortschritt: Export/Import, Rückgängig, Zurücksetzen', async () => {
     return { afterReset, afterUndo, afterImport, bad, prefix: code.slice(0, 4) };
   });
   assert.deepEqual(r, { afterReset: 0, afterUndo: 1, afterImport: 1, bad: true, prefix: 'DR1.' });
+  await ctx.close();
+});
+
+test('Hausaufgaben: Link → Erledigen → Ergebniscode → Auswertung', async () => {
+  const { ctx, pg, errors } = await page();
+  await pg.goto(base);
+  await pg.waitForSelector('.tiles');
+  await go(pg, '/hausaufgaben/neu');
+  await pg.waitForSelector('label input[type=checkbox]');
+  await pg.locator('label input[type=checkbox]').nth(0).check();
+  await pg.locator('label input[type=checkbox]').nth(1).check();
+  await pg.locator('#backbar .slot .btn').click();
+  const link = await pg.locator('code.blob').innerText();
+  assert.match(link, /#\/hw\/H1\./);
+  await pg.goto(link);
+  await pg.waitForSelector('.progress-top');
+  const k = await pg.evaluate(() => { const id = Object.keys(DR.store.get().hw)[0]; return DR.store.get().hw[id].task.items[0]; });
+  await pg.evaluate((key) => DR.store.record(key, 7, 10, 'Grammatik', { mist: ['Ich ___ → bin'] }), k);
+  await pg.reload();
+  await pg.waitForSelector('.progress-top');
+  assert.match(await pg.locator('.progress-top').innerText(), /1 \/ 2/);
+  await pg.evaluate(() => { window.__copied = null; DR.copy = (x) => { window.__copied = x; return Promise.resolve(true); }; });
+  await pg.locator('#backbar .slot .btn').click();
+  const text = await pg.evaluate(() => window.__copied);
+  assert.match(text, /7\/10 \(70%\)/);
+  const code = text.match(/R1\.[\w-]+/)[0];
+  await go(pg, '/hausaufgaben/auswerten');
+  await pg.fill('textarea', text);
+  await pg.locator('#backbar .slot .btn').click();
+  await pg.waitForSelector('.skill');
+  assert.match(await pg.locator('#view').innerText(), /Ich ___ → bin|Fehler|Ошибки/);
+  assert.ok(code.length > 10);
+  assert.deepEqual(errors, []);
   await ctx.close();
 });
 

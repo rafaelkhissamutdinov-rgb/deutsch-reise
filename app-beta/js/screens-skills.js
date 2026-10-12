@@ -31,9 +31,9 @@
       el.appendChild(h('div', DR.ui.hero('headphone', u.level + ' · ' + x.kind, x.title)));
       if (!DR.speech.available()) el.appendChild(h('div.card.small', DR.icon('info'), ' ', t('no_voice')));
       var lines = h('div.card' + (st.subs ? '' : '.subs-off'));
-      var voices = { A: x.voice || 'de-DE', B: x.voice2 || (x.voice === 'de-AT' ? 'de-DE' : 'de-AT') };
+      var voiceOpt = function (sp) { return sp === 'A' || !sp ? { voice: x.voice } : { voice: x.voice, alt: true }; };
       x.lines.forEach(function (ln, i) {
-        lines.appendChild(h('div.line', { 'data-i': i }, h('span.who', ln.s), h('span.t.grow', ln.t), DR.speakBtn(ln.t, { voice: voices[ln.s] || voices.A })));
+        lines.appendChild(h('div.line', { 'data-i': i }, h('span.who', ln.s), h('span.t.grow', ln.t), DR.speakBtn(ln.t, voiceOpt(ln.s))));
       });
       var playing = false;
       var playBtn = h('button.btn', { type: 'button', onclick: function () { playing ? stop() : play(); } }, DR.icon('play'), h('span', t('play')));
@@ -43,7 +43,7 @@
           var row = lines.querySelector('[data-i="' + i + '"]');
           Array.prototype.forEach.call(lines.children, function (c) { c.classList.remove('now'); });
           row.classList.add('now');
-          await DR.speech.say(x.lines[i].t, { voice: voices[x.lines[i].s] || voices.A, queue: false });
+          await DR.speech.say(x.lines[i].t, voiceOpt(x.lines[i].s));
           await new Promise(function (r) { setTimeout(r, 350); });
         }
         stop();
@@ -173,6 +173,8 @@
       function lookup(word) {
         var gl = x.glossary || {};
         if (gl[word]) return { ru: gl[word] };
+        var lw = word.toLowerCase();
+        if (DR.FUNC[lw]) return { ru: DR.FUNC[lw] };
         var f = DR.fold(word);
         if (dict[f]) return dict[f];
         // einfache Formen: Endungen abschneiden

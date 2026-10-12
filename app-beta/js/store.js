@@ -11,7 +11,7 @@ DR.store = (function () {
   function fresh() {
     return {
       v: 1, created: Date.now(),
-      settings: { lang: 'de', mode: 'auto', theme: 'auto', rate: 0.95, voice: 'de-DE', subs: true, motion: 'auto' },
+      settings: { lang: 'de', mode: 'auto', theme: 'auto', rate: 0.92, voice: 'de-DE', voiceName: '', subs: true, motion: 'auto' },
       days: {},     // 'YYYY-MM-DD' → Anzahl Aktivitäten
       words: {},    // Wort-ID → {s: Stabilität (Tage), t: letzte Wiederholung (ms), n: richtig, l: falsch}
       done: {},     // Aktivitäts-Schlüssel → {t, sc, max}

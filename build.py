@@ -53,6 +53,7 @@ class BuildError(Exception):
 
 
 errors = []
+EXCLUDE = []  # --exclude a2-koeln,a2-… : Einheiten in Arbeit beim Build überspringen
 
 
 def err(where, msg):
@@ -363,6 +364,8 @@ def build(only=None, write=True):
         uid_ = os.path.basename(path)[:-5]
         if only and uid_ != only:
             continue
+        if any(uid_.startswith(x) for x in EXCLUDE):
+            continue
         try:
             with open(path, encoding='utf-8') as f:
                 u = yaml.safe_load(f)
@@ -478,6 +481,8 @@ def main():
         release()
         return
     only = None
+    if '--exclude' in args:
+        EXCLUDE.extend(args[args.index('--exclude') + 1].split(','))
     if '--only' in args:
         only = args[args.index('--only') + 1]
     check = '--check' in args or only is not None
