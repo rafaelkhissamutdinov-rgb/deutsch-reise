@@ -386,6 +386,14 @@ def build(only=None, write=True):
                     err(vpath, f'Wort-ID doppelt: {e["id"]} (auch in {vocab_ids[e["id"]]})')
                 vocab_ids[e['id']] = uid_
         units[uid_] = u
+    # dasselbe Wort darf nur in einer Einheit stehen
+    seen_words = {}
+    for uid_, u in units.items():
+        for e in u['vocab']:
+            k = (e['type'], e['de'])
+            if k in seen_words:
+                err(f'content-source/vocab/{uid_}.txt', f'Wort „{e["de"]}“ steht schon in {seen_words[k]}')
+            seen_words[k] = uid_
     if errors:
         return units
     if not write:

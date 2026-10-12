@@ -188,7 +188,7 @@ N die Nacht | Nächte | ночь | Ich bleibe zwei Nächte. | Я остаюсь 
 N das Frühstück | Sg. | завтрак | Das Frühstück ist von sieben bis zehn Uhr. | Завтрак с семи до десяти.
 N der Aufzug | Aufzüge | лифт | Der Aufzug ist rechts. | Лифт справа. | AT: der Lift, Lifte
 N die Treppe | Treppen | лестница | Die Treppe ist dort. | Лестница там. | AT: die Stiege, Stiegen
-N das Erdgeschoss | Erdgeschosse | первый (цокольный) этаж | Die Rezeption ist im Erdgeschoss. | Ресепшен на первом этаже. | AT: das Erdgeschoß, Erdgeschoße | note: в Германии и Австрии Erdgeschoss — это наш «первый этаж»; 1. Stock — наш второй
+N das Erdgeschoss | Erdgeschosse | первый этаж (на уровне улицы) | Die Rezeption ist im Erdgeschoss. | Ресепшен на первом этаже. | AT: das Erdgeschoß, Erdgeschoße | note: в Германии и Австрии Erdgeschoss — это наш «первый этаж»; 1. Stock — наш второй
 N der Schrank | Schränke | шкаф | Im Zimmer gibt es einen Schrank. | В номере есть шкаф. | AT: der Kasten, Kästen
 
 ## Verben
