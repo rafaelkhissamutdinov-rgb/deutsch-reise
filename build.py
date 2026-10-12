@@ -1,10 +1,9 @@
 #!/usr/bin/env python3
-"""Deutsch-Reise — Build: prüft content-source/ und erzeugt app-beta/data/*.js.
+"""Deutsch-Reise — Build: prüft content-source/ und erzeugt app/data/*.js.
 
   python3 build.py               prüfen + Daten erzeugen + Cache-Version im Service Worker erhöhen
   python3 build.py --check       nur prüfen
   python3 build.py --only ID     nur eine Einheit prüfen (z. B. a1-hamburg)
-  python3 build.py --release     app-beta/ nach app/ kopieren (nur nach „regaem“ vom Lehrer)
 
 Bricht mit Exit-Code 1 ab, sobald ein Fehler gefunden wird.
 """
@@ -21,7 +20,7 @@ import yaml
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 SRC = os.path.join(ROOT, 'content-source')
-APP = os.path.join(ROOT, 'app-beta')
+APP = os.path.join(ROOT, 'app')
 DATA = os.path.join(APP, 'data')
 
 # Reiseroute: Reihenfolge, Niveau, geplantes Thema, Emoji, Koordinaten (Breite, Länge)
@@ -531,19 +530,8 @@ def bump_sw():
     print('Cache-Version:', ver)
 
 
-def release():
-    dst = os.path.join(ROOT, 'app')
-    if os.path.exists(dst):
-        shutil.rmtree(dst)
-    shutil.copytree(APP, dst)
-    print('app-beta → app kopiert')
-
-
 def main():
     args = sys.argv[1:]
-    if '--release' in args:
-        release()
-        return
     only = None
     if '--exclude' in args:
         EXCLUDE.extend(args[args.index('--exclude') + 1].split(','))

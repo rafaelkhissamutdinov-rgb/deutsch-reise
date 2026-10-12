@@ -1,0 +1,581 @@
+id: a2-test-1
+level: A2
+exam: Goethe-Zertifikat A2 (Format)
+title: Modelltest A2 · 1
+title_ru: Пробный тест A2 · 1
+intro_ru: |
+  Тест построен по формату экзамена Goethe-Zertifikat A2: Hören, Lesen, Schreiben, Sprechen. Все тексты написаны
+  специально для приложения. Hören и Lesen проверяются автоматически (1 вопрос = 1 балл, всего по 20), Schreiben и
+  Sprechen вы оцениваете сами по чек-листу (или вместе с учителем). Старайтесь уложиться во время, как на настоящем экзамене.
+parts:
+  - id: hoeren
+    skill: Hören
+    minutes: 30
+    instructions: |
+      Dieser Teil hat vier Teile. Sie hören Nachrichten, Gespräche und ein Interview. Lesen Sie zuerst die Aufgaben.
+      Kreuzen Sie die richtige Lösung an.
+    instructions_ru: |
+      В этой части четыре задания: короткие сообщения, диалоги и интервью. Сначала прочитайте вопросы,
+      затем слушайте и выберите правильный ответ. Всего 20 вопросов.
+    sections:
+      - title: Teil 1
+        task: "Sie hören fünf kurze Nachrichten. Sie hören jede Nachricht zweimal. Kreuzen Sie an: a, b oder c."
+        task_ru: Вы услышите пять коротких сообщений, каждое дважды. Выберите a, b или c.
+        voice: de-DE
+        play: 2
+        blocks:
+          - lines:
+              - s: A
+                t: "Und jetzt der Verkehrsservice für Niederösterreich. Auf der A1 bei St. Pölten gab es einen Unfall. Die Autobahn Richtung Wien ist gesperrt. Bitte fahren Sie bei Altlengbach ab. Sie brauchen ungefähr dreißig Minuten länger."
+            items:
+              - type: choice
+                q: Was sollen die Autofahrer tun?
+                ru: Что должны сделать водители?
+                options: [auf der Autobahn bleiben, bei Altlengbach abfahren, in St. Pölten anhalten]
+                answer: bei Altlengbach abfahren
+          - lines:
+              - s: A
+                t: "Guten Tag, Herr Demir, hier spricht die Praxis von Doktor Fuchs. Ihr Termin am Donnerstag um vierzehn Uhr muss leider ausfallen, denn die Ärztin ist krank. Sie können am Freitag um neun Uhr oder am Montag um sechzehn Uhr kommen. Bitte rufen Sie uns bis morgen zurück. Auf Wiederhören."
+            items:
+              - type: choice
+                q: Warum ruft die Praxis an?
+                ru: Почему звонят из врачебного кабинета?
+                options: [Die Ärztin ist krank., Herr Demir muss bezahlen., Die Praxis zieht um.]
+                answer: Die Ärztin ist krank.
+          - lines:
+              - s: A
+                t: "Und nun das Wetter für morgen. Im Westen Österreichs regnet es am Vormittag, am Nachmittag wird es sonnig bei etwa achtzehn Grad. Im Osten bleibt es den ganzen Tag trocken, aber es ist windig. Am Wochenende gibt es in den Bergen den ersten Schnee."
+            items:
+              - type: choice
+                q: Wie wird das Wetter morgen im Osten?
+                ru: Какая погода будет завтра на востоке?
+                options: [Es regnet am Vormittag., Es ist trocken und windig., Es schneit.]
+                answer: Es ist trocken und windig.
+          - lines:
+              - s: A
+                t: "Liebe Kundinnen und Kunden, heute im Sportgeschäft im zweiten Stock: Alle Winterjacken kosten dreißig Prozent weniger. Das Angebot gilt nur bis achtzehn Uhr. Die Schuhe sind leider nicht im Angebot. Bezahlen können Sie an jeder Kasse. Wir wünschen Ihnen einen schönen Einkauf."
+            items:
+              - type: choice
+                q: Was ist heute billiger?
+                ru: Что сегодня дешевле?
+                options: [Schuhe, Winterjacken, Sportgeräte]
+                answer: Winterjacken
+          - lines:
+              - s: A
+                t: "Achtung, eine Information für Reisende nach Krems. Wegen Bauarbeiten fährt der Regionalzug am Samstag und am Sonntag nur bis Tulln. Von Tulln nach Krems fährt ein Ersatzbus. Er hält direkt vor dem Bahnhof. Wir bitten um Ihr Verständnis."
+            items:
+              - type: choice
+                q: Wie kommen die Reisenden am Wochenende nach Krems?
+                ru: Как пассажиры доберутся до Кремса на выходных?
+                options: [mit dem Regionalzug direkt, mit dem Zug und dem Bus, nur mit dem Taxi]
+                answer: mit dem Zug und dem Bus
+      - title: Teil 2
+        task: "Sie hören ein Gespräch zwischen Tom und Sandra. Sie hören das Gespräch einmal. Was macht Sandra an welchem Tag? Kreuzen Sie an."
+        task_ru: Вы услышите разговор Тома и Сандры один раз. Что Сандра делает в какой день? Выберите вариант.
+        voice: de-DE
+        play: 1
+        blocks:
+          - lines:
+              - s: A
+                t: "Hallo Sandra! Hast du nächste Woche Zeit? Ich möchte mit dir ins Kino gehen."
+              - s: B
+                t: "Hallo Tom! Oje, meine Woche ist ziemlich voll. Am Montag habe ich Deutschkurs, von achtzehn bis zwanzig Uhr."
+              - s: A
+                t: "Und am Dienstag?"
+              - s: B
+                t: "Am Dienstag muss ich zum Zahnarzt, am Nachmittag. Abends bin ich dann zu Hause und ruhe mich aus."
+              - s: A
+                t: "Aha. Und am Mittwoch?"
+              - s: B
+                t: "Am Mittwoch spiele ich mit meiner Schwester Tennis. Danach koche ich für die ganze Familie."
+              - s: A
+                t: "Und der Donnerstag?"
+              - s: B
+                t: "Am Donnerstag arbeite ich lange, bis einundzwanzig Uhr. Das ist wirklich ein schlechter Tag."
+              - s: A
+                t: "Dann vielleicht am Freitag?"
+              - s: B
+                t: "Am Freitag fahre ich zu meiner Oma nach Linz. Aber am Samstag habe ich Zeit!"
+              - s: A
+                t: "Super, dann gehen wir am Samstag ins Kino."
+            items:
+              - type: choice
+                q: Was macht Sandra am Montag?
+                ru: Что Сандра делает в понедельник?
+                options: [Sie hat Deutschkurs., Sie geht zum Zahnarzt., Sie spielt Tennis., Sie arbeitet lange.]
+                answer: Sie hat Deutschkurs.
+              - type: choice
+                q: Was macht Sandra am Dienstag?
+                ru: Что Сандра делает во вторник?
+                options: [Sie fährt nach Linz., Sie hat Deutschkurs., Sie geht zum Zahnarzt., Sie kocht für die Familie.]
+                answer: Sie geht zum Zahnarzt.
+              - type: choice
+                q: Was macht Sandra am Mittwoch?
+                ru: Что Сандра делает в среду?
+                options: [Sie arbeitet lange., Sie geht zum Zahnarzt., Sie fährt zu ihrer Oma., Sie spielt Tennis.]
+                answer: Sie spielt Tennis.
+              - type: choice
+                q: Was macht Sandra am Donnerstag?
+                ru: Что Сандра делает в четверг?
+                options: [Sie spielt Tennis., Sie arbeitet lange., Sie hat Deutschkurs., Sie geht ins Kino.]
+                answer: Sie arbeitet lange.
+              - type: choice
+                q: Was macht Sandra am Freitag?
+                ru: Что Сандра делает в пятницу?
+                options: [Sie fährt zu ihrer Oma., Sie geht ins Kino., Sie arbeitet lange., Sie kocht für die Familie.]
+                answer: Sie fährt zu ihrer Oma.
+      - title: Teil 3
+        task: "Sie hören fünf kurze Gespräche. Sie hören jedes Gespräch einmal. Kreuzen Sie an: a, b oder c."
+        task_ru: Вы услышите пять коротких диалогов, каждый один раз. Выберите a, b или c.
+        voice: de-DE
+        play: 1
+        blocks:
+          - lines:
+              - s: A
+                t: "Guten Tag, eine Fahrkarte nach Salzburg, bitte."
+              - s: B
+                t: "Hin und zurück?"
+              - s: A
+                t: "Nein, nur einfach. Am Sonntag fahre ich mit einem Freund im Auto zurück."
+              - s: B
+                t: "Gut. Das macht neunundzwanzig Euro vierzig. Haben Sie eine Vorteilscard?"
+              - s: A
+                t: "Nein, leider nicht."
+            items:
+              - type: choice
+                q: Was kauft der Mann?
+                ru: Что покупает мужчина?
+                options: [eine Fahrkarte hin und zurück, eine einfache Fahrkarte, eine Vorteilscard]
+                answer: eine einfache Fahrkarte
+          - lines:
+              - s: A
+                t: "Herr Bauer, Sie wollten mit mir über Ihren Urlaub sprechen?"
+              - s: B
+                t: "Ja, Frau Lehner. Ich möchte im August zwei Wochen frei nehmen, vom elften bis zum zweiundzwanzigsten."
+              - s: A
+                t: "Hm, im August fehlen schon zwei Kollegen. Geht es auch im September?"
+              - s: B
+                t: "Ja, das geht auch. Dann nehme ich die ersten zwei Wochen im September."
+            items:
+              - type: choice
+                q: Wann hat Herr Bauer Urlaub?
+                ru: Когда у господина Бауэра отпуск?
+                options: [im Juli, im August, im September]
+                answer: im September
+          - lines:
+              - s: A
+                t: "Das ist das Wohnzimmer. Es ist groß und hell, und die Küche ist neu."
+              - s: B
+                t: "Ja, die Wohnung gefällt mir. Sie liegt sehr ruhig, und die U-Bahn ist nur fünf Minuten entfernt. Aber im vierten Stock ohne Aufzug ist es schwierig. Ich habe einen kleinen Sohn und einen Kinderwagen."
+              - s: A
+                t: "Das stimmt, das ist nicht ideal. Die Miete ist aber nur sechshundertfünfzig Euro."
+              - s: B
+                t: "Das ist wirklich günstig. Ich muss noch darüber nachdenken."
+            items:
+              - type: choice
+                q: Was gefällt der Frau nicht?
+                ru: Что не нравится женщине?
+                options: [die Lage der Wohnung, die Miete, dass es keinen Aufzug gibt]
+                answer: dass es keinen Aufzug gibt
+          - lines:
+              - s: A
+                t: "Hallo Nina, treffen wir uns heute um sieben vor dem Kino?"
+              - s: B
+                t: "Ich habe leider erst um halb acht Schluss. Können wir uns lieber im Café neben dem Bahnhof treffen? Das Kino ist dann zu spät."
+              - s: A
+                t: "Kein Problem. Dann sehen wir den späteren Film um zwanzig Uhr dreißig. Wir treffen uns um Viertel vor acht im Café."
+              - s: B
+                t: "Perfekt, bis später!"
+            items:
+              - type: choice
+                q: Wo treffen sich die beiden?
+                ru: Где они встретятся?
+                options: [vor dem Kino, im Café, am Bahnhof]
+                answer: im Café
+          - lines:
+              - s: A
+                t: "Entschuldigung, ich habe diesen Pullover gestern gekauft. Er ist leider zu klein."
+              - s: B
+                t: "Haben Sie die Rechnung dabei?"
+              - s: A
+                t: "Ja, hier. Haben Sie den Pullover auch in Größe M?"
+              - s: B
+                t: "In Blau haben wir M leider nicht mehr. In Grün schon."
+              - s: A
+                t: "Dann nehme ich den grünen. Das ist auch in Ordnung."
+            items:
+              - type: choice
+                q: Was möchte die Kundin?
+                ru: Что хочет покупательница?
+                options: [ihr Geld zurück, den Pullover in einer anderen Größe, eine andere Jacke]
+                answer: den Pullover in einer anderen Größe
+      - title: Teil 4
+        task: "Sie hören ein Radiointerview. Sie hören das Interview zweimal. Sind die Aussagen richtig oder falsch?"
+        task_ru: Вы услышите радиоинтервью дважды. Верны ли утверждения?
+        voice: de-DE
+        play: 2
+        blocks:
+          - lines:
+              - s: A
+                t: "Willkommen bei „Guten Morgen, Oberösterreich“. Heute spreche ich mit Elif Kaya. Sie hat vor zwei Jahren einen Gemeinschaftsgarten in Linz gegründet. Frau Kaya, wie kam es dazu?"
+              - s: B
+                t: "Ich wohne in einem Haus ohne Garten, aber ich wollte unbedingt mein Gemüse selbst anbauen. Zuerst hatte ich nur Tomaten auf dem Balkon. Dann habe ich mit meinen Nachbarn gesprochen, und die Stadt hat uns ein Grundstück gegeben."
+              - s: A
+                t: "Wie viele Leute machen heute mit?"
+              - s: B
+                t: "Wir sind jetzt etwa vierzig Personen. Jeder kommt, wann er Zeit hat. Aber jeden Samstag um zehn Uhr arbeiten wir alle zusammen."
+              - s: A
+                t: "Muss man schon Erfahrung mit Gartenarbeit haben?"
+              - s: B
+                t: "Nein, überhaupt nicht. Viele hatten noch nie einen Garten. Wir lernen alle voneinander. Die Mitgliedschaft kostet zwanzig Euro im Jahr."
+              - s: A
+                t: "Und was machen Sie mit dem Gemüse?"
+              - s: B
+                t: "Das Gemüse gehört allen. Im Sommer kochen wir oft zusammen im Garten. Und was übrig bleibt, bekommt die Schule in der Nähe."
+              - s: A
+                t: "Und im Winter? Ist da nichts zu tun?"
+              - s: B
+                t: "Doch, ein bisschen. Wir haben ein kleines Gewächshaus. Dort ziehen wir schon im Februar die ersten Pflanzen."
+            items:
+              - type: tf
+                q: Frau Kaya hat den Garten vor zwei Jahren gegründet.
+                ru: Госпожа Кайя основала сад два года назад.
+                answer: true
+              - type: tf
+                q: Man muss Erfahrung mit Gartenarbeit haben.
+                ru: Нужно иметь опыт работы в саду.
+                answer: false
+              - type: tf
+                q: Frau Kaya hatte am Anfang einen eigenen großen Garten.
+                ru: В начале у госпожи Кайя был собственный большой сад.
+                answer: false
+              - type: tf
+                q: Jeden Samstag arbeiten alle Mitglieder gemeinsam im Garten.
+                ru: Каждую субботу все участники вместе работают в саду.
+                answer: true
+              - type: tf
+                q: Im Garten gibt es ein kleines Gewächshaus.
+                ru: В саду есть маленькая теплица.
+                answer: true
+  - id: lesen
+    skill: Lesen
+    minutes: 30
+    instructions: |
+      Dieser Teil hat vier Teile. Lesen Sie die Texte und die Aufgaben. Kreuzen Sie die richtige Lösung an.
+    instructions_ru: |
+      В этой части четыре задания: газетная заметка, указатель, письмо и объявления. Прочитайте тексты и задания,
+      затем отметьте правильный ответ. Всего 20 вопросов.
+    sections:
+      - title: Teil 1
+        task: "Lesen Sie den Zeitungsartikel. Kreuzen Sie an: a, b oder c."
+        task_ru: Прочитайте газетную заметку. Выберите a, b или c.
+        blocks:
+          - text: |
+              Neues Hallenbad in Steyr eröffnet
+
+              Nach zwei Jahren Bauzeit hat das neue Hallenbad „Sonnenwiese“ am Samstag eröffnet. Schon am ersten Tag kamen mehr als 1.500 Besucher. Das Bad hat ein Sportbecken mit sechs Bahnen, ein warmes Becken für Kinder und eine kleine Sauna.
+
+              Das alte Bad im Zentrum war zu klein und zu alt. Deshalb hat die Stadt etwa zwölf Millionen Euro in das neue Haus investiert. Das Hallenbad ist von Montag bis Freitag von 8 bis 21 Uhr geöffnet, am Wochenende von 9 bis 19 Uhr. Eine Tageskarte kostet für Erwachsene 6 Euro. Kinder unter sechs Jahren zahlen nichts.
+
+              Wer mit dem Auto kommt, findet vor dem Bad 200 Parkplätze. Die Stadt empfiehlt aber den Bus der Linie 3, der direkt vor dem Eingang hält. Das alte Bad schließt Ende des Monats für immer.
+            items:
+              - type: choice
+                q: Wie lange hat der Bau gedauert?
+                ru: Сколько длилось строительство?
+                options: [ein Jahr, zwei Jahre, drei Jahre]
+                answer: zwei Jahre
+              - type: choice
+                q: Warum hat die Stadt ein neues Bad gebaut?
+                ru: Почему город построил новый бассейн?
+                options: [Das alte Bad war zu klein und zu alt., Das alte Bad war zu teuer., Das alte Bad hatte keinen Parkplatz.]
+                answer: Das alte Bad war zu klein und zu alt.
+              - type: choice
+                q: Wann ist das Bad am Sonntag geöffnet?
+                ru: Когда бассейн открыт в воскресенье?
+                options: [von 8 bis 21 Uhr, von 9 bis 19 Uhr, von 9 bis 21 Uhr]
+                answer: von 9 bis 19 Uhr
+              - type: choice
+                q: Was bezahlt ein fünfjähriges Kind für den Eintritt?
+                ru: Сколько платит за вход пятилетний ребёнок?
+                options: [nichts, drei Euro, sechs Euro]
+                answer: nichts
+              - type: choice
+                q: Was empfiehlt die Stadt den Besuchern?
+                ru: Что город рекомендует посетителям?
+                options: [mit dem Auto zu kommen, mit dem Bus zu fahren, zu Fuß zu gehen]
+                answer: mit dem Bus zu fahren
+      - title: Teil 2
+        task: "Sie sind im Kaufhaus Maurer. Lesen Sie den Wegweiser und die Situationen. In welchen Stock gehen Sie?"
+        task_ru: Вы в универмаге Маурер. Прочитайте указатель и ситуации. На какой этаж вы пойдёте?
+        blocks:
+          - text: |
+              KAUFHAUS MAURER – WEGWEISER
+
+              4. Stock: Café-Restaurant „Aussicht“ mit Dachterrasse · Toiletten
+              3. Stock: Spielwaren · Kinderkleidung · Babyartikel · Kinderbetreuung
+              2. Stock: Damenmode · Herrenmode · Schuhe
+              1. Stock: Handys und Computer · Fernseher · Bücher · Schreibwaren
+              Erdgeschoss: Information · Kosmetik · Schmuck · Bäckerei · Reisebüro
+              Untergeschoss: Supermarkt · Haushaltswaren · Parkgarage
+            items:
+              - type: choice
+                q: Sie suchen ein Geschenk für ein Baby. In welchen Stock gehen Sie?
+                ru: Вы ищете подарок для младенца. На какой этаж вы пойдёте?
+                options: [Erdgeschoss, 1. Stock, 2. Stock, 3. Stock]
+                answer: 3. Stock
+              - type: choice
+                q: Ihr Handy ist kaputt. Sie möchten ein neues kaufen. In welchen Stock gehen Sie?
+                ru: Ваш телефон сломался, вы хотите купить новый. На какой этаж вы пойдёте?
+                options: [Untergeschoss, 1. Stock, 2. Stock, 4. Stock]
+                answer: 1. Stock
+              - type: choice
+                q: Sie brauchen Milch und Brot für das Abendessen. In welchen Stock gehen Sie?
+                ru: Вам нужны молоко и хлеб к ужину. На какой этаж вы пойдёте?
+                options: [Untergeschoss, Erdgeschoss, 2. Stock, 3. Stock]
+                answer: Untergeschoss
+              - type: choice
+                q: Sie möchten einen Kaffee trinken und die Aussicht genießen. In welchen Stock gehen Sie?
+                ru: Вы хотите выпить кофе и полюбоваться видом. На какой этаж вы пойдёте?
+                options: [Erdgeschoss, 1. Stock, 3. Stock, 4. Stock]
+                answer: 4. Stock
+              - type: choice
+                q: Sie brauchen neue Schuhe für den Winter. In welchen Stock gehen Sie?
+                ru: Вам нужна новая зимняя обувь. На какой этаж вы пойдёте?
+                options: [Erdgeschoss, 2. Stock, 3. Stock, 4. Stock]
+                answer: 2. Stock
+      - title: Teil 3
+        task: "Lesen Sie die E-Mail. Kreuzen Sie an: a, b oder c."
+        task_ru: Прочитайте письмо. Выберите a, b или c.
+        blocks:
+          - text: |
+              Betreff: Einladung zur Einweihungsparty
+
+              Liebe Dilara,
+
+              wie geht's dir? Ich habe tolle Neuigkeiten: Ich habe endlich eine neue Wohnung in Graz gefunden! Sie ist nicht groß, aber sehr hell, und der Park ist gleich um die Ecke. Letzten Samstag bin ich umgezogen. Im Wohnzimmer stehen leider noch viele Kisten.
+
+              Am 24. Oktober mache ich ab 18 Uhr eine kleine Einweihungsparty. Kommst du auch? Du kannst gern bei mir übernachten, ich habe ein Sofa. Zum Essen musst du nichts mitbringen, ich koche selbst. Aber Getränke sind schwer, und ich kann nicht alles allein tragen. Bring bitte Saft oder Limonade mit, wenn es geht.
+
+              Sag mir bitte bis Freitag Bescheid, ob du kommst. Ich freue mich sehr auf dich!
+
+              Liebe Grüße
+              Katharina
+            items:
+              - type: choice
+                q: Warum schreibt Katharina die E-Mail?
+                ru: Зачем Катарина пишет письмо?
+                options: [Sie lädt Dilara zu einer Party ein., Sie sucht eine neue Wohnung., Sie möchte Dilara besuchen.]
+                answer: Sie lädt Dilara zu einer Party ein.
+              - type: choice
+                q: Wie ist die neue Wohnung?
+                ru: Какая новая квартира?
+                options: [groß und dunkel, klein und hell, groß und laut]
+                answer: klein und hell
+              - type: choice
+                q: Was soll Dilara mitbringen?
+                ru: Что должна принести Дилара?
+                options: [Essen, Getränke, Kisten]
+                answer: Getränke
+              - type: choice
+                q: Wo kann Dilara schlafen?
+                ru: Где Дилара может переночевать?
+                options: [in einem Hotel, auf dem Sofa, bei einer Nachbarin]
+                answer: auf dem Sofa
+              - type: choice
+                q: Bis wann soll Dilara antworten?
+                ru: До какого времени Дилара должна ответить?
+                options: [bis Freitag, bis Samstag, bis zum 24. Oktober]
+                answer: bis Freitag
+      - title: Teil 4
+        task: "Fünf Personen suchen etwas. Lesen Sie die Situationen und die Anzeigen a bis f. Welche Anzeige passt? Für eine Person gibt es keine passende Anzeige."
+        task_ru: Пять человек что-то ищут. Прочитайте ситуации и объявления a–f. Какое объявление подходит? Для одного человека подходящего объявления нет.
+        blocks:
+          - text: |
+              Anzeige a
+              FAHRRAD ZU VERKAUFEN
+              Damenrad, drei Jahre alt, gut in Schuss, mit Licht und Korb. 120 Euro. Abholung in Innsbruck.
+
+              Anzeige b
+              KOCHKURS „ITALIENISCH KOCHEN“
+              Pizza, Pasta und Tiramisu selbst machen! Volkshochschule Graz, samstags von 10 bis 13 Uhr, sechs Termine, 45 Euro.
+
+              Anzeige c
+              ZIMMER IN WG
+              Wien, 15. Bezirk, 14 m², 380 Euro warm, ab 1. November frei. Wir sind drei Studenten und suchen eine nette Mitbewohnerin oder einen netten Mitbewohner.
+
+              Anzeige d
+              BABYSITTER GESUCHT
+              Familie in Salzburg sucht Babysitter für zwei Kinder (4 und 6 Jahre), dienstags und donnerstags am Nachmittag. 12 Euro pro Stunde.
+
+              Anzeige e
+              FLOHMARKT IM STADTPARK KLAGENFURT
+              Sonntag, 9 bis 16 Uhr. Kleidung, Bücher und Spielzeug – kaufen und verkaufen! Verkäufer bringen einen eigenen Tisch mit. Standgebühr: 5 Euro.
+
+              Anzeige f
+              DEUTSCHKURS A2 AM ABEND
+              Volkshochschule Linz, montags und mittwochs von 18 bis 20 Uhr. Beginn: 3. November. Anmeldung bis 30. Oktober.
+            items:
+              - type: choice
+                q: "Frau Hofer wohnt in Klagenfurt. Sie hat viele alte Bücher und Kinderkleidung und möchte sie am Wochenende verkaufen."
+                ru: Госпожа Хофер живёт в Клагенфурте. У неё много старых книг и детской одежды, и она хочет продать их на выходных.
+                options: [Anzeige a, Anzeige b, Anzeige c, Anzeige d, Anzeige e, Anzeige f, keine passende Anzeige]
+                answer: Anzeige e
+              - type: choice
+                q: "Marek hat in Wien eine neue Arbeit gefunden. Er braucht dringend ein günstiges Zimmer, nicht teurer als 400 Euro."
+                ru: Марек нашёл новую работу в Вене. Ему срочно нужна недорогая комната, не дороже 400 евро.
+                options: [Anzeige a, Anzeige b, Anzeige c, Anzeige d, Anzeige e, Anzeige f, keine passende Anzeige]
+                answer: Anzeige c
+              - type: choice
+                q: "Herr Petrov möchte ein gebrauchtes Auto für seine Familie kaufen. Es soll nicht mehr als 5.000 Euro kosten."
+                ru: Господин Петров хочет купить подержанный автомобиль для семьи. Он должен стоить не больше 5000 евро.
+                options: [Anzeige a, Anzeige b, Anzeige c, Anzeige d, Anzeige e, Anzeige f, keine passende Anzeige]
+                answer: keine passende Anzeige
+              - type: choice
+                q: "Ayşe lebt in Linz. Sie arbeitet tagsüber und möchte abends besser Deutsch lernen."
+                ru: Айше живёт в Линце. Она работает днём и хочет по вечерам лучше выучить немецкий.
+                options: [Anzeige a, Anzeige b, Anzeige c, Anzeige d, Anzeige e, Anzeige f, keine passende Anzeige]
+                answer: Anzeige f
+              - type: choice
+                q: "Jonas wohnt in Graz. Er möchte am Wochenende lernen, wie man Pizza und Pasta macht."
+                ru: Йонас живёт в Граце. Он хочет на выходных научиться готовить пиццу и пасту.
+                options: [Anzeige a, Anzeige b, Anzeige c, Anzeige d, Anzeige e, Anzeige f, keine passende Anzeige]
+                answer: Anzeige b
+  - id: schreiben
+    skill: Schreiben
+    minutes: 30
+    instructions: |
+      Dieser Teil hat zwei Teile. Schreiben Sie in vollständigen Sätzen. Achten Sie auf Anrede und Gruß und schreiben
+      Sie zu allen Punkten.
+    instructions_ru: |
+      В этой части два задания. Пишите законченными предложениями, не забудьте обращение и прощание, раскройте все пункты.
+      Оценка (всего 20 баллов): Teil 1 — 8 баллов (по 2 за каждый из трёх пунктов + 2 за связность и грамматику);
+      Teil 2 — 12 баллов (по 3 за каждый из трёх пунктов + 3 за правильный стиль «Sie», порядок слов и орфографию).
+    writing:
+      - id: a2t1-sch-1
+        exam: Goethe A2 · Schreiben Teil 1
+        kind: Nachricht
+        task: |
+          Sie haben mit Ihrem Freund Marco für Freitagabend ein Treffen im Kino vereinbart. Aber Sie sind krank
+          und können nicht kommen. Schreiben Sie Marco eine SMS (20–30 Wörter). Schreiben Sie zu allen drei Punkten.
+        task_ru: |
+          Вы договорились с другом Марко пойти в пятницу вечером в кино, но заболели и не можете прийти.
+          Напишите Марко SMS (20–30 слов). Раскройте все три пункта.
+        points:
+          - Entschuldigen Sie sich.
+          - Nennen Sie den Grund.
+          - Schlagen Sie einen neuen Termin vor.
+        words: [20, 30]
+        structure:
+          - Обращение (Hallo Marco,)
+          - Извинение
+          - Причина (болезнь)
+          - Предложение нового дня или времени
+          - Прощание и имя
+        redemittel:
+          - de: Es tut mir leid, aber ich kann nicht kommen.
+            ru: Мне очень жаль, но я не смогу прийти.
+          - de: Ich bin leider krank.
+            ru: К сожалению, я болен (больна).
+          - de: Können wir uns am … treffen?
+            ru: Можем ли мы встретиться в …?
+        model: |
+          Hallo Marco,
+
+          es tut mir leid, aber ich kann am Freitag nicht ins Kino kommen. Ich bin krank und liege im Bett. Können wir am Sonntag zusammen ins Kino gehen?
+
+          Bis bald
+          Nikolai
+        checklist:
+          - Есть обращение и прощание?
+          - Раскрыты все три пункта (извинение, причина, новый день)?
+          - Глагол стоит на втором месте в простых предложениях?
+          - После «weil» / «denn» правильный порядок слов (если использовали)?
+          - Объём 20–30 слов?
+      - id: a2t1-sch-2
+        exam: Goethe A2 · Schreiben Teil 2
+        kind: E-Mail
+        task: |
+          Sie besuchen einen Deutschkurs. Letzte Woche waren Sie nicht im Unterricht. Schreiben Sie an Ihre Kursleiterin,
+          Frau Huber, eine E-Mail (30–40 Wörter). Schreiben Sie zu allen drei Punkten.
+        task_ru: |
+          Вы ходите на курс немецкого языка. На прошлой неделе вас не было на занятии. Напишите вашей преподавательнице,
+          госпоже Хубер, письмо (30–40 слов). Раскройте все три пункта.
+        points:
+          - Warum waren Sie nicht im Kurs?
+          - Fragen Sie nach den Hausaufgaben.
+          - Bitten Sie um das Material per E-Mail.
+        words: [30, 40]
+        structure:
+          - Обращение (Sehr geehrte Frau Huber, / Liebe Frau Huber,)
+          - Причина отсутствия
+          - Вопрос о домашнем задании
+          - Просьба прислать материалы по почте
+          - Благодарность и прощание (Vielen Dank! / Mit freundlichen Grüßen + имя)
+        redemittel:
+          - de: Letzte Woche konnte ich leider nicht kommen, weil …
+            ru: На прошлой неделе я, к сожалению, не мог прийти, потому что …
+          - de: Was haben wir als Hausaufgabe?
+            ru: Что было задано на дом?
+          - de: Könnten Sie mir das Material bitte per E-Mail schicken?
+            ru: Не могли бы вы прислать мне материалы по почте?
+          - de: Vielen Dank im Voraus.
+            ru: Заранее большое спасибо.
+        model: |
+          Sehr geehrte Frau Huber,
+
+          letzte Woche war ich nicht im Kurs, weil ich krank war. Was haben wir als Hausaufgabe? Könnten Sie mir bitte das Material per E-Mail schicken, damit ich zu Hause lernen kann? Vielen Dank im Voraus!
+
+          Mit freundlichen Grüßen
+          Olga Smirnova
+        checklist:
+          - Есть обращение и прощание в вежливой форме?
+          - Раскрыты все три пункта?
+          - Обращение к преподавательнице — на «Sie» (Könnten Sie…)?
+          - После «weil» глагол стоит в конце (weil ich krank war)?
+          - Существительные написаны с заглавной буквы?
+          - Объём 30–40 слов?
+    max_points: 20
+  - id: sprechen
+    skill: Sprechen
+    minutes: 15
+    instructions: |
+      Dieser Teil hat drei Teile. Sprechen Sie in ganzen Sätzen. Sie können sich kurz Notizen machen.
+    instructions_ru: |
+      В этой части три задания. Говорите законченными предложениями. Оценка (всего 20 баллов): Teil 1 — 6,
+      Teil 2 — 8, Teil 3 — 6 (содержание, понятность, грамматика, произношение).
+    speaking:
+      - id: a2t1-sp-1
+        exam: Goethe A2 · Sprechen Teil 1
+        task: "Fragen zur Person. Stellen Sie zu jeder Karte eine Frage und antworten Sie auf die Fragen Ihres Partners."
+        task_ru: Вопросы о человеке. По каждой карточке задайте партнёру вопрос и ответьте на его вопросы.
+        prompts: [Wohnort, Familie, Arbeit oder Schule, Freizeit]
+        model: |
+          Wohnort — Wo wohnst du? ~ Ich wohne in Graz, in einer kleinen Wohnung nicht weit vom Zentrum.
+          Familie — Hast du Geschwister? ~ Ja, ich habe eine Schwester. Sie ist zwanzig und studiert in Wien.
+          Arbeit oder Schule — Was machst du beruflich? ~ Ich arbeite als Verkäuferin in einem Supermarkt.
+          Freizeit — Was machst du in deiner Freizeit? ~ Ich gehe gern spazieren und treffe Freunde.
+      - id: a2t1-sp-2
+        exam: Goethe A2 · Sprechen Teil 2
+        task: "Über das eigene Leben erzählen. Thema: Mein Alltag. Erzählen Sie etwas dazu. Die Fragen helfen Ihnen."
+        task_ru: Расскажите о своей жизни. Тема «Мой будний день». Ответьте на подсказки (4–5 предложений).
+        prompts:
+          - Wann stehen Sie normalerweise auf und was machen Sie am Morgen?
+          - Wie kommen Sie zur Arbeit oder zum Deutschkurs?
+          - Was machen Sie am Abend?
+          - Was machen Sie am Wochenende gern?
+        model: |
+          Ich stehe normalerweise um sechs Uhr auf und frühstücke schnell. Dann fahre ich mit der U-Bahn zur Arbeit.
+          Das dauert ungefähr vierzig Minuten. Am Abend koche ich und lerne ein bisschen Deutsch. Am Wochenende
+          schlafe ich lange und gehe gern mit meiner Familie im Park spazieren.
+      - id: a2t1-sp-3
+        exam: Goethe A2 · Sprechen Teil 3
+        task: "Gemeinsam etwas planen. Sie möchten mit Ihrem Partner den Samstag verbringen. Planen Sie den Tag zusammen: Was machen Sie wann? Machen Sie Vorschläge und reagieren Sie auf die Vorschläge Ihres Partners."
+        task_ru: "Вместе что-то спланируйте. Вы хотите провести субботу с партнёром. Спланируйте день: что и когда делаете. Предлагайте и реагируйте на предложения партнёра."
+        prompts: ["Treffpunkt und Uhrzeit", "Vormittag: Einkaufen? Sport?", "Mittag: Essen gehen? Picknick?", "Nachmittag: Museum? Park?", "Abend: Kino? Zusammen kochen?"]
+        model: |
+          Treffpunkt — Wollen wir uns um zehn Uhr am Hauptbahnhof treffen? ~ Ja, gern. Das passt gut.
+          Vormittag — Sollen wir zuerst in der Stadt einkaufen gehen? ~ Gute Idee. Ich brauche neue Schuhe.
+          Mittag — Wir können in einem Restaurant essen. Was meinst du? ~ Ich finde ein Picknick im Park schöner. Das Wetter ist ja gut.
+          Nachmittag — Dann gehen wir danach ins Museum. ~ Ja, das ist ein guter Vorschlag. Das Museum ist bis siebzehn Uhr geöffnet.
+          Abend — Und am Abend? Gehen wir ins Kino? ~ Lieber kochen wir zusammen bei mir zu Hause. Dann sparen wir Geld.
+    max_points: 20

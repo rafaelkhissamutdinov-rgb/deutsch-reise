@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Lädt externe Assets einmalig herunter und legt sie in app-beta/assets ab.
+"""Lädt externe Assets einmalig herunter und legt sie in app/assets ab.
 
 - Microsoft Fluent Emoji 3D (MIT): sucht den Ordner über metadata.json (Feld glyph),
   verkleinert auf 192 px und speichert als WebP.
@@ -20,7 +20,7 @@ import urllib.parse
 import urllib.request
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-APP = os.path.join(ROOT, 'app-beta')
+APP = os.path.join(ROOT, 'app')
 RAW = 'https://raw.githubusercontent.com/microsoft/fluentui-emoji/main'
 
 # key → Ordnername im fluentui-emoji-Repo

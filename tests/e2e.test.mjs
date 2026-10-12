@@ -1,5 +1,5 @@
 // Regressionstests (Playwright + node:test): alle Bildschirme, Übungen, Offline, Kontrast, Daten.
-// Aufruf: node --test tests/   (startet selbst einen statischen Server auf app-beta/)
+// Aufruf: node --test tests/   (startet selbst einen statischen Server auf app/)
 import { test, before, after } from 'node:test';
 import assert from 'node:assert/strict';
 import { createServer } from 'node:http';
@@ -14,7 +14,7 @@ let chromium;
 try { ({ chromium } = require('playwright')); } catch { ({ chromium } = require('/opt/node22/lib/node_modules/playwright')); }
 
 const ROOT = path.resolve(path.dirname(new URL(import.meta.url).pathname), '..');
-const APP = path.join(ROOT, process.env.APP_DIR || 'app-beta');
+const APP = path.join(ROOT, process.env.APP_DIR || 'app');
 const TYPES = { '.html': 'text/html', '.js': 'text/javascript', '.css': 'text/css', '.webp': 'image/webp', '.png': 'image/png', '.woff2': 'font/woff2', '.json': 'application/json', '.webmanifest': 'application/manifest+json' };
 let server, base, browser;
 

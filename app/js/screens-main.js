@@ -28,6 +28,10 @@
       tiles.appendChild(DR.ui.tile(s, { badge: badge }));
     });
     el.appendChild(tiles);
+    if (DR.install.can()) {
+      el.appendChild(h('button.btn.ghost.block', { type: 'button', style: { marginBottom: '16px' }, onclick: function () { DR.install.run(); } },
+        DR.icon('download'), 'App installieren · установить на телефон'));
+    }
     animateTiles(tiles);
   });
   function animateTiles(tiles) {
