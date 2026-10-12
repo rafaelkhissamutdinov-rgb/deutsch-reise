@@ -1,0 +1,232 @@
+# a1-berlin · Wohnung & Alltag (A1)
+
+## Wohnung & Zimmer
+N die Wohnung | Wohnungen | квартира | Die Wohnung hat drei Zimmer. | В квартире три комнаты.
+N das Haus | Häuser | дом | Das Haus hat fünf Stockwerke. | В доме пять этажей.
+N die Küche | Küchen | кухня | Die Küche ist neu. | Кухня новая.
+N das Bad | Bäder | ванная | Das Bad hat kein Fenster. | В ванной нет окна.
+N das Schlafzimmer | Schlafzimmer | спальня | Im Schlafzimmer steht ein großes Bett. | В спальне стоит большая кровать.
+N das Wohnzimmer | Wohnzimmer | гостиная | Wir sehen im Wohnzimmer fern. | Мы смотрим телевизор в гостиной.
+N der Flur | Flure | прихожая; коридор | Die Schuhe stehen im Flur. | Обувь стоит в прихожей. | AT: das Vorzimmer, Vorzimmer
+N der Balkon | Balkons | балкон | Die Wohnung hat einen Balkon. | В квартире есть балкон. | note: мн. ч. также Balkone (так чаще в Австрии и на юге)
+N der Garten | Gärten | сад | Hinter dem Haus ist ein Garten. | За домом есть сад.
+N der Keller | Keller | подвал | Das Fahrrad steht im Keller. | Велосипед стоит в подвале.
+N der Dachboden | Dachböden | чердак | Auf dem Dachboden ist es warm. | На чердаке тепло.
+N das Stockwerk | Stockwerke | этаж | Das Haus hat vier Stockwerke. | В доме четыре этажа.
+N die Etage | Etagen | этаж | Ich wohne in der zweiten Etage. | Я живу на третьем этаже. | note: счёт этажей идёт от Erdgeschoss; в Австрии чаще говорят „im zweiten Stock“
+N das Treppenhaus | Treppenhäuser | лестничная клетка; подъезд | Das Treppenhaus ist dunkel. | На лестничной клетке темно. | AT: das Stiegenhaus, Stiegenhäuser
+N die Tür | Türen | дверь | Mach bitte die Tür zu! | Закрой, пожалуйста, дверь!
+N das Fenster | Fenster | окно | Das Zimmer hat zwei Fenster. | В комнате два окна.
+N die Wand | Wände | стена | Die Wände sind weiß. | Стены белые. | form: Wände
+N der Boden | Böden | пол | Der Boden in der Küche ist kalt. | Пол на кухне холодный.
+N die Heizung | Heizungen | отопление; батарея | Die Heizung ist kaputt. | Отопление сломалось.
+N der Altbau | Altbauten | старый дом (довоенной постройки) | Wir wohnen in einem Altbau. | Мы живём в старом доме.
+N die Anzeige | Anzeigen | объявление | Ich lese die Anzeigen im Internet. | Я читаю объявления в интернете. | AT: das Inserat, Inserate
+N die Besichtigung | Besichtigungen | осмотр (квартиры) | Die Besichtigung ist am Freitag. | Осмотр в пятницу.
+N der Vermieter | Vermieter | арендодатель, хозяин квартиры | Der Vermieter wohnt im Erdgeschoss. | Хозяин квартиры живёт на первом этаже. | note: в Австрии разг. также „der Hausherr“
+N der Hausmeister | Hausmeister | смотритель дома, завхоз | Der Hausmeister repariert die Heizung. | Смотритель дома чинит отопление. | note: в Австрии также „der Hausbesorger“
+N die Wohngemeinschaft | Wohngemeinschaften | совместная квартира (WG) | Ich wohne in einer Wohngemeinschaft. | Я живу в совместной квартире. | note: сокращение — die WG [ве-ге]
+N der Mitbewohner | Mitbewohner | сосед по квартире | Mein Mitbewohner heißt Jonas. | Моего соседа по квартире зовут Йонас.
+N die Mitbewohnerin | Mitbewohnerinnen | соседка по квартире | Meine Mitbewohnerin kocht gern. | Моя соседка по квартире любит готовить.
+N der Nachbar | Nachbarn | сосед | Unser Nachbar ist sehr laut. | Наш сосед очень шумный.
+N der Mietvertrag | Mietverträge | договор аренды | Der Mietvertrag ist für zwei Jahre. | Договор аренды — на два года.
+N die Hausordnung | Hausordnungen | правила дома (для жильцов) | Die Hausordnung hängt im Treppenhaus. | Правила для жильцов висят на лестничной клетке.
+N die Klingel | Klingeln | дверной звонок | Die Klingel ist kaputt. | Звонок не работает.
+N der Briefkasten | Briefkästen | почтовый ящик | Mein Name steht am Briefkasten. | Моё имя написано на почтовом ящике.
+N die Steckdose | Steckdosen | розетка | Im Bad gibt es keine Steckdose. | В ванной нет розетки.
+N das Haustier | Haustiere | домашнее животное | Haustiere sind in der Wohnung nicht erlaubt. | Домашние животные в квартире запрещены.
+N der Umzug | Umzüge | переезд | Der Umzug ist am Samstag. | Переезд в субботу.
+
+## Möbel & Haushalt
+N die Möbel | Pl. | мебель | Die Möbel sind alt, aber schön. | Мебель старая, но красивая. | note: в немецком обычно мн. ч.; ед. ч. das Möbel(stück) — один предмет
+N der Tisch | Tische | стол | Der Tisch steht in der Küche. | Стол стоит на кухне.
+N der Stuhl | Stühle | стул | Wir brauchen noch zwei Stühle. | Нам нужны ещё два стула. | AT: der Sessel, Sessel | form: Stühle
+N der Sessel | Sessel | кресло | Der Sessel ist sehr bequem. | Кресло очень удобное. | AT: der Fauteuil, Fauteuils | note: в Австрии „Sessel“ значит «стул»
+N das Sofa | Sofas | диван | Das Sofa ist grau. | Диван серый.
+N das Bett | Betten | кровать | Das Bett ist zu kurz. | Кровать слишком короткая.
+N das Regal | Regale | полка; стеллаж | Die Bücher stehen im Regal. | Книги стоят на полке.
+N der Schreibtisch | Schreibtische | письменный стол | Mein Schreibtisch steht am Fenster. | Мой письменный стол стоит у окна.
+N die Lampe | Lampen | лампа | Die Lampe ist zu hell. | Лампа слишком яркая.
+N das Kissen | Kissen | подушка | Auf dem Sofa liegen drei Kissen. | На диване лежат три подушки. | AT: der Polster, Pölster
+N der Kühlschrank | Kühlschränke | холодильник | Der Kühlschrank ist leer. | Холодильник пустой. | AT: der Eiskasten, Eiskästen | note: Eiskasten — разговорное, чуть устаревающее
+N der Herd | Herde | плита | Der Herd ist neu. | Плита новая.
+N die Waschmaschine | Waschmaschinen | стиральная машина | Die Waschmaschine steht im Bad. | Стиральная машина стоит в ванной.
+N die Spülmaschine | Spülmaschinen | посудомоечная машина | Die Küche hat keine Spülmaschine. | На кухне нет посудомоечной машины. | AT: der Geschirrspüler, Geschirrspüler
+N die Dusche | Duschen | душ | Die Dusche ist klein. | Душ маленький.
+N das Waschbecken | Waschbecken | раковина | Das Waschbecken ist schmutzig. | Раковина грязная. | AT: die Waschmuschel, Waschmuscheln
+N der Fernseher | Fernseher | телевизор | Der Fernseher steht im Wohnzimmer. | Телевизор стоит в гостиной.
+N der Staubsauger | Staubsauger | пылесос | Wo ist der Staubsauger? | Где пылесос?
+N der Müll | Sg. | мусор | Bringst du bitte den Müll runter? | Вынесешь, пожалуйста, мусор? | AT: der Mist
+N der Mülleimer | Mülleimer | мусорное ведро | Der Mülleimer ist voll. | Мусорное ведро полное. | AT: der Mistkübel, Mistkübel
+N die Tüte | Tüten | пакет | Brauchen Sie eine Tüte? | Вам нужен пакет? | AT: das Sackerl, Sackerl
+N der Teller | Teller | тарелка | Die Teller sind im Schrank. | Тарелки в шкафу.
+N die Uhr | Uhren | часы | Die Uhr in der Küche geht falsch. | Часы на кухне идут неправильно.
+N der Putzplan | Putzpläne | график уборки | Der Putzplan hängt in der Küche. | График уборки висит на кухне.
+N das Möbelhaus | Möbelhäuser | мебельный магазин | Wir kaufen das Sofa im Möbelhaus. | Мы покупаем диван в мебельном магазине.
+
+## Farben & Eigenschaften
+N die Farbe | Farben | цвет | Welche Farbe hat dein Sofa? | Какого цвета твой диван?
+W rot | Adj. | красный | Die Tür ist rot. | Дверь красная.
+W blau | Adj. | синий; голубой | Das Bad ist blau. | Ванная синяя.
+W grün | Adj. | зелёный | Die Pflanze ist grün. | Растение зелёное.
+W gelb | Adj. | жёлтый | Die Küche ist gelb. | Кухня жёлтая.
+W weiß | Adj. | белый | Die Wände sind weiß. | Стены белые.
+W schwarz | Adj. | чёрный | Der Stuhl ist schwarz. | Стул чёрный.
+W grau | Adj. | серый | Das Haus ist grau und alt. | Дом серый и старый.
+W braun | Adj. | коричневый | Der Tisch ist braun. | Стол коричневый.
+W bunt | Adj. | разноцветный, пёстрый | Der Teppich ist bunt. | Ковёр пёстрый.
+W hell | Adj. | светлый | Das Wohnzimmer ist hell. | Гостиная светлая.
+W dunkel | Adj. | тёмный | Der Flur ist dunkel. | Прихожая тёмная.
+W billig | Adj. | дешёвый | Das Zimmer ist billig. | Комната дешёвая.
+W günstig | Adj. | недорогой, выгодный | Die Miete ist günstig. | Аренда недорогая.
+W teuer | Adj. | дорогой | Die Wohnung ist zu teuer. | Квартира слишком дорогая.
+W gemütlich | Adj. | уютный | Mein Zimmer ist klein, aber gemütlich. | Моя комната маленькая, но уютная.
+W ruhig | Adj. | тихий, спокойный | Die Straße ist ruhig. | Улица тихая.
+W laut | Adj. | шумный, громкий | Die Nachbarn sind laut. | Соседи шумные.
+W sauber | Adj. | чистый | Das Bad ist sauber. | Ванная чистая.
+W schmutzig | Adj. | грязный | Der Boden ist schmutzig. | Пол грязный.
+W bequem | Adj. | удобный | Das Bett ist bequem. | Кровать удобная.
+W möbliert | Adj. | меблированный | Das Zimmer ist möbliert. | Комната с мебелью.
+W kaputt | Adj. | сломанный | Die Waschmaschine ist kaputt. | Стиральная машина сломалась.
+W hoch | Adj. | высокий | Die Miete ist sehr hoch. | Аренда очень высокая. | note: перед существительным — hoh-: eine hohe Miete
+W leise | Adj. | тихий (о звуке) | Bitte seid nach zehn Uhr leise! | Пожалуйста, после десяти не шумите!
+W voll | Adj. | полный | Der Mülleimer ist schon wieder voll. | Мусорное ведро опять полное.
+W leer | Adj. | пустой | Die Wohnung ist noch leer. | Квартира ещё пустая.
+
+## Uhrzeit & Tagesablauf
+V auf·stehen | steht auf | stand auf | ist aufgestanden | вставать | Ich stehe um sechs Uhr auf. | Я встаю в шесть часов. | form: stehe
+V frühstücken | frühstückt | frühstückte | hat gefrühstückt | завтракать | Wir frühstücken in der Küche. | Мы завтракаем на кухне.
+V duschen | duscht | duschte | hat geduscht | принимать душ | Ich dusche am Morgen. | Я принимаю душ утром. | form: dusche
+V ein·kaufen | kauft ein | kaufte ein | hat eingekauft | делать покупки | Am Samstag kaufen wir ein. | В субботу мы ходим за покупками. | form: kaufen
+V auf·räumen | räumt auf | räumte auf | hat aufgeräumt | убирать (наводить порядок) | Ich räume mein Zimmer auf. | Я убираю свою комнату. | form: räume
+V putzen | putzt | putzte | hat geputzt | чистить, мыть, убирать | Wer putzt heute das Bad? | Кто сегодня моет ванную? | form: putzt
+V kochen | kocht | kochte | hat gekocht | готовить (еду) | Mein Mitbewohner kocht sehr gut. | Мой сосед по квартире очень хорошо готовит. | form: kocht
+V spülen | spült | spülte | hat gespült | мыть посуду | Nach dem Essen spüle ich. | После еды я мою посуду. | note: в Австрии чаще „abwaschen“ | form: spüle
+V waschen | wäscht | wusch | hat gewaschen | стирать; мыть | Am Sonntag wäscht sie ihre Kleidung. | В воскресенье она стирает одежду. | form: wäscht
+V an·fangen | fängt an | fing an | hat angefangen | начинать(ся) | Der Kurs fängt um neun an. | Курс начинается в девять. | form: fängt
+V auf·hören | hört auf | hörte auf | hat aufgehört | заканчивать(ся), прекращать | Die Arbeit hört um fünf auf. | Работа заканчивается в пять. | form: hört
+V fern·sehen | sieht fern | sah fern | hat ferngesehen | смотреть телевизор | Am Abend sehe ich fern. | Вечером я смотрю телевизор. | form: sehe
+V schlafen | schläft | schlief | hat geschlafen | спать | Mein Bruder schläft bis zehn. | Мой брат спит до десяти. | form: schläft
+V ins Bett gehen | geht ins Bett | ging ins Bett | ist ins Bett gegangen | ложиться спать | Ich gehe um elf ins Bett. | Я ложусь спать в одиннадцать. | form: gehe
+V mit·kommen | kommt mit | kam mit | ist mitgekommen | идти вместе (с кем-то) | Kommst du mit ins Kino? | Пойдёшь со мной в кино? | form: Kommst
+V ab·holen | holt ab | holte ab | hat abgeholt | забирать (кого-то, что-то) | Ich hole dich um acht ab. | Я заберу тебя в восемь. | form: hole
+V an·rufen | ruft an | rief an | hat angerufen | звонить (по телефону) | Ruf mich bitte morgen an! | Позвони мне, пожалуйста, завтра! | rek: + Akk. | form: Ruf
+V vor·haben | hat vor | hatte vor | hat vorgehabt | планировать, собираться | Was hast du am Samstag vor? | Что ты планируешь на субботу? | form: hast
+N die Uhrzeit | Uhrzeiten | время (по часам) | Notier bitte die Uhrzeit! | Запиши, пожалуйста, время!
+N die Stunde | Stunden | час (60 минут) | Die Besichtigung dauert eine Stunde. | Осмотр длится час.
+N die Minute | Minuten | минута | Ich komme in zehn Minuten. | Я приду через десять минут.
+N das Viertel | Viertel | четверть; район | Es ist Viertel nach acht. | Сейчас четверть девятого.
+N der Morgen | Morgen | утро | Am Morgen trinke ich Kaffee. | Утром я пью кофе.
+N der Nachmittag | Nachmittage | время после полудня | Am Nachmittag räume ich auf. | После обеда я убираюсь.
+N der Abend | Abende | вечер | Am Abend kochen wir zusammen. | Вечером мы готовим вместе.
+N das Mittagessen | Mittagessen | обед | Das Mittagessen ist um eins. | Обед в час.
+N das Abendessen | Abendessen | ужин | Zum Abendessen gibt es Suppe. | На ужин суп. | AT: das Nachtmahl, Nachtmähler
+N der Termin | Termine | встреча (назначенная), приём | Ich habe am Montag einen Termin. | У меня в понедельник встреча.
+N der Feierabend | Feierabende | конец рабочего дня | Um fünf habe ich Feierabend. | В пять у меня заканчивается рабочий день.
+N der Tagesablauf | Tagesabläufe | распорядок дня | Beschreib bitte deinen Tagesablauf! | Опиши, пожалуйста, свой распорядок дня!
+W morgens | Adv. | по утрам | Morgens trinke ich Tee. | По утрам я пью чай.
+W abends | Adv. | по вечерам | Abends lese ich. | По вечерам я читаю.
+W früh | Adj. | рано; ранний | Ich stehe früh auf. | Я встаю рано.
+W spät | Adj. | поздно; поздний | Es ist schon spät. | Уже поздно.
+W zuerst | Adv. | сначала | Zuerst dusche ich, dann frühstücke ich. | Сначала я принимаю душ, потом завтракаю.
+W dann | Adv. | потом, затем | Dann gehe ich zur Arbeit. | Потом я иду на работу.
+W danach | Adv. | после этого | Danach räume ich die Küche auf. | После этого я убираю кухню.
+W immer | Adv. | всегда | Ich frühstücke immer zu Hause. | Я всегда завтракаю дома.
+W oft | Adv. | часто | Wir kochen oft zusammen. | Мы часто готовим вместе.
+W manchmal | Adv. | иногда | Manchmal schlafe ich bis zehn. | Иногда я сплю до десяти.
+W nie | Adv. | никогда | Er räumt nie auf. | Он никогда не убирается.
+W halb | Adj. | половина | Es ist halb acht. | Сейчас половина восьмого. | note: halb acht = 7:30 (половина до восьми)
+W Wie spät ist es? | Phrase | Который час? | Entschuldigung, wie spät ist es? | Извините, который час?
+W sofort | Adv. | сразу, немедленно | Die Wohnung ist ab sofort frei. | Квартира свободна прямо сейчас.
+
+## Wochentage & Monate & Jahreszeiten
+N die Woche | Wochen | неделя | Nächste Woche habe ich Zeit. | На следующей неделе у меня есть время.
+N das Wochenende | Wochenenden | выходные | Am Wochenende schlafe ich lange. | По выходным я долго сплю.
+N der Monat | Monate | месяц | Die Miete zahle ich jeden Monat. | Аренду я плачу каждый месяц.
+W der Montag | Nomen | понедельник | Am Montag habe ich einen Deutschkurs. | В понедельник у меня курс немецкого.
+W der Dienstag | Nomen | вторник | Am Dienstag putze ich das Bad. | Во вторник я мою ванную.
+W der Mittwoch | Nomen | среда | Am Mittwoch gehe ich einkaufen. | В среду я иду за покупками.
+W der Donnerstag | Nomen | четверг | Am Donnerstag kommt der Hausmeister. | В четверг приходит смотритель дома.
+W der Freitag | Nomen | пятница | Am Freitag ist die Besichtigung. | В пятницу осмотр.
+W der Samstag | Nomen | суббота | Am Samstag räumen wir auf. | В субботу мы убираемся. | note: на севере Германии также „der Sonnabend“
+W der Sonntag | Nomen | воскресенье | Am Sonntag frühstücken wir lange. | В воскресенье мы долго завтракаем.
+W der Februar | Nomen | февраль | Im Februar habe ich Geburtstag. | В феврале у меня день рождения. | note: в Австрии разг. иногда „der Feber“
+W der März | Nomen | март | Die Wohnung ist ab März frei. | Квартира свободна с марта.
+W der April | Nomen | апрель | Im April ziehe ich um. | В апреле я переезжаю.
+W der Mai | Nomen | май | Im Mai ist es schon warm. | В мае уже тепло.
+W der Juni | Nomen | июнь | Der Kurs endet im Juni. | Курс заканчивается в июне.
+W der Juli | Nomen | июль | Im Juli fahre ich nach Hause. | В июле я еду домой.
+W der August | Nomen | август | Im August ist es heiß. | В августе жарко.
+W der September | Nomen | сентябрь | Das Studium beginnt im September. | Учёба начинается в сентябре.
+W der Oktober | Nomen | октябрь | Ich wohne seit Oktober in Berlin. | Я живу в Берлине с октября.
+W der November | Nomen | ноябрь | Im November regnet es oft. | В ноябре часто идёт дождь.
+W der Dezember | Nomen | декабрь | Im Dezember sind die Tage kurz. | В декабре дни короткие.
+W der Frühling | Nomen | весна | Im Frühling sitzen wir oft auf dem Balkon. | Весной мы часто сидим на балконе.
+W der Sommer | Nomen | лето | Im Sommer ist das Zimmer sehr warm. | Летом в комнате очень тепло.
+W der Herbst | Nomen | осень | Im Herbst suche ich eine Wohnung. | Осенью я ищу квартиру.
+W der Winter | Nomen | зима | Im Winter ist die Heizung teuer. | Зимой отопление дорогое.
+N die Jahreszeit | Jahreszeiten | время года | Welche Jahreszeit magst du? | Какое время года тебе нравится?
+
+## Freizeit zu Hause
+N die Freizeit | Sg. | свободное время | In der Freizeit lese ich gern. | В свободное время я люблю читать.
+N das Buch | Bücher | книга | Ich lese ein Buch. | Я читаю книгу.
+N der Film | Filme | фильм | Wir sehen einen Film. | Мы смотрим фильм.
+N die Serie | Serien | сериал | Ich sehe gern Serien. | Я люблю смотреть сериалы.
+V sehen | sieht | sah | hat gesehen | видеть; смотреть | Siehst du den Balkon? | Ты видишь балкон? | form: Siehst
+V essen | isst | aß | hat gegessen | есть, кушать | Was isst du zum Frühstück? | Что ты ешь на завтрак? | form: isst
+V nehmen | nimmt | nahm | hat genommen | брать | Ich nehme das Zimmer. | Я беру эту комнату. | form: nehme
+V treffen | trifft | traf | hat getroffen | встречать (кого-то) | Am Abend treffe ich Freunde. | Вечером я встречаюсь с друзьями. | form: treffe
+V laufen | läuft | lief | ist gelaufen | бегать; идти пешком | Er läuft jeden Morgen. | Он бегает каждое утро. | form: läuft
+V helfen | hilft | half | hat geholfen | помогать | Hilfst du mir in der Küche? | Поможешь мне на кухне? | rek: + Dat. | form: Hilfst
+V ein·laden | lädt ein | lud ein | hat eingeladen | приглашать | Ich lade dich zum Essen ein. | Я приглашаю тебя на ужин. | rek: + Akk. | form: lade
+W zu Hause | Phrase | дома | Heute bleibe ich zu Hause. | Сегодня я остаюсь дома. | note: допустимо и слитное написание „zuhause“
+W nach Hause | Phrase | домой | Wann kommst du nach Hause? | Когда ты придёшь домой?
+
+## Suchen, mieten, einrichten
+V kaufen | kauft | kaufte | hat gekauft | покупать | Wir kaufen ein Sofa. | Мы покупаем диван. | rek: + Akk.
+V mieten | mietet | mietete | hat gemietet | снимать, арендовать | Sie mietet eine kleine Wohnung. | Она снимает маленькую квартиру. | rek: + Akk. | form: mietet
+V geben | gibt | gab | hat gegeben | давать | In der Küche gibt es einen Herd. | На кухне есть плита. | note: es gibt + Akk. — «есть, имеется» | form: gibt
+V ein·ziehen | zieht ein | zog ein | ist eingezogen | въезжать | Wir ziehen am Montag ein. | Мы въезжаем в понедельник. | form: ziehen
+V um·ziehen | zieht um | zog um | ist umgezogen | переезжать | Ich ziehe nach Berlin um. | Я переезжаю в Берлин. | form: ziehe
+V liegen | liegt | lag | hat gelegen | лежать; находиться | Die Wohnung liegt im Zentrum. | Квартира находится в центре. | note: в Австрии и на юге Perfekt: „ist gelegen“ | form: liegt
+V stehen | steht | stand | hat gestanden | стоять | Das Bett steht am Fenster. | Кровать стоит у окна. | note: в Австрии и на юге Perfekt: „ist gestanden“ | form: steht
+V gefallen | gefällt | gefiel | hat gefallen | нравиться | Die Wohnung gefällt mir. | Квартира мне нравится. | rek: + Dat. | form: gefällt
+V öffnen | öffnet | öffnete | hat geöffnet | открывать | Kannst du bitte das Fenster öffnen? | Можешь, пожалуйста, открыть окно?
+V schließen | schließt | schloss | hat geschlossen | закрывать | Schließ bitte die Tür! | Закрой, пожалуйста, дверь! | form: Schließ
+V an·machen | macht an | machte an | hat angemacht | включать | Mach bitte das Licht an! | Включи, пожалуйста, свет! | form: Mach
+V aus·machen | macht aus | machte aus | hat ausgemacht | выключать | Machst du bitte den Fernseher aus? | Выключишь, пожалуйста, телевизор? | form: Machst
+N das Licht | Lichter | свет | Das Licht im Flur ist kaputt. | Свет в прихожей не работает.
+V zu·machen | macht zu | machte zu | hat zugemacht | закрывать | Mach bitte das Fenster zu! | Закрой, пожалуйста, окно! | form: Mach | note: разговорный синоним schließen
+V auf·machen | macht auf | machte auf | hat aufgemacht | открывать | Machst du bitte die Tür auf? | Откроешь, пожалуйста, дверь? | form: Machst | note: разговорный синоним öffnen
+V reparieren | repariert | reparierte | hat repariert | ремонтировать, чинить | Wer repariert die Heizung? | Кто починит отопление?
+V teilen | teilt | teilte | hat geteilt | делить; пользоваться вместе | Wir teilen die Küche. | Мы пользуемся кухней вместе.
+
+## Zahlen ab 100 & Preise
+W zweihundert | Num. | двести | Das Sofa kostet zweihundert Euro. | Диван стоит двести евро.
+W dreihundertfünfzig | Num. | триста пятьдесят | Die Miete ist dreihundertfünfzig Euro. | Аренда — триста пятьдесят евро.
+W tausend | Num. | тысяча | Die Kaution ist tausend Euro. | Залог — тысяча евро. | note: также eintausend
+N der Euro | Euro | евро | Das Zimmer kostet 450 Euro. | Комната стоит 450 евро. | note: после числа без окончания: 10 Euro
+N der Preis | Preise | цена | Der Preis ist zu hoch. | Цена слишком высокая.
+N die Miete | Mieten | арендная плата | Die Miete ist 600 Euro im Monat. | Аренда — 600 евро в месяц.
+N die Kaltmiete | Kaltmieten | аренда без коммунальных | Die Kaltmiete ist 520 Euro. | Аренда без коммунальных — 520 евро.
+N die Nebenkosten | Pl. | коммунальные платежи | Die Nebenkosten sind 120 Euro. | Коммунальные — 120 евро. | AT: die Betriebskosten, Betriebskosten
+N die Kaution | Kautionen | залог (депозит) | Die Kaution ist zwei Monatsmieten. | Залог — две месячные платы.
+N der Quadratmeter | Quadratmeter | квадратный метр | Das Zimmer hat 18 Quadratmeter. | Комната — 18 квадратных метров. | note: пишут m²: 18 m²
+N der Strom | Sg. | электричество | Der Strom ist nicht inklusive. | Электричество не включено.
+V bezahlen | bezahlt | bezahlte | hat bezahlt | платить, оплачивать | Ich bezahle die Miete am Ersten. | Я плачу аренду первого числа. | rek: + Akk. | form: bezahle
+W pro | Präp. | за, на (каждый) | Das kostet zehn Euro pro Quadratmeter. | Это стоит десять евро за квадратный метр.
+W inklusive | Präp. | включая | Die Miete ist 500 Euro inklusive Nebenkosten. | Аренда — 500 евро включая коммунальные. | note: сокращение inkl.
+W Wie viel kostet …? | Phrase | Сколько стоит …? | Wie viel kostet die Wohnung? | Сколько стоит квартира? | form: Wie viel kostet
+W erste | Num. | первый | Ich wohne im ersten Stock. | Я живу на втором этаже. | form: ersten
+
+## Präpositionen der Zeit
+W am | Präp. | в (день, часть суток, дата) | Am Montag habe ich Zeit. | В понедельник у меня есть время. | note: am = an + dem: am Montag, am Abend, am 3. Mai
+W um | Präp. | в (точное время) | Der Kurs beginnt um acht Uhr. | Курс начинается в восемь часов.
+W im | Präp. | в (месяц, время года) | Im Juli ist es heiß. | В июле жарко. | note: im = in + dem: im Mai, im Sommer
+W von … bis | Präp. | с … до | Ich arbeite von neun bis fünf. | Я работаю с девяти до пяти. | form: von
+W ab | Präp. | с (какого-то момента) | Die Wohnung ist ab Mai frei. | Квартира свободна с мая.
+W bis | Präp. | до | Ich schlafe bis neun. | Я сплю до девяти.
+W vor | Präp. | без (о времени); перед | Es ist zehn vor acht. | Сейчас без десяти восемь.
+W nach | Präp. | после; (о времени) ... минут после | Es ist fünf nach drei. | Сейчас пять минут четвёртого.
+W gegen | Präp. | около (о времени) | Ich komme gegen sieben. | Я приду около семи.
+W seit | Präp. | с (какого-то момента и до сих пор) | Ich wohne seit zwei Monaten hier. | Я живу здесь уже два месяца. | note: seit + Dat.

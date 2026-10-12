@@ -1,0 +1,1263 @@
+id: a1-hamburg
+level: A1
+city: Hamburg
+country: DE
+title: Ankommen & Sich vorstellen
+title_ru: Приезд и знакомство
+intro: |
+  Вы приезжаете в Гамбург: вокзал, хостел или отель, первый день на языковых курсах.
+  В юните учимся представляться, говорить, откуда вы и где живёте, задавать простые вопросы и понимать объявления на вокзале.
+  Грамматика: личные местоимения, sein и haben, настоящее время, вопросы, артикли и отрицание с nicht и kein.
+
+grammar:
+  # ------------------------------------------------------------------
+  - id: hh-g-pronomen-sein-haben
+    title: Personalpronomen, sein und haben im Präsens
+    title_ru: Личные местоимения и глаголы sein и haben в настоящем времени
+    terms:
+      - t: Personalpronomen
+        ru: личное местоимение (ich, du, er, sie, es, wir, ihr, sie, Sie)
+      - t: Präsens
+        ru: настоящее время
+      - t: Infinitiv
+        ru: начальная форма глагола (sein, haben)
+      - t: Subjekt
+        ru: подлежащее — кто или что делает действие (ich, der Zug)
+      - t: Singular (Sg.)
+        ru: единственное число
+      - t: Plural (Pl.)
+        ru: множественное число
+      - t: 1./2./3. Person
+        ru: "лицо: 1-е — ich, wir; 2-е — du, ihr; 3-е — er, sie, es, sie (они)"
+      - t: Höflichkeitsform (Sie)
+        ru: вежливое обращение на «Вы»; пишется с большой буквы
+    meaning: |
+      Личные местоимения стоят вместо имени или предмета: Olena → sie, Herr Kaya → er.
+      Немецкий глагол меняет форму по лицу. sein («быть») и haben («иметь») — неправильные глаголы: их формы не строятся по общему правилу, их нужно выучить.
+      В русском «быть» в настоящем времени обычно пропускают («Я студент»). В немецком глагол обязателен: Ich bin Student.
+      haben значит «у меня есть»: Ich habe einen Bruder. — У меня есть брат.
+      du — один человек на «ты»; ihr — несколько человек на «ты»; Sie — вежливое «Вы» (одному или нескольким). Глагол у Sie такой же, как у sie («они»): Sie sind, Sie haben.
+      Предмет заменяют местоимением по немецкому роду: der Koffer → er, die Tasche → sie, das Hotel → es.
+    steps:
+      - de: Ich bin Olena. Ich bin 28 Jahre alt.
+        ru: ich → bin. Возраст называют с sein, а не с haben.
+      - de: Du bist neu hier, oder?
+        ru: du → bist.
+      - de: Das ist Herr Kaya. Er ist Koch. Er hat zwei Kinder.
+        ru: er (Herr Kaya) → ist, hat.
+      - de: Wir sind im Hotel. Wir haben ein Doppelzimmer.
+        ru: wir → sind, haben.
+      - de: Seid ihr aus Polen? – Ja, wir sind aus Danzig.
+        ru: ihr → seid.
+      - de: Frau Weber, haben Sie einen Stadtplan?
+        ru: Вежливое Sie → haben, как у sie («они»).
+      - de: Wo ist der Koffer? – Er ist hier.
+        ru: "der Koffer → er: местоимение выбирают по немецкому роду."
+    table:
+      head: [Person, sein, haben]
+      rows:
+        - [ich, bin, habe]
+        - [du, bist, hast]
+        - [er / sie / es, ist, hat]
+        - [wir, sind, haben]
+        - [ihr, seid, habt]
+        - [sie / Sie, sind, haben]
+    exam: |
+      Формы sein и haben нужны на A1 во всех частях экзамена. В Sprechen Teil 1 вы рассказываете о себе: Ich bin …, Ich habe … В Schreiben ошибка вроде «ich hat» сразу заметна.
+      В Lesen и Hören по форме глагола понятно, о ком речь: sie ist — «она», sie sind — «они».
+    traps:
+      - "Возраст — с sein: Ich bin 20 (Jahre alt). Не «Ich habe 20 Jahre»."
+      - "ihr seid (форма sein) ≠ seit (предлог «с какого-то времени»): Seid ihr müde? — Ich bin seit Montag hier."
+      - "du hast, er hat — без b: не «du habst», не «er habt»."
+      - "sie ist = она; sie sind = они; Sie sind = Вы. Смотрите на форму глагола и на заглавную букву."
+      - "Предметы заменяют по немецкому роду: der Zug → er, die Fahrkarte → sie, das Hotel → es."
+    exercises:
+      - type: choice
+        q: Ich ___ Student.
+        options: [bin, bist, ist]
+        answer: bin
+        why: ich → bin.
+      - type: choice
+        q: ___ ihr aus Österreich?
+        options: [Seid, Sind, Seit]
+        answer: Seid
+        why: ihr → seid. Seit — это предлог «с (какого времени)».
+      - type: choice
+        q: Wie alt bist du? – Ich ___ 19.
+        options: [bin, habe, hat]
+        answer: bin
+        why: Возраст — с sein, не с haben.
+      - type: choice
+        q: Der Koffer ist schwer. ___ ist sehr groß.
+        options: [Er, Sie, Es]
+        answer: Er
+        why: der Koffer — мужской род → er.
+      - type: choice
+        q: Frau Lindner, ___ Sie einen Moment Zeit?
+        options: [haben, hat, habt]
+        answer: haben
+        why: Вежливое Sie → haben.
+      - type: gap
+        q: Mein Bruder ___ zwei Kinder. (haben)
+        answer: [hat]
+        why: er (mein Bruder) → hat.
+      - type: gap
+        q: Du ___ sehr nett! (sein)
+        answer: [bist]
+        why: du → bist.
+      - type: gap
+        q: Wir ___ ein Zimmer im Hotel. (haben)
+        answer: [haben]
+        why: wir → haben.
+      - type: gap
+        q: Wo ist die Tasche? – ___ ist im Zimmer.
+        answer: [Sie]
+        why: die Tasche — женский род → sie. В начале предложения с большой буквы.
+      - type: table
+        title: sein — Präsens
+        head: [Person, sein]
+        rows:
+          - [ich, "?bin"]
+          - [du, "?bist"]
+          - [er / sie / es, "?ist"]
+          - [wir, "?sind"]
+          - [ihr, "?seid"]
+          - [sie / Sie, "?sind"]
+      - type: table
+        title: haben — Präsens
+        head: [Person, haben]
+        rows:
+          - [ich, "?habe"]
+          - [du, "?hast"]
+          - [er / sie / es, "?hat"]
+          - [wir, "?haben"]
+          - [ihr, "?habt"]
+          - [sie / Sie, "?haben"]
+      - type: order
+        answer: Ich bin 25 Jahre alt.
+        tokens: [Ich, bin, 25 Jahre, alt]
+        ru: Мне 25 лет.
+      - type: order
+        answer: Hast du Geschwister?
+        tokens: [Hast, du, Geschwister]
+        ru: У тебя есть братья или сёстры?
+
+  # ------------------------------------------------------------------
+  - id: hh-g-praesens
+    title: "Präsens: regelmäßige Verben"
+    title_ru: Настоящее время правильных глаголов
+    terms:
+      - t: Präsens
+        ru: настоящее время
+      - t: Infinitiv
+        ru: начальная форма глагола (wohnen, arbeiten)
+      - t: Verbstamm (Stamm)
+        ru: основа глагола — Infinitiv без -en (wohn-en → wohn-)
+      - t: Endung
+        ru: окончание (-e, -st, -t, -en)
+      - t: regelmäßig
+        ru: правильный глагол — основа не меняется, окончания по правилу
+      - t: -t-/-d-Stamm
+        ru: основа кончается на -t или -d (arbeit-, find-)
+      - t: -s-/-ß-/-z-Stamm
+        ru: основа кончается на -s, -ß или -z (reis-, heiß-, tanz-)
+      - t: Vokalwechsel
+        ru: смена гласной в основе у некоторых неправильных глаголов (sprechen → du sprichst)
+      - t: Person
+        ru: лицо (ich, du, er …)
+      - t: Singular (Sg.) / Plural (Pl.)
+        ru: единственное / множественное число
+    meaning: |
+      Präsens — настоящее время: что происходит сейчас или обычно. Ich wohne in Hamburg. — Я живу в Гамбурге.
+      С указанием времени Präsens часто говорит и о будущем: Morgen fahre ich nach Kiel. — Завтра я еду в Киль.
+      Как образовать: Infinitiv минус -en = основа (lern-en → lern-). К основе добавляем окончание: ich -e, du -st, er/sie/es -t, wir -en, ihr -t, sie/Sie -en.
+      Основа на -t или -d (arbeit-, find-): перед -st и -t вставляем -e-: du arbeitest, er findet, ihr arbeitet.
+      Основа на -s, -ß или -z (reis-, heiß-, tanz-): у du только -t: du heißt, du tanzt.
+    steps:
+      - de: "wohnen → Stamm: wohn-"
+        ru: Отрезаем -en, получаем основу.
+      - de: Ich wohne in Altona.
+        ru: ich → wohn + e.
+      - de: Du wohnst in Barmbek.
+        ru: du → wohn + st.
+      - de: Emre wohnt im Hostel.
+        ru: er (Emre) → wohn + t.
+      - de: Wir lernen Deutsch, und ihr lernt Englisch.
+        ru: wir → lern + en; ihr → lern + t.
+      - de: Arbeitest du heute? – Ja, ich arbeite bis 18 Uhr.
+        ru: Основа arbeit- → du arbeit + e + st.
+      - de: Daria findet den Bahnhof nicht.
+        ru: Основа find- → sie find + e + t.
+      - de: Wie heißt du?
+        ru: Основа heiß- → du heiß + t (не «heißst»).
+    table:
+      head: [Person, wohnen, arbeiten, heißen]
+      rows:
+        - [ich, wohne, arbeite, heiße]
+        - [du, wohnst, arbeitest, heißt]
+        - [er / sie / es, wohnt, arbeitet, heißt]
+        - [wir, wohnen, arbeiten, heißen]
+        - [ihr, wohnt, arbeitet, heißt]
+        - [sie / Sie, wohnen, arbeiten, heißen]
+    exam: |
+      Отдельного задания на спряжение на экзамене A1 нет, но правильные формы нужны в каждом вашем предложении в Sprechen и Schreiben: ich wohne, du kommst, er arbeitet.
+      В Lesen и Hören окончание подсказывает, кто действует: sie wohnt — «она», sie wohnen — «они».
+    traps:
+      - "er arbeitet, du arbeitest — не «er arbeit», «du arbeitst»."
+      - "du heißt — не «du heißst»; так же du tanzt, du reist."
+      - "sie wohnt (она) ≠ sie wohnen (они): смотрите на окончание."
+      - "sprechen и fahren — неправильные (Vokalwechsel): du sprichst, er spricht; du fährst, er fährt. Остальные формы — по правилу: ich spreche, wir fahren."
+    exercises:
+      - type: gap
+        q: Ich ___ in Hamburg. (wohnen)
+        answer: [wohne]
+        why: ich → -e.
+      - type: gap
+        q: Er ___ bei einer Firma am Hafen. (arbeiten)
+        answer: [arbeitet]
+        why: "Основа arbeit- → вставка -e-: arbeitet."
+      - type: gap
+        q: Wie ___ du? (heißen)
+        answer: [heißt]
+        why: Основа на -ß → у du только -t.
+      - type: gap
+        q: Ihr ___ zusammen Deutsch. (lernen)
+        answer: [lernt]
+        why: ihr → -t.
+      - type: gap
+        q: Du ___ sehr gut Deutsch! (sprechen)
+        answer: [sprichst]
+        why: "sprechen — Vokalwechsel e → i: du sprichst."
+      - type: choice
+        q: Wir ___ aus der Ukraine.
+        options: [kommen, kommt, kommst]
+        answer: kommen
+        why: wir → -en.
+      - type: choice
+        q: Findest du den Schlüssel? – Nein, ich ___ den Schlüssel nicht.
+        options: [finde, findet, findst]
+        answer: finde
+        why: ich → -e.
+      - type: choice
+        q: Malik ___ jeden Tag bis 17 Uhr.
+        options: [arbeitet, arbeit, arbeitest]
+        answer: arbeitet
+        why: er → arbeit + e + t.
+      - type: choice
+        q: Was ___ ihr am Wochenende?
+        options: [macht, machen, machst]
+        answer: macht
+        why: ihr → -t.
+      - type: table
+        title: finden — Präsens
+        head: [Person, finden]
+        rows:
+          - [ich, "?finde"]
+          - [du, "?findest"]
+          - [er / sie / es, "?findet"]
+          - [wir, "?finden"]
+          - [ihr, "?findet"]
+          - [sie / Sie, "?finden"]
+      - type: table
+        title: lernen und heißen — Präsens
+        head: [Person, lernen, heißen]
+        rows:
+          - [ich, "?lerne", "?heiße"]
+          - [du, "?lernst", "?heißt"]
+          - [er / sie / es, "?lernt", "?heißt"]
+          - [wir, "?lernen", "?heißen"]
+          - [ihr, "?lernt", "?heißt"]
+          - [sie / Sie, "?lernen", "?heißen"]
+      - type: order
+        answer: Heute arbeitet Svetlana im Hotel.
+        tokens: [Heute, arbeitet, Svetlana, im Hotel]
+        also: [Svetlana arbeitet heute im Hotel.]
+        ru: Сегодня Светлана работает в отеле.
+
+  # ------------------------------------------------------------------
+  - id: hh-g-fragen
+    title: W-Fragen und Ja/Nein-Fragen
+    title_ru: Вопросы с вопросительным словом и вопросы «да/нет»
+    terms:
+      - t: W-Frage
+        ru: вопрос с вопросительным словом (Wo wohnst du?)
+      - t: Fragewort
+        ru: "вопросительное слово: wer, was, wo, woher, wohin, wie, wann, warum, wie viel, welche"
+      - t: Ja/Nein-Frage
+        ru: вопрос без вопросительного слова; ответ — ja или nein (Wohnst du hier?)
+      - t: Aussagesatz
+        ru: повествовательное предложение (Ich wohne hier.)
+      - t: Position 1 / Position 2
+        ru: место в предложении; считают части предложения, а не отдельные слова (am Montag — одна позиция)
+      - t: Verb
+        ru: здесь — спрягаемый глагол (wohnst, kommt)
+      - t: Subjekt
+        ru: подлежащее (du, der Zug)
+      - t: Intonation
+        ru: мелодия голоса (вверх или вниз в конце фразы)
+    meaning: |
+      У спрягаемого глагола в немецком предложении твёрдое место.
+      Aussagesatz: глагол на позиции 2. Ich wohne in Hamburg. / In Hamburg wohne ich.
+      W-Frage: на позиции 1 — вопросительное слово, на позиции 2 — глагол, потом подлежащее. Wo wohnst du? Голос в конце обычно идёт вниз.
+      Ja/Nein-Frage: вопросительного слова нет, глагол на позиции 1, подлежащее сразу после него. Wohnst du in Hamburg? Голос в конце идёт вверх.
+      Позиция — это часть предложения, а не одно слово: «Wie viel» или «der Zug» занимают одну позицию.
+      Отделяемая приставка уходит в конец: Wann kommt der Zug an?
+    steps:
+      - de: Du kommst aus Polen.
+        ru: "Aussagesatz: du (1) — kommst (2)."
+      - de: Woher kommst du?
+        ru: "W-Frage: woher (1) — kommst (2) — du."
+      - de: Kommst du aus Polen?
+        ru: "Ja/Nein-Frage: глагол kommst на позиции 1."
+      - de: Wie viel kostet das Zimmer?
+        ru: «Wie viel» — одна позиция, kostet — позиция 2.
+      - de: Wann kommt der Zug an?
+        ru: Приставка an — в конце вопроса.
+      - de: Sprechen Sie Englisch? – Ja, ein bisschen. / Nein, leider nicht.
+        ru: На Ja/Nein-Frage отвечают ja или nein.
+    table:
+      head: [Satzart, Position 1, Position 2, Rest]
+      rows:
+        - [Aussagesatz, Ich, wohne, in Hamburg.]
+        - [W-Frage, Wo, wohnst, "du?"]
+        - [W-Frage, Wann, kommt, "der Zug an?"]
+        - [Ja/Nein-Frage, Wohnst, du, "in Hamburg?"]
+    exam: |
+      В Goethe A1 Sprechen Teil 2 вы по карточке со словом сами задаёте вопрос партнёру и отвечаете на его вопрос — нужен понятный вопрос с правильным порядком слов.
+      В Hören и Lesen вопросы к заданиям — тоже часто W-Fragen: важно сразу понять, что спрашивают: wo (где), wann (когда), wie viel (сколько).
+    traps:
+      - "В обычном вопросе (и на экзамене) недостаточно поднять голос, как в русском: не «Du wohnst in Hamburg?», а «Wohnst du in Hamburg?»."
+      - "После вопросительного слова сразу глагол: Wo wohnst du? — не «Wo du wohnst?»."
+      - "wo (где) ≠ woher (откуда) ≠ wohin (куда): Wo wohnst du? Woher kommst du? Wohin fährst du?"
+      - "wer (кто) ≠ wie (как): Wer ist das? — Wie heißt das?"
+      - "Профессия: Was sind Sie von Beruf? (не «Wer sind Sie von Beruf?»)."
+    exercises:
+      - type: order
+        answer: Wo wohnen Sie in Hamburg?
+        tokens: [Wo, wohnen, Sie, in Hamburg]
+        ru: Где вы живёте в Гамбурге?
+      - type: order
+        answer: Hast du einen Stadtplan?
+        tokens: [Hast, du, einen Stadtplan]
+        ru: У тебя есть карта города?
+      - type: order
+        answer: Wann kommt der Zug in Hamburg an?
+        tokens: [Wann, kommt, der Zug, in Hamburg, an]
+        ru: Когда поезд прибывает в Гамбург?
+      - type: order
+        answer: Ist das Zimmer frei?
+        tokens: [Ist, das Zimmer, frei]
+        ru: Номер свободен?
+      - type: choice
+        q: ___ kommen Sie? – Aus Syrien.
+        options: [Woher, Wo, Wohin]
+        answer: Woher
+        why: «Aus Syrien» — откуда → woher.
+      - type: choice
+        q: ___ wohnst du? – In Altona.
+        options: [Wo, Woher, Wer]
+        answer: Wo
+        why: «In Altona» — где → wo.
+      - type: choice
+        q: ___ ist das? – Das ist meine Lehrerin.
+        options: [Wer, Was, Wie]
+        answer: Wer
+        why: О человеке спрашивают wer.
+      - type: choice
+        q: Welcher Satz ist richtig?
+        options: ["Wie alt bist du?", "Wie alt du bist?", "Wie bist du alt?"]
+        answer: Wie alt bist du?
+        why: «Wie alt» — позиция 1, глагол bist — позиция 2.
+      - type: choice
+        q: ___ kostet die Fahrkarte? – 12 Euro.
+        options: [Wie viel, Wie alt, Wann]
+        answer: Wie viel
+        why: Цена — wie viel.
+      - type: gap
+        q: ___ heißen Sie? – Ich heiße Dmitri Sokolow.
+        answer: [Wie]
+        why: Имя спрашивают с wie.
+      - type: gap
+        q: ___ fährt der Bus? – Zum Flughafen.
+        answer: [Wohin]
+        why: «Zum Flughafen» — куда → wohin.
+      - type: gap
+        q: ___ du Deutsch? – Ja, ein bisschen. (sprechen)
+        answer: [Sprichst]
+        why: Ja/Nein-Frage → глагол на позиции 1; sprechen → du sprichst.
+      - type: table
+        title: Welches Fragewort passt?
+        head: [Antwort, Fragewort]
+        rows:
+          - [Ich heiße Ali., "?Wie"]
+          - [Aus der Türkei., "?Woher"]
+          - [Um 9 Uhr., "?Wann"]
+          - [In der Elbstraße., "?Wo"]
+          - [Nach Berlin., "?Wohin"]
+          - [Das ist Herr Braun., "?Wer"]
+
+  # ------------------------------------------------------------------
+  - id: hh-g-artikel
+    title: "Artikel und Genus: der, die, das – ein, eine"
+    title_ru: Артикли и род существительных (Nominativ)
+    terms:
+      - t: Artikel
+        ru: служебное слово перед существительным (der, die, das, ein, eine)
+      - t: bestimmter Artikel
+        ru: определённый артикль — der, die, das
+      - t: unbestimmter Artikel
+        ru: неопределённый артикль — ein, eine
+      - t: Genus
+        ru: грамматический род существительного
+      - t: maskulin (m) / feminin (f) / neutrum (n)
+        ru: мужской / женский / средний род
+      - t: Nomen
+        ru: существительное; в немецком всегда пишется с большой буквы
+      - t: Nominativ (Nom.)
+        ru: именительный падеж — подлежащее (wer? was?) и слово после «Das ist …»
+      - t: Singular (Sg.) / Plural (Pl.)
+        ru: единственное / множественное число
+      - t: Kompositum
+        ru: сложное слово из двух и более частей (Haupt + Bahnhof = Hauptbahnhof)
+    meaning: |
+      У каждого немецкого существительного есть род: мужской (der), женский (die) или средний (das). Он часто не совпадает с русским: das Mädchen (девочка) — средний род, der Koffer — мужской. Поэтому слово учат сразу с артиклем.
+      ein / eine — неопределённый артикль: предмет называют впервые, это «какой-то, один»: Das ist ein Hotel.
+      der / die / das — определённый артикль: предмет уже известен или он один такой: Das Hotel ist am Hafen.
+      Во множественном числе определённый артикль всегда die (die Koffer), неопределённого артикля нет: Das sind Koffer.
+      В этой теме — только Nominativ: подлежащее и слово после «Das ist …».
+      Подсказки: слова на -ung, -ion и многие на -e — die (die Verspätung, die Information, die Tasche); на -chen — das (das Mädchen). У Kompositum род по последней части: das Zimmer → das Doppelzimmer.
+    steps:
+      - de: Das ist ein Bahnhof. Der Bahnhof ist sehr groß.
+        ru: Первый раз — ein, потом, когда уже известно, — der.
+      - de: Da ist eine Haltestelle. Die Haltestelle heißt „Rathaus“.
+        ru: Женский род → eine, потом die.
+      - de: Das ist ein Ticket. Das Ticket kostet drei Euro.
+        ru: Средний род → ein, потом das.
+      - de: Das sind Koffer. Die Koffer sind schwer.
+        ru: Plural → без артикля, потом die.
+      - de: das Doppelzimmer
+        ru: Doppel + Zimmer → род по последней части (das Zimmer).
+    table:
+      head: [Genus, bestimmt, unbestimmt, Beispiel]
+      rows:
+        - [maskulin (m), der, ein, der / ein Schlüssel]
+        - [feminin (f), die, eine, die / eine Fahrkarte]
+        - [neutrum (n), das, ein, das / ein Zimmer]
+        - [Plural (Pl.), die, "—", die Koffer / Koffer]
+    exam: |
+      В Sprechen Teil 2 и Teil 3 на карточках стоят отдельные слова, фразу с ними вы строите сами — и артикль нужен правильный: Ich brauche eine Fahrkarte.
+      В Schreiben ошибки в артиклях не мешают пониманию, но снижают точность; учите слова сразу с der, die, das.
+    traps:
+      - "Род в немецком ≠ род в русском: das Mädchen, der Koffer, die Tasche, das Gepäck."
+      - "ein — и для der, и для das: ein Zug, ein Ticket. eine — только для die: eine Tasche."
+      - "Во множественном нет ein: Das sind Koffer (не «eine Koffer»)."
+      - "Много слов на -e — женского рода, но есть исключения: der Junge, der Name, der Russe, der Türke."
+      - "Род сложного слова — по последней части: die Fahr|karte, der Haupt|bahnhof, das Einzel|zimmer."
+    exercises:
+      - type: choice
+        q: ___ Koffer ist sehr schwer.
+        options: [Der, Die, Das]
+        answer: Der
+        why: der Koffer — мужской род.
+      - type: choice
+        q: Das ist ___ Fahrkarte nach Kiel.
+        options: [eine, ein, einen]
+        answer: eine
+        why: die Fahrkarte → eine.
+      - type: choice
+        q: ___ Mädchen heißt Mila.
+        options: [Das, Die, Der]
+        answer: Das
+        why: das Mädchen — средний род (все слова на -chen).
+      - type: choice
+        q: Hier ist ___ Rezeption.
+        options: [die, der, das]
+        answer: die
+        why: Слова на -ion — женского рода.
+      - type: choice
+        q: Welcher Artikel passt? ___ Doppelzimmer
+        options: [das, der, die]
+        answer: das
+        why: Kompositum → род по последней части (das Zimmer).
+      - type: gap
+        q: Das ist ___ Bahnhof. Er ist sehr groß. (ein / eine)
+        answer: [ein]
+        why: der Bahnhof → ein.
+      - type: gap
+        q: ___ Schlüssel ist für Zimmer 12. (der / die / das)
+        answer: [Der]
+        why: der Schlüssel — мужской род.
+      - type: gap
+        q: Im Zimmer ist ___ Schrank. (ein / eine)
+        answer: [ein]
+        why: der Schrank → ein.
+      - type: gap
+        q: ___ Gepäck ist noch im Taxi. (der / die / das)
+        answer: [Das]
+        why: das Gepäck — средний род.
+      - type: table
+        title: Bestimmter und unbestimmter Artikel
+        head: [Nomen, bestimmt, unbestimmt]
+        rows:
+          - [Zug, "?der", "?ein"]
+          - [Tasche, "?die", "?eine"]
+          - [Ticket, "?das", "?ein"]
+          - [Haltestelle, "?die", "?eine"]
+          - [Rucksack, "?der", "?ein"]
+          - [Flugzeug, "?das", "?ein"]
+      - type: table
+        title: Singular und Plural
+        head: [Singular, Plural]
+        rows:
+          - [der Zug, "?die Züge"]
+          - [das Zimmer, "?die Zimmer"]
+          - [die Fahrkarte, "?die Fahrkarten"]
+          - [der Schlüssel, "?die Schlüssel"]
+          - [das Kind, "?die Kinder"]
+      - type: order
+        answer: Das Hotel ist direkt am Hafen.
+        tokens: [Das Hotel, ist, direkt, am Hafen]
+        ru: Отель прямо у порта.
+
+  # ------------------------------------------------------------------
+  - id: hh-g-negation
+    title: Negation mit nicht und kein
+    title_ru: Отрицание с nicht и kein
+    terms:
+      - t: Negation
+        ru: отрицание
+      - t: nicht
+        ru: «не» — отрицает глагол, прилагательное, место, существительное с der/die/das или с mein
+      - t: kein
+        ru: «никакой, нет» — отрицает существительное с ein/eine или без артикля
+      - t: unbestimmter Artikel
+        ru: неопределённый артикль — ein, eine
+      - t: Nullartikel
+        ru: существительное без артикля (Ich lerne Deutsch. Ich habe Zeit.)
+      - t: Nominativ (Nom.)
+        ru: именительный падеж — подлежащее и слово после «Das ist …»
+      - t: Akkusativ (Akk.)
+        ru: винительный падеж — прямое дополнение (wen? was?) после haben, brauchen, suchen; у мужского рода ein → einen, kein → keinen
+      - t: Plural (Pl.)
+        ru: множественное число
+    meaning: |
+      kein ставят перед существительным, у которого в утвердительном предложении стоит ein/eine или нет артикля: Das ist ein Hotel. → Das ist kein Hotel. Ich habe Zeit. → Ich habe keine Zeit.
+      kein меняется как ein: kein (der, das), keine (die и Plural). После haben, brauchen, suchen (Akkusativ) у мужского рода — keinen: Ich habe keinen Bruder.
+      nicht — во всех остальных случаях: отрицание глагола, прилагательного, места, существительного с der/die/das или mein: Ich wohne nicht in Berlin. Das Zimmer ist nicht groß. Das ist nicht mein Koffer.
+      Где стоит nicht: в конце короткого предложения (Ich verstehe das nicht.) или перед тем, что отрицаем (nicht in Berlin, nicht groß).
+    steps:
+      - de: Das ist ein Bahnhof. → Das ist kein Bahnhof.
+        ru: ein → kein.
+      - de: Ich habe eine Fahrkarte. → Ich habe keine Fahrkarte.
+        ru: eine → keine.
+      - de: Ich habe einen Koffer. → Ich habe keinen Koffer.
+        ru: Akkusativ, мужской род → einen → keinen.
+      - de: Wir haben Kinder. → Wir haben keine Kinder.
+        ru: Plural без артикля → keine.
+      - de: Ich wohne in Altona. → Ich wohne nicht in Altona.
+        ru: Отрицаем место → nicht перед ним.
+      - de: Der Zug ist pünktlich. → Der Zug ist nicht pünktlich.
+        ru: Отрицаем прилагательное → nicht.
+      - de: Das ist der Ausgang. → Das ist nicht der Ausgang.
+        ru: Существительное с der → nicht.
+      - de: Ich verstehe das. → Ich verstehe das nicht.
+        ru: Отрицаем действие → nicht в конце.
+    table:
+      head: [Genus, positiv (Nom.), negativ (Nom.), negativ (Akk.)]
+      rows:
+        - [maskulin, ein Koffer, kein Koffer, keinen Koffer]
+        - [feminin, eine Tasche, keine Tasche, keine Tasche]
+        - [neutrum, ein Ticket, kein Ticket, kein Ticket]
+        - [Plural, Koffer, keine Koffer, keine Koffer]
+    exam: |
+      В Sprechen Teil 2 на вопрос часто честно отвечают «нет»: Nein, ich habe keine Geschwister. Nein, ich wohne nicht in Hamburg.
+      В Lesen и Hören (richtig/falsch) смысл высказывания может поменять одно слово nicht или kein — читайте и слушайте внимательно.
+    traps:
+      - "kein вместо «nicht ein»: Ich habe keine Fahrkarte (а не «Ich habe nicht eine Fahrkarte»)."
+      - "Мужской род после haben, brauchen, suchen — keinen: Ich habe keinen Schlüssel."
+      - "Языки и профессии без артикля обычно отрицают с kein: Ich spreche kein Türkisch. Er ist kein Lehrer."
+      - "Двойного отрицания нет: Ich habe keine Zeit (не «Ich habe nicht keine Zeit»). Русское «у меня нет никакого…» — одно kein."
+      - "nicht не ставят сразу после подлежащего, как русское «не»: Ich wohne nicht in Berlin (не «Ich nicht wohne in Berlin»)."
+    exercises:
+      - type: choice
+        q: Das ist ___ Hotel, das ist ein Hostel.
+        options: [kein, nicht, keine]
+        answer: kein
+        why: ein Hotel → kein Hotel.
+      - type: choice
+        q: Ich wohne ___ in Hamburg, ich wohne in Kiel.
+        options: [nicht, kein, keine]
+        answer: nicht
+        why: Отрицаем место → nicht.
+      - type: choice
+        q: Hast du einen Stadtplan? – Nein, ich habe ___ Stadtplan.
+        options: [keinen, kein, nicht]
+        answer: keinen
+        why: der Stadtplan, после haben (Akk.) → keinen.
+      - type: choice
+        q: Das Zimmer ist ___ groß, aber es ist schön.
+        options: [nicht, kein, keine]
+        answer: nicht
+        why: Отрицаем прилагательное → nicht.
+      - type: choice
+        q: Ist das dein Koffer? – Nein, das ist ___ mein Koffer.
+        options: [nicht, kein, keinen]
+        answer: nicht
+        why: Перед mein → nicht.
+      - type: gap
+        q: Ich habe leider ___ Zeit. (kein-)
+        answer: [keine]
+        why: die Zeit, без артикля → keine.
+      - type: gap
+        q: Wir haben ___ Kinder. (kein-)
+        answer: [keine]
+        why: Plural → keine.
+      - type: gap
+        q: Der Zug kommt heute ___ pünktlich.
+        answer: [nicht]
+        why: Отрицаем прилагательное → nicht.
+      - type: gap
+        q: Das ist ___ Bahnhof, das ist ein Flughafen. (kein-)
+        answer: [kein]
+        why: der Bahnhof, Nominativ → kein.
+      - type: table
+        title: "kein: Nominativ und Akkusativ"
+        head: [Nomen, Nominativ, Akkusativ]
+        rows:
+          - [Schlüssel (m), "?kein", "?keinen"]
+          - [Tasche (f), "?keine", "?keine"]
+          - [Handy (n), "?kein", "?kein"]
+          - [Kinder (Pl.), "?keine", "?keine"]
+      - type: order
+        answer: Ich verstehe das nicht.
+        tokens: [Ich, verstehe, das, nicht]
+        ru: Я этого не понимаю.
+      - type: order
+        answer: Mein Bruder wohnt nicht in Hamburg.
+        tokens: [Mein Bruder, wohnt, nicht, in Hamburg]
+        also: [In Hamburg wohnt mein Bruder nicht.]
+        ru: Мой брат живёт не в Гамбурге.
+
+dialogues:
+  # ------------------------------------------------------------------
+  - id: hh-d-rezeption
+    title: An der Rezeption
+    title_ru: Регистрация в отеле
+    situation_ru: Вечер, вы приехали в отель «Am Fleet» в Гамбурге. Номер забронирован на ваше имя. Вас зовут Оксана Коваленко.
+    partner: Rezeptionist
+    voice: de-DE
+    start: n1
+    nodes:
+      n1:
+        say: Moin und herzlich willkommen im Hotel Am Fleet! Was kann ich für Sie tun?
+        ru: Здравствуйте и добро пожаловать в отель «Ам Флит»! Чем могу помочь?
+        options:
+          - t: Guten Abend! Ich habe ein Zimmer reserviert.
+            ru: Добрый вечер! Я забронировала номер.
+            next: n2
+          - t: Moin! Ich habe eine Reservierung.
+            ru: Здравствуйте! У меня бронь.
+            next: n2
+          - t: Zimmer. Schnell, bitte.
+            ru: Номер. Быстро, пожалуйста.
+            next: n2
+            ok: false
+            fb: Слишком резко и без глагола. Лучше «Guten Abend! Ich habe ein Zimmer reserviert.»
+      n2:
+        say: Sehr gern. Auf welchen Namen, bitte?
+        ru: С удовольствием. На какое имя?
+        options:
+          - t: Auf den Namen Kovalenko.
+            ru: На фамилию Коваленко.
+            next: n3
+          - t: Mein Name ist Oksana Kovalenko.
+            ru: Меня зовут Оксана Коваленко.
+            next: n3
+          - t: Ich bin Name Kovalenko.
+            ru: Я — имя Коваленко.
+            next: n3
+            ok: false
+            fb: Так не говорят. Скажите «Mein Name ist Kovalenko.» или «Ich heiße Oksana Kovalenko.»
+      n3:
+        say: Können Sie den Namen bitte buchstabieren?
+        ru: Можете, пожалуйста, назвать фамилию по буквам?
+        options:
+          - t: "Ja, gern: K – O – V – A – L – E – N – K – O."
+            ru: "Да, конечно: К – О – В – А – Л – Е – Н – К – О."
+            next: n4
+          - t: Natürlich. Kovalenko, mit K und V.
+            ru: Конечно. Коваленко, с K и V.
+            next: n4
+          - t: Nein, buchstabieren ist schwer.
+            ru: Нет, по буквам — это трудно.
+            next: n4
+            ok: false
+            fb: Вежливо и полезно уметь продиктовать имя по буквам — это спрашивают и на экзамене. Потренируйте алфавит!
+      n4:
+        say: Danke. Ah ja, Frau Kovalenko. Ein Einzelzimmer für drei Nächte, richtig?
+        ru: Спасибо. А, да, госпожа Коваленко. Одноместный номер на три ночи, верно?
+        options:
+          - t: Ja, genau.
+            ru: Да, точно.
+            next: n5
+          - t: Nein, nur für zwei Nächte, bitte.
+            ru: Нет, только на две ночи, пожалуйста.
+            next: n4b
+          - t: Ja, ich bin drei Nächte.
+            ru: Да, я есть три ночи.
+            next: n5
+            ok: false
+            fb: Глагол sein здесь не подходит. Скажите «Ja, ich bleibe drei Nächte.»
+      n4b:
+        say: Oh, Entschuldigung! Dann bis Mittwoch. Kein Problem, ich ändere das.
+        ru: Ой, извините! Тогда до среды. Без проблем, я исправлю.
+        options:
+          - t: Danke schön!
+            ru: Большое спасибо!
+            next: n5
+          - t: Vielen Dank, sehr nett.
+            ru: Большое спасибо, очень любезно.
+            next: n5
+      n5:
+        say: Ich brauche noch Ihren Ausweis oder Ihren Reisepass, bitte.
+        ru: Мне ещё нужно ваше удостоверение личности или паспорт.
+        options:
+          - t: Hier ist mein Reisepass.
+            ru: Вот мой паспорт.
+            next: n6
+          - t: Moment, bitte … So, bitte schön.
+            ru: Минутку … Вот, пожалуйста.
+            next: n6
+          - t: Bitte, hier ist meine Reisepass.
+            ru: Пожалуйста, вот моя паспорт.
+            next: n6
+            ok: false
+            fb: der Reisepass — мужской род, поэтому mein Reisepass (не meine).
+      n6:
+        say: Vielen Dank. Sie haben Zimmer 214. Hier ist Ihr Schlüssel.
+        ru: Большое спасибо. У вас номер 214. Вот ваш ключ.
+        options:
+          - t: Danke! Wo ist der Aufzug?
+            ru: Спасибо! Где лифт?
+            next: n7
+          - t: Danke! Wann gibt es Frühstück?
+            ru: Спасибо! Когда завтрак?
+            next: n8
+          - t: Danke. Wann ist die Frühstück?
+            ru: Спасибо. Когда завтрак?
+            next: n8
+            ok: false
+            fb: das Frühstück — средний род. Лучше «Wann gibt es Frühstück?»
+      n7:
+        say: Der Aufzug ist dort links, neben der Treppe.
+        ru: Лифт там слева, рядом с лестницей.
+        options:
+          - t: Gut, danke. Und wann gibt es Frühstück?
+            ru: Хорошо, спасибо. А когда завтрак?
+            next: n8
+          - t: Ah ja, danke. Gibt es auch Frühstück?
+            ru: А, да, спасибо. А завтрак тоже есть?
+            next: n8
+      n8:
+        say: Frühstück gibt es von 6.30 bis 10 Uhr im Erdgeschoss. Haben Sie noch eine Frage?
+        ru: Завтрак с 6:30 до 10 часов на первом этаже. У вас есть ещё вопрос?
+        options:
+          - t: Nein, danke. Das ist alles. Gute Nacht!
+            ru: Нет, спасибо. Это всё. Спокойной ночи!
+            next: end
+          - t: Ja. Gibt es hier WLAN?
+            ru: Да. Здесь есть Wi-Fi?
+            next: end
+          - t: Nein, ich habe keine Frage nicht.
+            ru: Нет, у меня нет не вопроса.
+            next: end
+            ok: false
+            fb: Двойного отрицания в немецком нет. Правильно «Nein, ich habe keine Frage.» или «Nein, danke.»
+      end:
+        say: Das WLAN-Passwort steht übrigens auf der Karte im Zimmer. Einen schönen Aufenthalt in Hamburg!
+        ru: Пароль от Wi-Fi, кстати, на карточке в номере. Приятного пребывания в Гамбурге!
+        end: true
+
+  # ------------------------------------------------------------------
+  - id: hh-d-kennenlernen
+    title: Neu im Deutschkurs
+    title_ru: Знакомство на языковых курсах
+    situation_ru: Первый день в языковой школе в Гамбурге. Рядом с вами свободное место, к вам подходит другой участник курса. Вас зовут Дарья.
+    partner: Kursteilnehmer Emre
+    voice: de-DE
+    start: n1
+    nodes:
+      n1:
+        say: Hi! Ist hier noch frei?
+        ru: Привет! Здесь свободно?
+        options:
+          - t: Ja, klar. Setz dich!
+            ru: Да, конечно. Садись!
+            next: n2
+          - t: Ja, bitte.
+            ru: Да, пожалуйста.
+            next: n2
+          - t: Nein, ist frei.
+            ru: Нет, свободно.
+            next: n2
+            ok: false
+            fb: «Nein» значит, что место занято. Если свободно — «Ja, klar!» или «Ja, bitte.»
+      n2:
+        say: Danke! Ich bin Emre. Und wie heißt du?
+        ru: Спасибо! Я Эмре. А как тебя зовут?
+        options:
+          - t: Ich heiße Daria. Freut mich!
+            ru: Меня зовут Дарья. Очень приятно!
+            next: n3
+          - t: Hallo Emre, ich bin Daria.
+            ru: Привет, Эмре, я Дарья.
+            next: n3
+          - t: Ich heißt Daria.
+            ru: Меня зовут Дарья.
+            next: n3
+            ok: false
+            fb: С ich окончание -e — «Ich heiße Daria.»
+      n3:
+        say: Freut mich auch! Woher kommst du, Daria?
+        ru: Мне тоже приятно! Откуда ты, Дарья?
+        options:
+          - t: Ich komme aus der Ukraine, aus Lwiw. Und du?
+            ru: Я из Украины, из Львова. А ты?
+            next: n4
+          - t: Aus Russland, aus Kasan. Und woher kommst du?
+            ru: Из России, из Казани. А ты откуда?
+            next: n4
+          - t: Ich komme von Ukraine.
+            ru: Я приехала с Украины.
+            next: n4
+            ok: false
+            fb: Страну происхождения называют с aus, а Ukraine — с артиклем — «Ich komme aus der Ukraine.»
+      n4:
+        say: Ich komme aus der Türkei, aus Izmir. Ich bin seit Juli in Hamburg. Und wo wohnst du hier?
+        ru: Я из Турции, из Измира. Я в Гамбурге с июля. А где ты здесь живёшь?
+        options:
+          - t: Ich wohne in Altona, bei meiner Tante.
+            ru: Я живу в Альтоне, у тёти.
+            next: n5
+          - t: In Barmbek. Ich habe dort ein kleines Zimmer.
+            ru: В Бармбеке. У меня там маленькая комната.
+            next: n5
+          - t: Ich wohne Altona.
+            ru: Я живу Альтона.
+            next: n5
+            ok: false
+            fb: Нужен предлог — «Ich wohne in Altona.»
+      n5:
+        say: Schön! Welche Sprachen sprichst du?
+        ru: Здорово! На каких языках ты говоришь?
+        options:
+          - t: Ich spreche Ukrainisch, Russisch und ein bisschen Englisch.
+            ru: Я говорю по-украински, по-русски и немного по-английски.
+            next: n6
+          - t: Russisch und Englisch. Und jetzt lerne ich Deutsch!
+            ru: По-русски и по-английски. А теперь учу немецкий!
+            next: n6
+          - t: Ich spreche Russisch und Englisch sprechen.
+            ru: Я говорю по-русски и по-английски говорить.
+            next: n6
+            ok: false
+            fb: Глагол нужен один раз — «Ich spreche Russisch und Englisch.»
+      n6:
+        say: Toll! Ich spreche Türkisch und Englisch. Warum lernst du Deutsch?
+        ru: Здорово! Я говорю по-турецки и по-английски. Почему ты учишь немецкий?
+        options:
+          - t: Ich möchte hier studieren.
+            ru: Я хочу здесь учиться.
+            next: n7
+          - t: Ich arbeite bald in Hamburg. Ich brauche Deutsch für die Arbeit.
+            ru: Скоро я буду работать в Гамбурге. Мне нужен немецкий для работы.
+            next: n7
+          - t: Weil Deutsch ist wichtig.
+            ru: Потому что немецкий важный.
+            next: n7
+            ok: false
+            fb: После weil глагол уходит в конец, это тема A2. На A1 проще — «Deutsch ist wichtig für mich.»
+      n7:
+        say: Interessant! Ich bin Ingenieur und suche hier Arbeit. Sag mal, hast du nach dem Kurs Zeit? Trinken wir zusammen einen Kaffee?
+        ru: Интересно! Я инженер и ищу здесь работу. Слушай, у тебя есть время после курса? Выпьем вместе кофе?
+        options:
+          - t: Ja, gern! Bis später!
+            ru: Да, с удовольствием! До встречи!
+            next: end
+          - t: Heute leider nicht. Vielleicht morgen?
+            ru: Сегодня, к сожалению, нет. Может быть, завтра?
+            next: end
+          - t: Nein, ich habe kein Zeit.
+            ru: Нет, у меня нет время.
+            next: end
+            ok: false
+            fb: die Zeit — женский род, поэтому keine Zeit. И вежливее добавить «leider» — «Nein, ich habe leider keine Zeit.»
+      end:
+        say: Okay! Oh, da kommt die Lehrerin. Wir sprechen später weiter!
+        ru: Окей! О, вот идёт учительница. Поговорим потом!
+        end: true
+
+texts:
+  # ------------------------------------------------------------------
+  - id: hh-t-mail
+    kind: E-Mail
+    title: Endlich in Hamburg!
+    text: |
+      Hallo Malik,
+
+      ich bin seit gestern in Hamburg! Die Reise war lang: Der Zug hatte eine Stunde Verspätung. Jetzt wohne ich im Hostel „Elbe 7“ in St. Pauli. Mein Zimmer ist klein, aber sehr sauber. Ich teile es mit zwei Frauen aus Spanien. Sie sind sehr nett.
+
+      Am Montag beginnt mein Deutschkurs. Der Kurs ist jeden Tag von 9 bis 13 Uhr. Am Nachmittag suche ich eine Wohnung.
+
+      Wann kommst du nach Hamburg? Im Hostel gibt es noch freie Betten. Eine Nacht kostet nur 25 Euro.
+
+      Viele Grüße
+      Irina
+    glossary:
+      seit gestern: со вчерашнего дня
+      sauber: чистый
+      teilen: делить
+      das Bett: кровать, место (в хостеле)
+      die Wohnung: квартира
+      der Nachmittag: вторая половина дня
+    questions:
+      - type: tf
+        q: Irina ist schon eine Woche in Hamburg.
+        ru: Ирина уже неделю в Гамбурге.
+        answer: false
+      - type: tf
+        q: Der Zug war pünktlich.
+        ru: Поезд пришёл вовремя.
+        answer: false
+      - type: choice
+        q: Irina wohnt …
+        ru: Ирина живёт …
+        options: [in einem Hostel., in einem Hotel., bei Malik.]
+        answer: in einem Hostel.
+      - type: tf
+        q: Im Zimmer schlafen drei Personen.
+        ru: В комнате спят три человека.
+        answer: true
+      - type: choice
+        q: Wann beginnt der Deutschkurs?
+        ru: Когда начинается курс немецкого?
+        options: [am Montag, heute, am Nachmittag]
+        answer: am Montag
+      - type: choice
+        q: Was macht Irina am Nachmittag?
+        ru: Что Ирина делает во второй половине дня?
+        options: [Sie sucht eine Wohnung., Sie lernt Deutsch., Sie arbeitet im Hostel.]
+        answer: Sie sucht eine Wohnung.
+
+  # ------------------------------------------------------------------
+  - id: hh-t-anzeige
+    kind: Anzeige
+    title: Am Schwarzen Brett
+    text: |
+      Deutsch für Neue in Hamburg!
+      A1-Kurs am Abend: Montag und Mittwoch, 18 bis 20 Uhr. Kleine Gruppen (maximal 10 Personen). Start: 3. November. Anmeldung in der Sprachschule Nordlicht, Lindenstraße 8.
+
+      Hostel Möwe – direkt am Hafen
+      Betten ab 22 Euro pro Nacht, Frühstück 6 Euro extra. Rezeption: 7 bis 23 Uhr. Sie kommen später an? Bitte rufen Sie vorher an: 040 55 66 77.
+
+      Liebe Gäste,
+      der Aufzug ist bis Freitag kaputt. Bitte nehmen Sie die Treppe. Danke!
+    glossary:
+      das Schwarze Brett: доска объявлений
+      maximal: максимум
+      die Anmeldung: запись, регистрация
+      extra: дополнительно, за отдельную плату
+      vorher: заранее
+      an·rufen: звонить по телефону
+      die Gäste: гости
+      kaputt: сломан
+    questions:
+      - type: tf
+        q: Der A1-Kurs ist am Vormittag.
+        ru: Курс A1 проходит в первой половине дня.
+        answer: false
+      - type: choice
+        q: Wie viele Personen sind maximal in einer Gruppe?
+        ru: Сколько человек максимум в группе?
+        options: [acht, zehn, zwanzig]
+        answer: zehn
+      - type: choice
+        q: Wo meldet man sich für den Kurs an?
+        ru: Где записываются на курс?
+        options: [in der Sprachschule, im Hostel, am Hafen]
+        answer: in der Sprachschule
+      - type: tf
+        q: Im Hostel kostet das Frühstück extra.
+        ru: В хостеле завтрак оплачивается отдельно.
+        answer: true
+      - type: choice
+        q: Sie kommen um Mitternacht im Hostel an. Was machen Sie?
+        ru: Вы приезжаете в хостел в полночь. Что вы делаете?
+        options: [Ich rufe vorher an., Ich warte bis 7 Uhr., Ich nehme den Aufzug.]
+        answer: Ich rufe vorher an.
+      - type: tf
+        q: Bis Freitag kann man den Aufzug nicht benutzen.
+        ru: До пятницы лифтом пользоваться нельзя.
+        answer: true
+
+listening:
+  # ------------------------------------------------------------------
+  - id: hh-h-durchsage
+    kind: Durchsage
+    title: Am Hamburger Hauptbahnhof
+    voice: de-DE
+    lines:
+      - s: A
+        t: "Achtung am Gleis 8!"
+      - s: A
+        t: "Der ICE 572 aus München hat heute circa 20 Minuten Verspätung."
+      - s: A
+        t: "Die neue Ankunftszeit ist 15.05 Uhr."
+      - s: A
+        t: "Reisende nach Kiel, bitte beachten Sie: Ihr Anschluss wartet."
+      - s: A
+        t: "Der Regionalexpress nach Kiel fährt heute um 15.25 Uhr von Gleis 14 ab."
+      - s: A
+        t: "Wir bitten um Entschuldigung."
+    questions:
+      - type: choice
+        q: Wie viel Verspätung hat der ICE aus München?
+        ru: На сколько опаздывает ICE из Мюнхена?
+        options: [10 Minuten, 20 Minuten, 30 Minuten]
+        answer: 20 Minuten
+      - type: tf
+        q: Der ICE fährt nach München.
+        ru: ICE едет в Мюнхен.
+        answer: false
+      - type: tf
+        q: Der Zug nach Kiel wartet auf den ICE.
+        ru: Поезд в Киль ждёт ICE.
+        answer: true
+      - type: choice
+        q: Von welchem Gleis fährt der Zug nach Kiel ab?
+        ru: С какого пути отправляется поезд в Киль?
+        options: [Gleis 8, Gleis 14, Gleis 4]
+        answer: Gleis 14
+      - type: choice
+        q: Um wie viel Uhr fährt der Zug nach Kiel ab?
+        ru: Во сколько отправляется поезд в Киль?
+        options: [um 15.05 Uhr, um 15.25 Uhr, um 15.52 Uhr]
+        answer: um 15.25 Uhr
+    dictation:
+      - Der Zug aus München hat zwanzig Minuten Verspätung.
+      - Ihr Anschluss nach Kiel wartet.
+      - Der Zug nach Kiel fährt von Gleis 14 ab.
+      - Wir bitten um Entschuldigung.
+
+  # ------------------------------------------------------------------
+  - id: hh-h-dialog
+    kind: Dialog
+    title: In der Hostelküche
+    voice: de-DE
+    lines:
+      - s: A
+        t: "Hallo! Bist du auch neu hier im Hostel?"
+      - s: B
+        t: "Ja, seit gestern. Ich heiße Nastja."
+      - s: A
+        t: "Ich bin Jonas. Freut mich! Woher kommst du?"
+      - s: B
+        t: "Aus Kasachstan, aus Almaty. Aber ich wohne schon drei Jahre in Wien."
+      - s: A
+        t: "Ah, in Wien! Und was machst du in Hamburg?"
+      - s: B
+        t: "Ich arbeite zwei Monate hier, in einem Hotel am Hafen. Und du?"
+      - s: A
+        t: "Ich bin Student. Ich studiere in Bremen und besuche hier meine Schwester."
+      - s: B
+        t: "Schön! Wie lange bleibst du?"
+      - s: A
+        t: "Nur bis Sonntag. Am Montag habe ich wieder Uni."
+      - s: B
+        t: "Schade! Dann trinken wir heute Abend zusammen einen Tee, okay?"
+    questions:
+      - type: choice
+        q: Woher kommt Nastja?
+        ru: Откуда Настя родом?
+        options: [aus Österreich, aus Kasachstan, aus Deutschland]
+        answer: aus Kasachstan
+      - type: tf
+        q: Nastja wohnt seit drei Jahren in Wien.
+        ru: Настя три года живёт в Вене.
+        answer: true
+      - type: choice
+        q: Was macht Nastja in Hamburg?
+        ru: Что Настя делает в Гамбурге?
+        options: [Sie arbeitet in einem Hotel., Sie studiert., Sie besucht ihre Schwester.]
+        answer: Sie arbeitet in einem Hotel.
+      - type: tf
+        q: Jonas studiert in Hamburg.
+        ru: Йонас учится в Гамбурге.
+        answer: false
+      - type: choice
+        q: Wie lange bleibt Jonas in Hamburg?
+        ru: Сколько Йонас пробудет в Гамбурге?
+        options: [bis Sonntag, bis Montag, zwei Monate]
+        answer: bis Sonntag
+    dictation:
+      - Ich heiße Nastja und komme aus Kasachstan.
+      - Ich wohne schon drei Jahre in Wien.
+      - Ich arbeite zwei Monate in Hamburg.
+      - Jonas studiert in Bremen.
+
+writing:
+  - id: hh-s-mail
+    exam: Goethe A1 · Schreiben Teil 2
+    kind: E-Mail
+    task: |
+      Sie fahren am Freitag nach Hamburg und bleiben bis Sonntag. Sie haben ein Bett im Hostel „Möwe“ gebucht. Schreiben Sie eine E-Mail an das Hostel.
+      – Wann kommen Sie an?
+      – Sie möchten Frühstück.
+      – Ihr Zug fährt am Sonntag erst am Abend. Wo können Sie Ihr Gepäck lassen?
+      Schreiben Sie zu jedem Punkt ein bis zwei Sätze (circa 30 Wörter). Vergessen Sie Anrede und Gruß nicht.
+    task_ru: |
+      В пятницу вы едете в Гамбург, у вас забронировано место в хостеле «Möwe». Напишите письмо в хостел:
+      когда вы приезжаете; что вы хотите завтракать в хостеле; где можно оставить багаж в воскресенье (ваш поезд только вечером).
+      По каждому пункту 1–2 предложения (около 30 слов). Не забудьте обращение и подпись.
+    points:
+      - Wann kommen Sie an?
+      - Sie möchten Frühstück.
+      - Ihr Zug fährt am Sonntag erst am Abend. Wo können Sie Ihr Gepäck lassen?
+    words: [30, 40]
+    structure:
+      - Обращение (Sehr geehrte Damen und Herren, … — в хостел или отель; Liebe … / Lieber … — другу)
+      - "Пункт 1: когда вы приезжаете (день, время)"
+      - "Пункт 2: завтрак — хотите ли, когда он бывает"
+      - "Пункт 3: вопрос про багаж"
+      - Короткая благодарность (Vielen Dank!)
+      - Прощание и имя (Mit freundlichen Grüßen / Viele Grüße)
+    redemittel:
+      - de: Sehr geehrte Damen und Herren,
+        ru: Уважаемые дамы и господа, (официальное обращение)
+      - de: Liebe Olga, / Lieber Kemal,
+        ru: Дорогая Ольга, / Дорогой Кемаль,
+      - de: Ich komme am … um … Uhr an.
+        ru: Я приезжаю … в … часов.
+      - de: Mein Zug kommt um … in Hamburg an.
+        ru: Мой поезд прибывает в Гамбург в …
+      - de: Ich möchte gern …
+        ru: Я бы хотел(а) …
+      - de: Wann gibt es Frühstück?
+        ru: Когда бывает завтрак?
+      - de: Wo kann ich …?
+        ru: Где я могу …?
+      - de: Ist die Rezeption um … Uhr noch offen?
+        ru: Ресепшен ещё открыт в … часов?
+      - de: Vielen Dank für Ihre Antwort.
+        ru: Заранее спасибо за ответ.
+      - de: Mit freundlichen Grüßen
+        ru: С уважением (официально)
+      - de: Viele Grüße
+        ru: С приветом (нейтрально, другу)
+    model: |
+      Sehr geehrte Damen und Herren,
+
+      ich komme am Freitag um 21 Uhr in Hamburg an. Ich möchte gern Frühstück. Wann gibt es Frühstück? Am Sonntag fährt mein Zug erst um 18 Uhr. Wo kann ich mein Gepäck lassen? Vielen Dank!
+
+      Mit freundlichen Grüßen
+      Oleksandr Bondar
+    checklist:
+      - Все три пункта задания раскрыты?
+      - Есть обращение, прощание и имя?
+      - Обращение и прощание одного стиля (Sehr geehrte … → Mit freundlichen Grüßen)?
+      - В утвердительных предложениях глагол на позиции 2, в вопросах — на 1 или после вопросительного слова?
+      - Окончания глаголов правильные (ich komme, ich möchte)?
+      - Существительные с большой буквы, вежливое Sie / Ihr — тоже?
+      - Объём примерно 30–40 слов?
+
+speaking:
+  - id: hh-sp-1
+    exam: Goethe A1 · Sprechen Teil 1
+    task: Sich vorstellen
+    task_ru: Расскажите о себе по ключевым словам. Потом будьте готовы продиктовать по буквам своё имя или назвать номер телефона.
+    prompts: ["Name?", "Alter?", "Land?", "Wohnort?", "Sprachen?", "Beruf?", "Hobby?"]
+    model: |
+      Guten Tag! Ich heiße Yusuf Demir. Ich bin 27 Jahre alt. Ich komme aus der Türkei, aus Ankara. Jetzt wohne ich in Hamburg, in Wilhelmsburg. Ich spreche Türkisch, Englisch und ein bisschen Deutsch. Ich bin Koch von Beruf. Mein Hobby ist Fußball.
+      – Buchstabieren Sie bitte Ihren Familiennamen. – D – E – M – I – R.
+  - id: hh-sp-2
+    exam: Goethe A1 · Sprechen Teil 2
+    task: "Fragen stellen und antworten. Thema: Reisen"
+    task_ru: Вы вытягиваете карточку со словом по теме «Reisen». Задайте партнёру вопрос с этим словом. Потом ответьте на вопрос партнёра.
+    prompts: [Fahrkarte, Koffer, Hotel, Zug, Gleis, Frühstück]
+    model: |
+      Fahrkarte: Wo kaufst du deine Fahrkarte? – Am Automaten am Bahnhof.
+      Koffer: Hast du einen Koffer? – Nein, ich habe nur einen Rucksack.
+      Hotel: Wie heißt dein Hotel? – Hotel Am Fleet.
+      Zug: Wann fährt dein Zug? – Um 8.30 Uhr.
+      Gleis: Von welchem Gleis fährt der Zug nach Kiel? – Von Gleis 14.
+      Frühstück: Wann gibt es im Hotel Frühstück? – Von 7 bis 10 Uhr.
+  - id: hh-sp-3
+    exam: Goethe A1 · Sprechen Teil 3
+    task: Bitten formulieren und reagieren
+    task_ru: По карточке сформулируйте просьбу к партнёру. Партнёр реагирует (выполняет просьбу или вежливо отказывает). На экзамене на карточках картинки, здесь — слова.
+    prompts: [Stadtplan, Schlüssel, Taxi, langsam sprechen, Name buchstabieren, Fenster]
+    model: |
+      Stadtplan: Haben Sie bitte einen Stadtplan für mich? – Ja, natürlich. Hier, bitte.
+      Schlüssel: Gib mir bitte den Schlüssel. – Hier, bitte schön.
+      Taxi: Können Sie mir bitte ein Taxi rufen? – Ja, gern. Einen Moment.
+      langsam sprechen: Können Sie bitte langsam sprechen? – Ja, natürlich.
+      Name buchstabieren: Buchstabieren Sie bitte Ihren Namen. – K – A – Y – A.
+      Fenster: Mach bitte das Fenster auf! – Tut mir leid, mir ist kalt.
+
+test:
+  - type: choice
+    q: Ich ___ 22 Jahre alt.
+    options: [bin, habe, ist]
+    answer: bin
+    why: Возраст — с sein.
+  - type: gap
+    q: Wo ___ du? – In Altona. (wohnen)
+    answer: [wohnst]
+    why: du → -st.
+  - type: choice
+    q: ___ kommen Sie? – Aus Polen.
+    options: [Woher, Wohin, Wo]
+    answer: Woher
+  - type: table
+    title: arbeiten — Präsens
+    head: [Person, arbeiten]
+    rows:
+      - [ich, "?arbeite"]
+      - [du, "?arbeitest"]
+      - [er / sie / es, "?arbeitet"]
+      - [ihr, "?arbeitet"]
+  - type: choice
+    q: ___ Fahrkarte kostet 30 Euro.
+    options: [Die, Der, Das]
+    answer: Die
+    why: die Fahrkarte — женский род.
+  - type: choice
+    q: Ich habe ___ Bruder, nur eine Schwester.
+    options: [keinen, kein, nicht]
+    answer: keinen
+    why: der Bruder, после haben (Akk.) → keinen.
+  - type: order
+    answer: Kommt der Zug pünktlich an?
+    tokens: [Kommt, der Zug, pünktlich, an]
+    ru: Поезд прибывает вовремя?
+  - type: gap
+    q: Hier ist Ihr ___ für Zimmer 12.
+    ru: Вот ваш ключ от номера 12.
+    answer: [Schlüssel]
+  - type: choice
+    q: Das Gegenteil von „Ankunft“ ist ___.
+    options: [die Abfahrt, der Ausgang, die Verspätung]
+    answer: die Abfahrt
+  - type: choice
+    q: In Deutschland sagt man „Guten Tag!“. Was sagt man in Österreich oft?
+    ru: В Германии говорят «Guten Tag!». Что часто говорят в Австрии?
+    options: ["Grüß Gott!", "Moin!", "Tschüss!"]
+    answer: Grüß Gott!
+  - type: gap
+    q: In Österreich sagt man „Jänner“, in Deutschland „___“.
+    ru: В Австрии говорят «Jänner», в Германии — «…».
+    answer: [Januar]
+  - type: order
+    answer: Das Zimmer ist nicht groß.
+    tokens: [Das Zimmer, ist, nicht, groß]
+    ru: Номер небольшой.

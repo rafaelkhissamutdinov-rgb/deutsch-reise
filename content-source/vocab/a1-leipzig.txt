@@ -1,0 +1,243 @@
+# a1-leipzig — Einkaufen, Essen & Stadt (A1)
+# Формат: см. content-source/FORMAT.md
+
+## Lebensmittel & Getränke
+N das Brot | Brote | хлеб | Das Brot ist noch warm. | Хлеб ещё тёплый.
+N das Brötchen | Brötchen | булочка | Ich nehme vier Brötchen, bitte. | Мне четыре булочки, пожалуйста. | AT: die Semmel, Semmeln
+N die Butter | Sg. | сливочное масло | Die Butter ist im Kühlschrank. | Масло в холодильнике.
+N der Käse | Sg. | сыр | Ich esse gern Käse. | Я люблю сыр.
+N die Wurst | Würste | колбаса | Die Wurst ist aus Thüringen. | Колбаса из Тюрингии.
+N das Fleisch | Sg. | мясо | Ich esse kein Fleisch. | Я не ем мяса.
+N das Hackfleisch | Sg. | фарш | Wir brauchen 500 Gramm Hackfleisch. | Нам нужно 500 граммов фарша. | AT: das Faschierte
+N das Hähnchen | Hähnchen | курица (как еда) | Heute gibt es Hähnchen mit Reis. | Сегодня курица с рисом. | AT: das Hendl, Hendl
+N der Fisch | Fische | рыба | Der Fisch ist sehr frisch. | Рыба очень свежая.
+N das Ei | Eier | яйцо | Ich brauche sechs Eier. | Мне нужно шесть яиц.
+N die Milch | Sg. | молоко | Wir haben keine Milch mehr. | У нас больше нет молока.
+N die Sahne | Sg. | сливки | Ein Stück Kuchen mit Sahne, bitte. | Кусок торта со сливками, пожалуйста. | AT: das Obers; das Schlagobers | note: Schlagobers — взбитые сливки (к кофе, торту)
+N der Quark | Sg. | творог | Quark ist gesund. | Творог полезный. | AT: der Topfen
+N das Obst | Sg. | фрукты | Auf dem Markt ist das Obst billig. | На рынке фрукты дешёвые.
+N das Gemüse | Sg. | овощи | Gemüse ist gesund. | Овощи полезны.
+N der Apfel | Äpfel | яблоко | Ein Kilo Äpfel kostet zwei Euro. | Килограмм яблок стоит два евро.
+N die Banane | Bananen | банан | Die Bananen sind noch grün. | Бананы ещё зелёные.
+N die Aprikose | Aprikosen | абрикос | Die Aprikosen sind sehr süß. | Абрикосы очень сладкие. | AT: die Marille, Marillen
+N die Pflaume | Pflaumen | слива | Oma macht Kuchen mit Pflaumen. | Бабушка печёт пирог со сливами. | AT: die Zwetschke, Zwetschken
+N die Tomate | Tomaten | помидор | Die Tomaten sind frisch. | Помидоры свежие. | AT: der Paradeiser, Paradeiser
+N die Kartoffel | Kartoffeln | картофель, картофелина | Wir essen heute Kartoffeln mit Quark. | Сегодня мы едим картошку с творогом. | AT: der Erdapfel, Erdäpfel
+N der Salat | Salate | салат | Ich nehme einen kleinen Salat. | Я возьму маленький салат.
+N die Suppe | Suppen | суп | Die Suppe ist zu heiß. | Суп слишком горячий.
+N der Reis | Sg. | рис | Möchtest du Reis oder Nudeln? | Ты хочешь рис или макароны?
+N der Kuchen | Kuchen | пирог, пирожное | Am Sonntag backe ich einen Kuchen. | В воскресенье я пеку пирог.
+N der Eierkuchen | Eierkuchen | блин | Zum Frühstück gibt es Eierkuchen. | На завтрак блины. | AT: die Palatschinke, Palatschinken | note: на западе и юге Германии — der Pfannkuchen
+N das Getränk | Getränke | напиток | Die Getränke stehen auf dem Tisch. | Напитки стоят на столе.
+N das Wasser | Sg. | вода | Ein Glas Wasser, bitte. | Стакан воды, пожалуйста.
+N der Saft | Säfte | сок | Der Saft ist kalt. | Сок холодный.
+N der Kaffee | Kaffees | кофе | Zwei Kaffee, bitte! | Два кофе, пожалуйста!
+N der Tee | Tees | чай | Ich trinke Tee mit Zitrone. | Я пью чай с лимоном.
+W frisch | Adj. | свежий | Das Brot ist ganz frisch. | Хлеб совсем свежий.
+W süß | Adj. | сладкий | Der Kuchen ist sehr süß. | Пирог очень сладкий.
+W scharf | Adj. | острый | Ist das Essen scharf? | Еда острая?
+W lecker | Adj. | вкусный | Der Kuchen ist lecker! | Пирог вкусный! | note: в Австрии говорят реже, чаще gut или köstlich
+W vegetarisch | Adj. | вегетарианский | Haben Sie auch etwas Vegetarisches? | У вас есть что-нибудь вегетарианское? | form: Vegetarisches
+W ohne | Präp. | без (+ Akk.) | Ich trinke Kaffee ohne Milch. | Я пью кофе без молока.
+
+## Im Supermarkt & auf dem Markt
+N der Supermarkt | Supermärkte | супермаркет | Der Supermarkt ist bis 22 Uhr geöffnet. | Супермаркет открыт до 22 часов.
+N der Markt | Märkte | рынок | Am Samstag gehe ich auf den Markt. | В субботу я иду на рынок.
+N die Packung | Packungen | упаковка, пачка | Eine Packung Reis, bitte. | Одну пачку риса, пожалуйста.
+N die Flasche | Flaschen | бутылка | Ich kaufe zwei Flaschen Wasser. | Я покупаю две бутылки воды.
+N das Glas | Gläser | стакан; стеклянная банка | Ein Glas Marmelade, bitte. | Одну банку варенья, пожалуйста.
+N das Stück | Stücke | кусок, штука | Ich möchte ein Stück Käse. | Я хотел(а) бы кусок сыра. | note: после числа без окончания: drei Stück
+N das Kilo | Kilos | килограмм | Zwei Kilo Kartoffeln, bitte. | Два килограмма картошки, пожалуйста. | note: после числа без -s: zwei Kilo
+N das Gramm | Gramm | грамм | 200 Gramm Käse, bitte. | 200 граммов сыра, пожалуйста. | note: в Австрии часто говорят в декаграммах: zehn Deka = 100 Gramm
+N der Preis | Preise | цена | Die Preise sind hier gut. | Цены здесь хорошие.
+N das Angebot | Angebote | предложение (товар со скидкой) | Die Äpfel sind heute im Angebot. | Яблоки сегодня по акции.
+N das Sonderangebot | Sonderangebote | специальное предложение, скидка | Butter ist heute im Sonderangebot. | Масло сегодня по спецпредложению.
+N die Kasse | Kassen | касса | Bitte bezahlen Sie an Kasse 3. | Пожалуйста, оплатите на кассе 3. | AT: die Kassa, Kassen
+N die Tüte | Tüten | пакет | Brauchen Sie eine Tüte? | Вам нужен пакет? | AT: das Sackerl, Sackerln
+N das Geld | Sg. | деньги | Ich habe kein Geld dabei. | У меня нет с собой денег.
+N das Bargeld | Sg. | наличные | Haben Sie Bargeld? | У вас есть наличные?
+N die Bankkarte | Bankkarten | банковская карта | Kann ich mit meiner Bankkarte zahlen? | Можно заплатить моей банковской картой? | AT: die Bankomatkarte, Bankomatkarten
+N der Euro | Euros | евро | Das macht zehn Euro. | С вас десять евро. | note: после числа без -s: zehn Euro
+N die Öffnungszeiten | Pl. | часы работы | Die Öffnungszeiten stehen an der Tür. | Часы работы написаны на двери.
+V kosten | kostet | kostete | hat gekostet | стоить | Was kostet das Brot? | Сколько стоит хлеб?
+V kaufen | kauft | kaufte | hat gekauft | покупать | Ich kaufe Obst und Gemüse. | Я покупаю фрукты и овощи.
+V ein·kaufen | kauft ein | kaufte ein | hat eingekauft | делать покупки | Ich muss noch einkaufen. | Мне ещё нужно сходить за покупками.
+V bezahlen | bezahlt | bezahlte | hat bezahlt | оплачивать, платить | Ich bezahle mit Karte. | Я плачу картой.
+V zahlen | zahlt | zahlte | hat gezahlt | платить | Wir möchten zahlen, bitte. | Мы хотели бы расплатиться.
+V brauchen | braucht | brauchte | hat gebraucht | нуждаться, быть нужным | Ich brauche noch Milch. | Мне ещё нужно молоко.
+V nehmen | nimmt | nahm | hat genommen | брать | Ich nehme die Tomaten. | Я возьму помидоры.
+W teuer | Adj. | дорогой | Die Erdbeeren sind heute teuer. | Клубника сегодня дорогая.
+W billig | Adj. | дешёвый | Auf dem Markt ist Obst billig. | На рынке фрукты дешёвые.
+W günstig | Adj. | недорогой, выгодный | Der Käse ist heute günstig. | Сыр сегодня недорогой.
+W bar | Adv. | наличными | Ich zahle bar. | Я плачу наличными.
+W geöffnet | Adj. | открыт (о магазине) | Die Bäckerei ist ab 6 Uhr geöffnet. | Пекарня открыта с 6 часов.
+W geschlossen | Adj. | закрыт | Am Sonntag ist der Supermarkt geschlossen. | В воскресенье супермаркет закрыт.
+W wie viel | Adv. | сколько | Wie viel kostet die Butter? | Сколько стоит масло?
+W Ich hätte gern … | Phrase | Я бы хотел(а) … (вежливая просьба) | Ich hätte gern ein Brot. | Я бы хотел(а) хлеб. | form: hätte gern
+W Sonst noch etwas? | Phrase | Что-нибудь ещё? | Sonst noch etwas? – Nein, danke. | Что-нибудь ещё? – Нет, спасибо.
+W Das ist alles. | Phrase | Это всё. | Danke, das ist alles. | Спасибо, это всё.
+W Das macht … | Phrase | С вас … (сумма) | Das macht 4,20 Euro. | С вас 4,20 евро. | form: Das macht
+
+## Im Restaurant & Café
+N das Restaurant | Restaurants | ресторан | Das Restaurant ist am Montag geschlossen. | В понедельник ресторан закрыт.
+N das Café | Cafés | кафе | Wir treffen uns im Café am Markt. | Встречаемся в кафе на рыночной площади. | AT: das Kaffeehaus, Kaffeehäuser | note: Kaffeehaus — классическое венское кафе; слово Café в Австрии тоже обычное
+N die Speisekarte | Speisekarten | меню | Die Speisekarte, bitte. | Меню, пожалуйста.
+N der Kellner | Kellner | официант | Der Kellner bringt das Essen. | Официант приносит еду.
+N das Gericht | Gerichte | блюдо | Welches Gericht empfehlen Sie? | Какое блюдо вы посоветуете?
+N das Hauptgericht | Hauptgerichte | основное блюдо | Das Hauptgericht kostet 12 Euro. | Основное блюдо стоит 12 евро. | AT: die Hauptspeise, Hauptspeisen
+N der Nachtisch | Nachtische | десерт | Zum Nachtisch gibt es Eis. | На десерт мороженое. | AT: die Nachspeise, Nachspeisen
+N der Mittagstisch | Mittagstische | обед дня (недорогое меню в обед) | Der Mittagstisch kostet 8,90 Euro. | Обед дня стоит 8,90 евро.
+N die Portion | Portionen | порция | Die Portion ist sehr groß. | Порция очень большая.
+N das Schnitzel | Schnitzel | шницель | Ich nehme das Schnitzel mit Salat. | Я возьму шницель с салатом.
+N die Tasse | Tassen | чашка | Eine Tasse Tee, bitte. | Чашку чая, пожалуйста.
+N die Rechnung | Rechnungen | счёт | Die Rechnung, bitte! | Счёт, пожалуйста!
+N das Trinkgeld | Trinkgelder | чаевые | Wir geben zwei Euro Trinkgeld. | Мы даём два евро чаевых.
+N der Hunger | Sg. | голод | Ich habe Hunger. | Я хочу есть.
+N der Durst | Sg. | жажда | Hast du Durst? | Ты хочешь пить?
+V bestellen | bestellt | bestellte | hat bestellt | заказывать | Wir möchten bestellen. | Мы хотели бы заказать.
+V essen | isst | aß | hat gegessen | есть, кушать | Was isst du gern? | Что ты любишь есть?
+V trinken | trinkt | trank | hat getrunken | пить | Ich trinke einen Tee. | Я пью чай.
+V schmecken | schmeckt | schmeckte | hat geschmeckt | быть вкусным, нравиться на вкус | Schmeckt dir die Suppe? | Тебе нравится суп? | rek: Dat.
+V empfehlen | empfiehlt | empfahl | hat empfohlen | рекомендовать | Was empfehlen Sie heute? | Что вы сегодня посоветуете? | rek: jdm. etw.
+V bringen | bringt | brachte | hat gebracht | приносить | Können Sie mir bitte ein Wasser bringen? | Принесите мне, пожалуйста, воды.
+W satt | Adj. | сытый | Danke, ich bin satt. | Спасибо, я наелся (наелась).
+W frei | Adj. | свободный | Ist hier noch frei? | Здесь свободно?
+W besetzt | Adj. | занят | Der Tisch ist leider besetzt. | Столик, к сожалению, занят.
+W Guten Appetit! | Phrase | Приятного аппетита! | Guten Appetit! – Danke, gleichfalls. | Приятного аппетита! – Спасибо, и вам.
+W Stimmt so. | Phrase | Сдачи не надо. | Das macht 18 Euro. – Hier sind 20. Stimmt so. | С вас 18 евро. – Вот 20. Сдачи не надо.
+W zusammen | Adv. | вместе | Zahlen Sie zusammen oder getrennt? | Вы платите вместе или раздельно?
+W getrennt | Adv. | раздельно | Wir zahlen getrennt, bitte. | Мы платим раздельно, пожалуйста.
+
+## Kleidung & Einkaufen
+N die Kleidung | Sg. | одежда | Hier gibt es billige Kleidung. | Здесь продаётся дешёвая одежда.
+N die Hose | Hosen | брюки | Die Hose ist zu lang. | Брюки слишком длинные.
+N das Hemd | Hemden | рубашка | Das Hemd kostet 29 Euro. | Рубашка стоит 29 евро.
+N das T-Shirt | T-Shirts | футболка | Ich kaufe zwei T-Shirts. | Я покупаю две футболки.
+N die Jacke | Jacken | куртка | Die Jacke passt mir gut. | Куртка мне хорошо подходит по размеру.
+N der Mantel | Mäntel | пальто | Im Winter trage ich einen Mantel. | Зимой я ношу пальто.
+N das Kleid | Kleider | платье | Das Kleid gefällt mir. | Платье мне нравится.
+N der Schuh | Schuhe | ботинок, туфля | Die Schuhe sind bequem. | Эта обувь удобная.
+N die Socke | Socken | носок | Die Socken sind im Angebot. | Носки по акции. | AT: der Socken, Socken
+N die Mütze | Mützen | шапка | Die Mütze ist warm. | Шапка тёплая. | AT: die Haube, Hauben
+N die Tasche | Taschen | сумка | Die Tasche ist aus Leder. | Сумка из кожи.
+N die Größe | Größen | размер | Welche Größe haben Sie? | Какой у вас размер?
+V suchen | sucht | suchte | hat gesucht | искать | Ich suche eine Jacke. | Я ищу куртку.
+V an·probieren | probiert an | probierte an | hat anprobiert | примерять | Kann ich die Hose anprobieren? | Можно примерить брюки?
+V an·ziehen | zieht an | zog an | hat angezogen | надевать | Zieh den Mantel an, es ist kalt! | Надень пальто, холодно! | form: Zieh
+V tragen | trägt | trug | hat getragen | носить (одежду); нести | Sie trägt heute ein rotes Kleid. | Сегодня она в красном платье.
+V passen | passt | passte | hat gepasst | подходить (по размеру) | Die Schuhe passen mir nicht. | Обувь мне не подходит по размеру. | rek: Dat.
+V gefallen | gefällt | gefiel | hat gefallen | нравиться | Die Jacke gefällt mir. | Куртка мне нравится. | rek: Dat.
+V um·tauschen | tauscht um | tauschte um | hat umgetauscht | обменять (товар) | Kann ich die Schuhe umtauschen? | Можно обменять обувь?
+W eng | Adj. | узкий, тесный | Die Hose ist zu eng. | Брюки слишком узкие.
+W bequem | Adj. | удобный | Die Schuhe sind sehr bequem. | Обувь очень удобная.
+W schick | Adj. | элегантный, нарядный | Das Kleid ist schick! | Платье нарядное!
+W Kann ich Ihnen helfen? | Phrase | Могу я вам помочь? | Guten Tag! Kann ich Ihnen helfen? | Добрый день! Могу я вам помочь?
+W Ich schaue nur. | Phrase | Я просто смотрю. | Danke, ich schaue nur. | Спасибо, я просто смотрю.
+W Das steht dir gut. | Phrase | Тебе это идёт. | Die Farbe steht dir gut. | Тебе идёт этот цвет. | form: steht dir gut
+
+## In der Stadt
+N der Platz | Plätze | площадь | Der Markt ist auf dem Platz vor dem Rathaus. | Рынок — на площади перед ратушей.
+N die Ecke | Ecken | угол | Die Bäckerei ist an der Ecke. | Пекарня на углу.
+N die Ampel | Ampeln | светофор | Gehen Sie an der Ampel links. | У светофора поверните налево.
+N die Kreuzung | Kreuzungen | перекрёсток | An der Kreuzung biegen Sie rechts ab. | На перекрёстке поверните направо.
+N der Park | Parks | парк | Am Sonntag gehen wir in den Park. | В воскресенье мы идём в парк.
+N das Rathaus | Rathäuser | ратуша | Das Rathaus ist gleich da vorne. | Ратуша прямо там, впереди.
+N das Museum | Museen | музей | Das Museum ist am Montag geschlossen. | Музей в понедельник закрыт.
+N das Kino | Kinos | кинотеатр | Das Kino ist neben dem Café. | Кинотеатр рядом с кафе.
+N die Post | Sg. | почта | Die Post ist gegenüber vom Bahnhof. | Почта напротив вокзала.
+N die Bank | Banken | банк | Die Bank ist an der Kreuzung. | Банк на перекрёстке.
+N die Apotheke | Apotheken | аптека | Gibt es hier eine Apotheke? | Здесь есть аптека?
+N die Bäckerei | Bäckereien | пекарня | Die Bäckerei öffnet um sechs Uhr. | Пекарня открывается в шесть часов.
+N die Fleischerei | Fleischereien | мясная лавка | Die Fleischerei hat gute Wurst. | В мясной лавке хорошая колбаса. | AT: die Fleischhauerei, Fleischhauereien | note: на юге и западе Германии — die Metzgerei
+N der Fleischer | Fleischer | мясник | Der Fleischer schneidet die Wurst. | Мясник режет колбасу. | AT: der Fleischhauer, Fleischhauer | note: на юге и западе Германии — der Metzger
+N der Kiosk | Kioske | киоск | Am Kiosk kaufe ich eine Zeitung. | В киоске я покупаю газету. | AT: die Trafik, Trafiken | note: в Австрии в Trafik продают газеты, сигареты и билеты
+N das Geschäft | Geschäfte | магазин | Die Geschäfte schließen um 20 Uhr. | Магазины закрываются в 20 часов.
+N der Weg | Wege | путь, дорога | Können Sie mir den Weg zeigen? | Вы можете показать мне дорогу?
+V ab·biegen | biegt ab | bog ab | ist abgebogen | поворачивать | Hier müssen Sie links abbiegen. | Здесь вам нужно повернуть налево.
+V finden | findet | fand | hat gefunden | находить | Ich finde die Post nicht. | Я не могу найти почту.
+V zeigen | zeigt | zeigte | hat gezeigt | показывать | Ich zeige dir den Weg. | Я покажу тебе дорогу. | rek: jdm. etw.
+V liegen | liegt | lag | hat gelegen | находиться, лежать | Das Café liegt am Markt. | Кафе находится на рыночной площади. | note: в Австрии и на юге Германии Perfekt: ist gelegen
+W links | Adv. | налево; слева | Gehen Sie hier links. | Идите здесь налево.
+W rechts | Adv. | направо; справа | Die Apotheke ist rechts. | Аптека справа.
+W geradeaus | Adv. | прямо | Gehen Sie immer geradeaus. | Идите всё время прямо.
+W gegenüber | Präp. | напротив (+ Dat.) | Das Kino ist gegenüber vom Park. | Кинотеатр напротив парка.
+W neben | Präp. | рядом с | Die Bank ist neben der Post. | Банк рядом с почтой.
+W weit | Adj. | далёкий; далеко | Ist es weit bis zum Bahnhof? | До вокзала далеко?
+W in der Nähe | Phrase | поблизости | Gibt es hier in der Nähe einen Supermarkt? | Здесь поблизости есть супермаркет?
+W zu Fuß | Phrase | пешком | Wir gehen zu Fuß. | Мы идём пешком.
+W Entschuldigung, wo ist …? | Phrase | Извините, где …? | Entschuldigung, wo ist die Post? | Извините, где почта? | form: wo ist
+
+## Verkehrsmittel
+N der Bus | Busse | автобус | Der Bus kommt gleich. | Автобус сейчас придёт.
+N die Straßenbahn | Straßenbahnen | трамвай | Ich fahre mit der Straßenbahn zur Arbeit. | Я езжу на работу на трамвае. | AT: die Bim | note: Bim — разговорное слово, в Вене
+N die U-Bahn | U-Bahnen | метро | In Leipzig gibt es keine U-Bahn. | В Лейпциге нет метро.
+N die S-Bahn | S-Bahnen | городская электричка | Die S-Bahn fährt zum Flughafen. | Электричка идёт в аэропорт.
+N die Haltestelle | Haltestellen | остановка | Die Haltestelle ist vor dem Kino. | Остановка перед кинотеатром.
+N der Fahrschein | Fahrscheine | проездной билет (на городской транспорт) | Den Fahrschein kaufen Sie am Automaten. | Билет вы покупаете в автомате.
+N das Auto | Autos | машина, автомобиль | Wir fahren mit dem Auto in die Stadt. | Мы едем в город на машине.
+N das Fahrrad | Fahrräder | велосипед | Ich fahre jeden Tag mit dem Fahrrad. | Я каждый день езжу на велосипеде.
+N das Taxi | Taxis | такси | Wir nehmen ein Taxi. | Мы возьмём такси.
+N der Flughafen | Flughäfen | аэропорт | Wie komme ich zum Flughafen? | Как мне добраться до аэропорта?
+V ein·steigen | steigt ein | stieg ein | ist eingestiegen | садиться (в транспорт) | Bitte schnell einsteigen! | Пожалуйста, быстрее заходите!
+V aus·steigen | steigt aus | stieg aus | ist ausgestiegen | выходить (из транспорта) | Wir sind am Markt ausgestiegen. | Мы вышли у рынка.
+V um·steigen | steigt um | stieg um | ist umgestiegen | делать пересадку | Am Hauptbahnhof müssen Sie umsteigen. | На главном вокзале вам нужно сделать пересадку.
+V halten | hält | hielt | hat gehalten | останавливаться | Der Bus hält vor der Bank. | Автобус останавливается перед банком.
+V parken | parkt | parkte | hat geparkt | парковаться | Hier darf man nicht parken. | Здесь нельзя парковаться.
+W nächste | Adj. | следующий; ближайший | Wir steigen an der nächsten Haltestelle aus. | Мы выходим на следующей остановке. | form: nächsten
+W mit dem Bus | Phrase | на автобусе | Ich fahre mit dem Bus. | Я еду на автобусе.
+
+## Körper & Gesundheit
+N der Kopf | Köpfe | голова | Mein Kopf tut weh. | У меня болит голова.
+N das Auge | Augen | глаз | Meine Augen sind müde. | Мои глаза устали.
+N die Nase | Nasen | нос | Mir läuft die Nase. | У меня течёт из носа.
+N der Zahn | Zähne | зуб | Ich habe Zahnschmerzen. | У меня болит зуб.
+N der Hals | Hälse | горло; шея | Mein Hals tut weh. | У меня болит горло.
+N der Bauch | Bäuche | живот | Mein Bauch tut weh. | У меня болит живот.
+N der Rücken | Rücken | спина | Der Rücken tut mir weh. | У меня болит спина.
+N die Hand | Hände | кисть руки | Wasch dir die Hände! | Помой руки! | form: Hände
+N das Bein | Beine | нога | Nach dem Wandern tun mir die Beine weh. | После похода у меня болят ноги.
+N der Fuß | Füße | ступня, нога | Mein Fuß tut weh. | У меня болит нога (ступня).
+N der Arzt | Ärzte | врач | Ich muss zum Arzt. | Мне нужно к врачу.
+N die Praxis | Praxen | кабинет врача, практика | Die Praxis ist im zweiten Stock. | Кабинет врача на третьем этаже. | AT: die Ordination, Ordinationen | note: zweiter Stock = третий этаж по-русски
+N der Termin | Termine | запись, назначенное время | Ich brauche einen Termin. | Мне нужна запись (к врачу).
+N der Schmerz | Schmerzen | боль | Ich habe starke Schmerzen. | У меня сильные боли.
+N das Fieber | Sg. | температура (повышенная), жар | Das Kind hat Fieber. | У ребёнка температура.
+N der Husten | Sg. | кашель | Ich habe seit drei Tagen Husten. | У меня кашель уже три дня.
+N die Erkältung | Erkältungen | простуда | Ich habe eine Erkältung. | Я простудился (простудилась). | AT: die Verkühlung, Verkühlungen
+N die Tablette | Tabletten | таблетка | Nehmen Sie zweimal am Tag eine Tablette. | Принимайте по таблетке два раза в день.
+N das Rezept | Rezepte | рецепт | Hier ist Ihr Rezept. | Вот ваш рецепт.
+N die Versicherungskarte | Versicherungskarten | карта медицинской страховки | Bitte bringen Sie Ihre Versicherungskarte mit. | Пожалуйста, возьмите с собой страховую карту. | AT: die e-card, e-cards
+N das Krankenhaus | Krankenhäuser | больница | Er liegt im Krankenhaus. | Он лежит в больнице. | AT: das Spital, Spitäler
+W krank | Adj. | больной | Ich bin krank. | Я болен (больна).
+W gesund | Adj. | здоровый; полезный | Obst ist gesund. | Фрукты полезны.
+W schlecht | Adj. | плохой; плохо | Mir geht es schlecht. | Мне плохо.
+V weh·tun | tut weh | tat weh | hat wehgetan | болеть (о части тела) | Mein Kopf tut weh. | У меня болит голова.
+V sich fühlen | fühlt sich | fühlte sich | hat sich gefühlt | чувствовать себя | Ich fühle mich nicht gut. | Я плохо себя чувствую. | form: fühle
+V husten | hustet | hustete | hat gehustet | кашлять | Das Kind hustet die ganze Nacht. | Ребёнок кашляет всю ночь.
+V vereinbaren | vereinbart | vereinbarte | hat vereinbart | договариваться (о времени) | Ich möchte einen Termin vereinbaren. | Я хотел(а) бы записаться на приём.
+W Was fehlt Ihnen? | Phrase | Что у вас болит? (вопрос врача) | Guten Tag, Herr Kaya. Was fehlt Ihnen? | Добрый день, господин Кая. На что жалуетесь?
+W Gute Besserung! | Phrase | Выздоравливай(те)! | Du bist krank? Gute Besserung! | Ты болеешь? Выздоравливай!
+
+## Freizeit & Hobbys
+N die Freizeit | Sg. | свободное время | In meiner Freizeit lese ich gern. | В свободное время я люблю читать.
+N das Hobby | Hobbys | хобби | Mein Hobby ist Fotografieren. | Моё хобби — фотография.
+N der Sport | Sg. | спорт | Ich mache gern Sport. | Я люблю заниматься спортом.
+N das Schwimmbad | Schwimmbäder | бассейн | Das Schwimmbad ist im Sommer voll. | Летом в бассейне много людей.
+N das Fitnessstudio | Fitnessstudios | фитнес-клуб | Ich gehe dreimal pro Woche ins Fitnessstudio. | Я хожу в фитнес-клуб три раза в неделю.
+N die Musik | Sg. | музыка | Welche Musik hörst du gern? | Какую музыку ты любишь слушать?
+N das Konzert | Konzerte | концерт | Das Konzert beginnt um 20 Uhr. | Концерт начинается в 20 часов.
+N das Buch | Bücher | книга | Das Buch ist spannend. | Книга увлекательная.
+N der Film | Filme | фильм | Der Film war sehr gut. | Фильм был очень хороший.
+N der Ausflug | Ausflüge | экскурсия, поездка (на день) | Am Sonntag machen wir einen Ausflug. | В воскресенье мы едем на прогулку за город.
+V spielen | spielt | spielte | hat gespielt | играть | Die Kinder spielen im Park. | Дети играют в парке.
+V schwimmen | schwimmt | schwamm | ist geschwommen | плавать | Im Sommer schwimme ich im See. | Летом я плаваю в озере. | form: schwimme
+V lesen | liest | las | hat gelesen | читать | Sie liest gern Krimis. | Она любит читать детективы.
+V wandern | wandert | wanderte | ist gewandert | ходить в поход | Am Wochenende wandern wir gern. | По выходным мы любим ходить в походы.
+V Rad fahren | fährt Rad | fuhr Rad | ist Rad gefahren | кататься на велосипеде | Bei schönem Wetter möchte ich Rad fahren. | В хорошую погоду я хочу покататься на велосипеде.
+V fotografieren | fotografiert | fotografierte | hat fotografiert | фотографировать | Ich fotografiere gern Tiere. | Я люблю фотографировать животных.
+V treffen | trifft | traf | hat getroffen | встречать | Ich treffe Jana im Café. | Я встречаюсь с Яной в кафе.
+V Spaß machen | macht Spaß | machte Spaß | hat Spaß gemacht | доставлять удовольствие | Tanzen macht mir Spaß. | Мне нравится танцевать. | form: macht
+W toll | Adj. | классный, отличный | Das Konzert war toll! | Концерт был классный!
+W langweilig | Adj. | скучный | Der Film ist langweilig. | Фильм скучный.
+W lieber | Adv. | охотнее, лучше (сравн. от gern) | Ich trinke lieber Tee. | Я лучше выпью чай.
+W Hast du Lust? | Phrase | Хочешь? (есть желание?) | Wir gehen ins Kino. Hast du Lust? | Мы идём в кино. Хочешь с нами?

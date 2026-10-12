@@ -1,0 +1,276 @@
+# Словарь юнита a1-hamburg — Ankommen & Sich vorstellen (A1)
+
+## Begrüßung & Verabschiedung
+W Hallo! | Phrase | Привет! Здравствуйте! | Hallo, ich bin Olena. | Привет, я Олена.
+W Moin! | Phrase | Привет! Здравствуйте! (север Германии) | Moin, wie geht's? | Привет, как дела? | note: в Гамбурге так здороваются в любое время дня
+W Guten Morgen! | Phrase | Доброе утро! | Guten Morgen, Frau Yılmaz! | Доброе утро, госпожа Йылмаз!
+W Guten Tag! | Phrase | Добрый день! Здравствуйте! | Guten Tag, mein Name ist Igor Petrow. | Здравствуйте, меня зовут Игорь Петров. | AT: Grüß Gott!
+W Guten Abend! | Phrase | Добрый вечер! | Guten Abend, Herr Schulz! | Добрый вечер, господин Шульц!
+W Gute Nacht! | Phrase | Спокойной ночи! | Gute Nacht und bis morgen! | Спокойной ночи и до завтра!
+W Auf Wiedersehen! | Phrase | До свидания! | Danke und auf Wiedersehen! | Спасибо и до свидания! | AT: Auf Wiederschauen!
+W Tschüss! | Phrase | Пока! | Tschüss, bis Montag! | Пока, до понедельника! | AT: Servus! | note: в Австрии Servus! — и «привет», и «пока» (неформально)
+W Bis bald! | Phrase | До скорого! | Bis bald in Hamburg! | До скорого в Гамбурге!
+W Bis morgen! | Phrase | До завтра! | Tschüss, Aylin, bis morgen! | Пока, Айлин, до завтра!
+W Wie geht's? | Phrase | Как дела? (неформально) | Hallo Max, wie geht's? | Привет, Макс, как дела?
+W Wie geht es Ihnen? | Phrase | Как у вас дела? (вежливо) | Guten Tag, Frau Berg, wie geht es Ihnen? | Здравствуйте, госпожа Берг, как у вас дела?
+W Danke, gut. | Phrase | Спасибо, хорошо. | Danke, gut. Und dir? | Спасибо, хорошо. А у тебя?
+W Freut mich! | Phrase | Очень приятно! | Ich bin Daria. – Freut mich! | Я Дарья. – Очень приятно!
+W Herzlich willkommen! | Phrase | Добро пожаловать! | Herzlich willkommen in Hamburg! | Добро пожаловать в Гамбург!
+W Entschuldigung! | Phrase | Извините! | Entschuldigung, wo ist Gleis 7? | Извините, где седьмой путь?
+W Danke! | Phrase | Спасибо! | Danke für die Hilfe! | Спасибо за помощь!
+W Bitte! | Phrase | Пожалуйста! | Ein Ticket nach Berlin, bitte! | Один билет до Берлина, пожалуйста!
+W Wie bitte? | Phrase | Простите, что? (переспросить) | Wie bitte? Noch einmal, bitte. | Простите, что? Ещё раз, пожалуйста.
+W ja | Partikel | да | Ja, ich komme aus Kiew. | Да, я из Киева.
+W nein | Partikel | нет | Nein, ich wohne nicht hier. | Нет, я живу не здесь.
+
+## Personalien
+N der Name | Namen | имя; фамилия | Mein Name ist Svetlana Orlova. | Меня зовут Светлана Орлова.
+N der Vorname | Vornamen | имя | Mein Vorname ist Kemal. | Моё имя — Кемаль.
+N der Familienname | Familiennamen | фамилия | Wie ist Ihr Familienname? | Какая у вас фамилия? | note: синоним — der Nachname
+N die Adresse | Adressen | адрес | Meine Adresse ist Hafenstraße 12. | Мой адрес — Хафенштрассе, 12.
+N die Straße | Straßen | улица | Ich wohne in der Elbstraße. | Я живу на Эльбштрассе.
+N die Hausnummer | Hausnummern | номер дома | Die Hausnummer ist 24. | Номер дома — 24.
+N die Postleitzahl | Postleitzahlen | почтовый индекс | Die Postleitzahl ist 20095. | Индекс — 20095.
+N der Wohnort | Wohnorte | место жительства | Mein Wohnort ist Hamburg. | Моё место жительства — Гамбург.
+N das Alter | Sg. | возраст | Alter: 25 Jahre. | Возраст: 25 лет.
+N der Geburtstag | Geburtstage | день рождения | Mein Geburtstag ist im Mai. | Мой день рождения в мае.
+N das Geburtsdatum | Geburtsdaten | дата рождения | Bitte schreiben Sie hier Ihr Geburtsdatum. | Пожалуйста, напишите здесь вашу дату рождения.
+N der Geburtsort | Geburtsorte | место рождения | Mein Geburtsort ist Odessa. | Моё место рождения — Одесса.
+W der Januar | Nomen | январь | Ich habe im Januar Geburtstag. | У меня день рождения в январе. | AT: der Jänner
+N die Telefonnummer | Telefonnummern | номер телефона | Wie ist Ihre Telefonnummer? | Какой у вас номер телефона?
+N das Handy | Handys | мобильный телефон | Ich habe ein neues Handy. | У меня новый телефон.
+N die E-Mail | E-Mails | электронное письмо; e-mail | Ich schreibe eine E-Mail. | Я пишу электронное письмо.
+N der Familienstand | Sg. | семейное положение | Familienstand: ledig. | Семейное положение: не женат / не замужем.
+N das Formular | Formulare | анкета, бланк | Bitte füllen Sie das Formular aus. | Пожалуйста, заполните анкету.
+N die Unterschrift | Unterschriften | подпись | Hier fehlt noch Ihre Unterschrift. | Здесь не хватает вашей подписи.
+N der Ausweis | Ausweise | удостоверение личности | Haben Sie einen Ausweis? | У вас есть удостоверение личности?
+N der Reisepass | Reisepässe | заграничный паспорт | Hier ist mein Reisepass. | Вот мой паспорт.
+N das Jahr | Jahre | год | Ich bin 30 Jahre alt. | Мне 30 лет.
+N der Herr | Herren | господин; мужчина | Das ist Herr Becker. | Это господин Беккер.
+W ledig | Adj. | не женат / не замужем | Ich bin ledig. | Я не женат.
+W verheiratet | Adj. | женат / замужем | Rustam ist verheiratet. | Рустам женат.
+W geschieden | Adj. | разведён / разведена | Meine Tante ist geschieden. | Моя тётя разведена.
+
+## Länder, Sprachen & Nationalitäten
+N das Land | Länder | страна | Aus welchem Land kommst du? | Из какой ты страны?
+N die Stadt | Städte | город | Hamburg ist eine große Stadt. | Гамбург — большой город.
+W Deutschland | Nomen | Германия | Ich wohne jetzt in Deutschland. | Сейчас я живу в Германии.
+W Österreich | Nomen | Австрия | Lukas kommt aus Österreich. | Лукас из Австрии.
+W die Schweiz | Nomen | Швейцария | Meine Freundin wohnt in der Schweiz. | Моя подруга живёт в Швейцарии. | note: с артиклем: aus der Schweiz, in der Schweiz
+W die Türkei | Nomen | Турция | Emre kommt aus der Türkei. | Эмре из Турции. | note: с артиклем: aus der Türkei
+W die Ukraine | Nomen | Украина | Oksana kommt aus der Ukraine. | Оксана из Украины. | note: с артиклем: aus der Ukraine
+W Russland | Nomen | Россия | Ich komme aus Russland. | Я из России.
+W Polen | Nomen | Польша | Marek kommt aus Polen. | Марек из Польши.
+W Syrien | Nomen | Сирия | Rana kommt aus Syrien. | Рана из Сирии.
+N die Sprache | Sprachen | язык | Welche Sprachen sprichst du? | На каких языках ты говоришь?
+N die Muttersprache | Muttersprachen | родной язык | Meine Muttersprache ist Russisch. | Мой родной язык — русский.
+N das Deutsch | Sg. | немецкий язык | Ich lerne Deutsch. | Я учу немецкий.
+N das Englisch | Sg. | английский язык | Sprechen Sie Englisch? | Вы говорите по-английски?
+N das Russisch | Sg. | русский язык | Wir sprechen zu Hause Russisch. | Дома мы говорим по-русски.
+N das Ukrainisch | Sg. | украинский язык | Oksana spricht Ukrainisch und Russisch. | Оксана говорит по-украински и по-русски.
+N das Türkisch | Sg. | турецкий язык | Mein Nachbar spricht Türkisch. | Мой сосед говорит по-турецки.
+N die Nationalität | Nationalitäten | национальность, гражданство | Nationalität: ukrainisch. | Гражданство: украинское.
+N der Österreicher | Österreicher | австриец | Mein Lehrer ist Österreicher. | Мой учитель — австриец.
+N die Österreicherin | Österreicherinnen | австрийка | Julia ist Österreicherin. | Юлия — австрийка.
+N der Türke | Türken | турок | Mein Kollege ist Türke. | Мой коллега — турок.
+N die Türkin | Türkinnen | турчанка | Aylin ist Türkin. | Айлин — турчанка.
+N der Ukrainer | Ukrainer | украинец | Taras ist Ukrainer. | Тарас — украинец.
+N die Ukrainerin | Ukrainerinnen | украинка | Ich bin Ukrainerin. | Я украинка.
+N der Russe | Russen | русский (мужчина) | Pawel ist Russe. | Павел — русский.
+N die Russin | Russinnen | русская (женщина) | Meine Nachbarin ist Russin. | Моя соседка — русская.
+
+## Familie
+N die Familie | Familien | семья | Meine Familie wohnt in Charkiw. | Моя семья живёт в Харькове.
+N die Eltern | Pl. | родители | Meine Eltern sprechen kein Deutsch. | Мои родители не говорят по-немецки.
+N die Mutter | Mütter | мать | Meine Mutter ist Ärztin. | Моя мама — врач.
+N der Vater | Väter | отец | Mein Vater arbeitet in Izmir. | Мой папа работает в Измире.
+N das Kind | Kinder | ребёнок | Haben Sie Kinder? | У вас есть дети?
+N der Sohn | Söhne | сын | Mein Sohn ist sieben Jahre alt. | Моему сыну семь лет.
+N die Tochter | Töchter | дочь | Ihre Tochter heißt Mila. | Её дочь зовут Мила.
+N der Bruder | Brüder | брат | Ich habe einen Bruder. | У меня есть брат.
+N die Schwester | Schwestern | сестра | Meine Schwester lebt in Wien. | Моя сестра живёт в Вене.
+N die Geschwister | Pl. | братья и сёстры | Hast du Geschwister? | У тебя есть братья или сёстры?
+N der Mann | Männer | мужчина; муж | Das ist mein Mann, Ali. | Это мой муж Али.
+N die Frau | Frauen | женщина; жена; госпожа | Frau Neumann ist meine Lehrerin. | Госпожа Нойман — моя учительница.
+N die Großeltern | Pl. | бабушка и дедушка | Meine Großeltern wohnen auf dem Land. | Мои бабушка и дедушка живут в деревне.
+N die Oma | Omas | бабушка | Meine Oma ist 80 Jahre alt. | Моей бабушке 80 лет.
+N der Opa | Opas | дедушка | Mein Opa spricht ein bisschen Deutsch. | Мой дедушка немного говорит по-немецки.
+N der Junge | Jungen | мальчик | Der Junge heißt Timur. | Мальчика зовут Тимур. | AT: der Bub, Buben
+N das Mädchen | Mädchen | девочка | Das Mädchen ist zehn Jahre alt. | Девочке десять лет.
+N der Freund | Freunde | друг | Mein Freund Jonas wohnt in Altona. | Мой друг Йонас живёт в Альтоне.
+N die Freundin | Freundinnen | подруга | Meine Freundin kommt aus Kasan. | Моя подруга из Казани.
+
+## Zahlen
+W null | Num. | ноль | Die Vorwahl beginnt mit null. | Код начинается с нуля.
+W eins | Num. | один | Eins, zwei, drei – los! | Раз, два, три – вперёд! | note: при счёте eins, но ein Kind, eine Frau
+W zwei | Num. | два | Ich habe zwei Koffer. | У меня два чемодана.
+W drei | Num. | три | Wir bleiben drei Nächte. | Мы остаёмся на три ночи.
+W vier | Num. | четыре | Der Zug fährt von Gleis vier. | Поезд отправляется с четвёртого пути.
+W fünf | Num. | пять | Das Ticket kostet fünf Euro. | Билет стоит пять евро.
+W sechs | Num. | шесть | Der Kurs beginnt um sechs Uhr. | Курс начинается в шесть часов.
+W sieben | Num. | семь | Zimmer sieben ist frei. | Номер семь свободен.
+W acht | Num. | восемь | Frühstück gibt es ab acht Uhr. | Завтрак — с восьми часов.
+W neun | Num. | девять | Meine Tochter ist neun. | Моей дочери девять.
+W zehn | Num. | десять | Der Bus hat zehn Minuten Verspätung. | Автобус опаздывает на десять минут.
+W elf | Num. | одиннадцать | Wir kommen um elf Uhr an. | Мы приезжаем в одиннадцать часов.
+W zwölf | Num. | двенадцать | Das Hostel hat zwölf Zimmer. | В хостеле двенадцать комнат.
+W dreizehn | Num. | тринадцать | Mein Bruder ist dreizehn. | Моему брату тринадцать.
+W sechzehn | Num. | шестнадцать | Sie ist sechzehn Jahre alt. | Ей шестнадцать лет. | note: без -s: sechzehn (не sechszehn)
+W siebzehn | Num. | семнадцать | Der Zug fährt von Gleis siebzehn. | Поезд отправляется с семнадцатого пути. | note: без -en: siebzehn (не siebenzehn)
+W zwanzig | Num. | двадцать | Ich bin zwanzig Jahre alt. | Мне двадцать лет.
+W einundzwanzig | Num. | двадцать один | Mein Zimmer hat die Nummer einundzwanzig. | У моего номера номер двадцать один. | note: сначала единицы, потом десятки: ein-und-zwanzig
+W dreißig | Num. | тридцать | Die Fahrt dauert dreißig Minuten. | Поездка длится тридцать минут. | note: пишется с ß
+W vierzig | Num. | сорок | Mein Vater ist vierzig. | Моему отцу сорок.
+W fünfzig | Num. | пятьдесят | Die Nacht kostet fünfzig Euro. | Ночь стоит пятьдесят евро.
+W sechzig | Num. | шестьдесят | Meine Mutter ist sechzig Jahre alt. | Моей маме шестьдесят лет. | note: без -s: sechzig
+W siebzig | Num. | семьдесят | Mein Opa ist siebzig. | Моему дедушке семьдесят.
+W achtzig | Num. | восемьдесят | Das Zimmer kostet achtzig Euro. | Номер стоит восемьдесят евро.
+W neunzig | Num. | девяносто | Der Unterricht dauert neunzig Minuten. | Урок длится девяносто минут.
+W hundert | Num. | сто | Das Hotel hat hundert Zimmer. | В отеле сто номеров.
+
+## Berufe
+N der Beruf | Berufe | профессия | Was sind Sie von Beruf? | Кто вы по профессии?
+N der Lehrer | Lehrer | учитель | Herr Wolf ist Lehrer. | Господин Вольф — учитель.
+N die Lehrerin | Lehrerinnen | учительница | Meine Lehrerin heißt Frau Krause. | Мою учительницу зовут госпожа Краузе.
+N der Arzt | Ärzte | врач | Mein Bruder ist Arzt. | Мой брат — врач.
+N die Ärztin | Ärztinnen | врач (женщина) | Natalia ist Ärztin von Beruf. | Наталья по профессии врач.
+N der Ingenieur | Ingenieure | инженер | Ahmet ist Ingenieur bei Airbus. | Ахмет — инженер в «Эйрбасе».
+N die Ingenieurin | Ingenieurinnen | инженер (женщина) | Lena ist Ingenieurin. | Лена — инженер.
+N der Verkäufer | Verkäufer | продавец | Der Verkäufer ist sehr nett. | Продавец очень любезный.
+N die Verkäuferin | Verkäuferinnen | продавщица | Meine Schwester ist Verkäuferin. | Моя сестра — продавщица.
+N der Student | Studenten | студент | Ich bin Student in Hamburg. | Я студент в Гамбурге.
+N die Studentin | Studentinnen | студентка | Mariam ist Studentin. | Мариам — студентка.
+N der Schüler | Schüler | школьник; ученик | Der Schüler lernt Englisch. | Школьник учит английский.
+N der Koch | Köche | повар | Mein Mann ist Koch. | Мой муж — повар.
+N der Kellner | Kellner | официант | Der Kellner bringt den Kaffee. | Официант приносит кофе.
+N der Taxifahrer | Taxifahrer | таксист | Der Taxifahrer spricht Türkisch. | Таксист говорит по-турецки.
+N die Firma | Firmen | фирма | Ich arbeite bei einer Firma in Hamburg. | Я работаю в одной фирме в Гамбурге.
+N das Abitur | Sg. | аттестат зрелости (выпускной экзамен в школе) | Meine Tochter macht dieses Jahr Abitur. | Моя дочь в этом году сдаёт выпускные экзамены. | AT: die Matura
+W arbeitslos | Adj. | безработный | Mein Nachbar ist zurzeit arbeitslos. | Мой сосед сейчас без работы.
+
+## Reisen & Ankommen
+N die Reise | Reisen | поездка, путешествие | Gute Reise! | Счастливого пути!
+N der Bahnhof | Bahnhöfe | вокзал | Ich warte am Bahnhof. | Я жду на вокзале.
+N der Hauptbahnhof | Hauptbahnhöfe | главный вокзал | Der Hauptbahnhof ist sehr groß. | Главный вокзал очень большой.
+N das Gleis | Gleise | путь (на вокзале) | Der Zug fährt von Gleis 12 ab. | Поезд отправляется с двенадцатого пути.
+N der Zug | Züge | поезд | Der Zug kommt pünktlich. | Поезд приходит вовремя.
+N die Fahrkarte | Fahrkarten | билет (на транспорт) | Ich kaufe eine Fahrkarte am Automaten. | Я покупаю билет в автомате. | AT: der Fahrschein, Fahrscheine
+N das Ticket | Tickets | билет | Hast du schon ein Ticket? | У тебя уже есть билет?
+N die Verspätung | Verspätungen | опоздание, задержка | Der Zug hat 20 Minuten Verspätung. | Поезд опаздывает на 20 минут.
+N der Anschluss | Anschlüsse | пересадка (стыковочный поезд) | Ich verpasse meinen Anschluss. | Я не успеваю на пересадку.
+N die Abfahrt | Abfahrten | отправление | Die Abfahrt ist um 9.15 Uhr. | Отправление в 9:15.
+N die Ankunft | Ankünfte | прибытие | Die Ankunft in Hamburg ist um 14 Uhr. | Прибытие в Гамбург в 14 часов.
+N der Fahrplan | Fahrpläne | расписание | Wo hängt der Fahrplan? | Где висит расписание?
+N der Bus | Busse | автобус | Der Bus fährt zum Hafen. | Автобус едет в порт.
+N die U-Bahn | U-Bahnen | метро | Ich fahre mit der U-Bahn. | Я еду на метро.
+N die S-Bahn | S-Bahnen | городская электричка | Die S-Bahn fährt zum Flughafen. | Электричка едет в аэропорт.
+N die Haltestelle | Haltestellen | остановка | Die Haltestelle ist direkt vor dem Hotel. | Остановка прямо перед отелем.
+N der Flughafen | Flughäfen | аэропорт | Der Flughafen ist nicht weit. | Аэропорт недалеко.
+N das Flugzeug | Flugzeuge | самолёт | Das Flugzeug landet um acht. | Самолёт приземляется в восемь.
+N das Taxi | Taxis | такси | Wir nehmen ein Taxi. | Мы берём такси.
+N der Hafen | Häfen | порт | Der Hafen in Hamburg ist sehr bekannt. | Гамбургский порт очень известен.
+N der Koffer | Koffer | чемодан | Mein Koffer ist schwer. | Мой чемодан тяжёлый.
+N die Tasche | Taschen | сумка | Ist das Ihre Tasche? | Это ваша сумка?
+N der Rucksack | Rucksäcke | рюкзак | Ich habe nur einen Rucksack. | У меня только рюкзак.
+N das Gepäck | Sg. | багаж | Wo kann ich mein Gepäck lassen? | Где я могу оставить багаж?
+N der Stadtplan | Stadtpläne | карта города | Haben Sie einen Stadtplan? | У вас есть карта города?
+N die Information | Informationen | справочная; информация | Die Information ist am Eingang. | Справочная у входа.
+N der Eingang | Eingänge | вход | Der Eingang ist links. | Вход слева.
+N der Ausgang | Ausgänge | выход | Wo ist der Ausgang? | Где выход?
+N das Hotel | Hotels | гостиница, отель | Das Hotel ist am Hafen. | Отель у порта.
+N das Hostel | Hostels | хостел | Das Hostel ist billig. | Хостел дешёвый.
+N die Rezeption | Rezeptionen | ресепшен, стойка регистрации | Die Rezeption ist rund um die Uhr offen. | Ресепшен открыт круглосуточно.
+N das Zimmer | Zimmer | комната; номер (в отеле) | Das Zimmer ist klein, aber schön. | Номер маленький, но красивый.
+N das Einzelzimmer | Einzelzimmer | одноместный номер | Ich brauche ein Einzelzimmer. | Мне нужен одноместный номер.
+N das Doppelzimmer | Doppelzimmer | двухместный номер | Wir haben ein Doppelzimmer reserviert. | Мы забронировали двухместный номер.
+N der Schlüssel | Schlüssel | ключ | Hier ist Ihr Schlüssel. | Вот ваш ключ.
+N die Nacht | Nächte | ночь | Ich bleibe zwei Nächte. | Я остаюсь на две ночи.
+N das Frühstück | Sg. | завтрак | Das Frühstück ist von sieben bis zehn Uhr. | Завтрак с семи до десяти.
+N der Aufzug | Aufzüge | лифт | Der Aufzug ist rechts. | Лифт справа. | AT: der Lift, Lifte
+N die Treppe | Treppen | лестница | Die Treppe ist dort. | Лестница там. | AT: die Stiege, Stiegen
+N das Erdgeschoss | Erdgeschosse | первый (цокольный) этаж | Die Rezeption ist im Erdgeschoss. | Ресепшен на первом этаже. | AT: das Erdgeschoß, Erdgeschoße | note: в Германии и Австрии Erdgeschoss — это наш «первый этаж»; 1. Stock — наш второй
+N der Schrank | Schränke | шкаф | Im Zimmer gibt es einen Schrank. | В номере есть шкаф. | AT: der Kasten, Kästen
+
+## Verben
+V sein | ist | war | ist gewesen | быть; являться | Ich bin müde. | Я устал(а). | form: bin
+V haben | hat | hatte | hat gehabt | иметь | Ich habe ein Zimmer reserviert. | Я забронировал(а) номер. | form: habe
+V heißen | heißt | hieß | hat geheißen | называться; зваться | Ich heiße Yusuf. | Меня зовут Юсуф. | form: heiße
+V kommen | kommt | kam | ist gekommen | приходить; приезжать; быть родом | Ich komme aus der Ukraine. | Я из Украины. | form: komme | rek: aus + Dat.
+V wohnen | wohnt | wohnte | hat gewohnt | жить, проживать | Ich wohne in Hamburg. | Я живу в Гамбурге. | form: wohne
+V leben | lebt | lebte | hat gelebt | жить | Meine Eltern leben in Minsk. | Мои родители живут в Минске.
+V sprechen | spricht | sprach | hat gesprochen | говорить (на языке) | Ich spreche Russisch und Deutsch. | Я говорю по-русски и по-немецки. | form: spreche
+V lernen | lernt | lernte | hat gelernt | учить, изучать | Wir lernen Deutsch. | Мы учим немецкий.
+V arbeiten | arbeitet | arbeitete | hat gearbeitet | работать | Sie arbeitet im Hotel. | Она работает в отеле.
+V machen | macht | machte | hat gemacht | делать | Was machst du hier? | Что ты здесь делаешь? | form: machst
+V buchstabieren | buchstabiert | buchstabierte | hat buchstabiert | произносить по буквам | Können Sie das bitte buchstabieren? | Можете, пожалуйста, сказать это по буквам?
+V an·kommen | kommt an | kam an | ist angekommen | прибывать | Der Zug kommt um acht an. | Поезд прибывает в восемь.
+V ab·fahren | fährt ab | fuhr ab | ist abgefahren | отправляться, уезжать | Der Bus fährt um zehn ab. | Автобус отправляется в десять.
+V um·steigen | steigt um | stieg um | ist umgestiegen | делать пересадку | In Hannover steigen wir um. | В Ганновере мы пересаживаемся. | form: steigen
+V fahren | fährt | fuhr | ist gefahren | ехать | Wir fahren mit dem Zug. | Мы едем на поезде. | rek: mit + Dat.
+V gehen | geht | ging | ist gegangen | идти | Ich gehe zum Hotel. | Я иду в отель. | form: gehe
+V finden | findet | fand | hat gefunden | находить | Ich finde meinen Schlüssel nicht. | Я не могу найти свой ключ. | form: finde
+V suchen | sucht | suchte | hat gesucht | искать | Ich suche den Ausgang. | Я ищу выход. | form: suche
+V brauchen | braucht | brauchte | hat gebraucht | нуждаться; «мне нужно …» | Ich brauche ein Taxi. | Мне нужно такси. | form: brauche
+V warten | wartet | wartete | hat gewartet | ждать | Ich warte auf den Bus. | Я жду автобус. | form: warte | rek: auf + Akk.
+V bleiben | bleibt | blieb | ist geblieben | оставаться | Wir bleiben eine Woche in Hamburg. | Мы остаёмся в Гамбурге на неделю.
+V reservieren | reserviert | reservierte | hat reserviert | бронировать | Ich habe ein Zimmer reserviert. | Я забронировал(а) номер.
+V verstehen | versteht | verstand | hat verstanden | понимать | Das verstehe ich nicht. | Этого я не понимаю. | form: verstehe
+V wiederholen | wiederholt | wiederholte | hat wiederholt | повторять | Können Sie das bitte wiederholen? | Можете, пожалуйста, повторить?
+V kennen | kennt | kannte | hat gekannt | знать (кого-то, что-то) | Kennst du Hamburg? | Ты знаешь Гамбург? | form: kennst
+V schreiben | schreibt | schrieb | hat geschrieben | писать | Ich schreibe meiner Mutter eine Nachricht. | Я пишу маме сообщение. | form: schreibe
+V lesen | liest | las | hat gelesen | читать | Er liest den Fahrplan. | Он читает расписание.
+V fragen | fragt | fragte | hat gefragt | спрашивать | Ich frage an der Information. | Я спрашиваю в справочной. | form: frage
+V antworten | antwortet | antwortete | hat geantwortet | отвечать | Bitte antworten Sie schnell. | Пожалуйста, ответьте быстро.
+V studieren | studiert | studierte | hat studiert | учиться (в вузе) | Mein Bruder studiert Informatik. | Мой брат изучает информатику.
+V kosten | kostet | kostete | hat gekostet | стоить | Was kostet das Zimmer? | Сколько стоит номер?
+V sich vor·stellen | stellt sich vor | stellte sich vor | hat sich vorgestellt | представляться | Darf ich mich vorstellen? | Разрешите представиться?
+
+## Fragewörter
+W wer | Pron. | кто | Wer ist das? | Кто это?
+W was | Pron. | что | Was machen Sie in Hamburg? | Что вы делаете в Гамбурге?
+W wo | Adv. | где | Wo wohnst du? | Где ты живёшь?
+W woher | Adv. | откуда | Woher kommen Sie? | Откуда вы?
+W wohin | Adv. | куда | Wohin fährt der Zug? | Куда идёт поезд?
+W wie | Adv. | как | Wie heißt du? | Как тебя зовут?
+W wie alt | Phrase | сколько лет | Wie alt sind Sie? | Сколько вам лет?
+W wann | Adv. | когда | Wann kommt der Zug an? | Когда прибывает поезд?
+W wie viel | Phrase | сколько | Wie viel kostet die Fahrkarte? | Сколько стоит билет?
+W welche | Pron. | какой / какая / какие | Welche Sprachen sprechen Sie? | На каких языках вы говорите? | note: welcher (der), welche (die, Pl.), welches (das)
+W warum | Adv. | почему | Warum lernst du Deutsch? | Почему ты учишь немецкий?
+
+## Pronomen
+W ich | Pron. | я | Ich bin Mariya. | Я Мария.
+W du | Pron. | ты | Du bist neu hier, oder? | Ты здесь новенький, да?
+W er | Pron. | он | Er kommt aus Polen. | Он из Польши.
+W sie | Pron. | она; они | Sie wohnt in Altona. | Она живёт в Альтоне. | note: sie + -t = она (sie wohnt), sie + -en = они (sie wohnen)
+W es | Pron. | оно | Das Hotel? Es ist am Hafen. | Отель? Он у порта.
+W wir | Pron. | мы | Wir lernen zusammen. | Мы учимся вместе.
+W ihr | Pron. | вы (несколько человек, на «ты») | Woher kommt ihr? | Откуда вы?
+W Sie | Pron. | Вы (вежливая форма) | Wie heißen Sie? | Как вас зовут? | note: всегда с большой буквы; глагол как у «они»: Sie wohnen
+W mein | Pron. | мой | Das ist mein Koffer. | Это мой чемодан. | note: mein (der/das), meine (die, Pl.)
+W dein | Pron. | твой | Ist das dein Rucksack? | Это твой рюкзак?
+W Ihr | Pron. | Ваш | Ist das Ihr Schlüssel? | Это ваш ключ?
+
+## Adjektive & Adverbien
+W groß | Adj. | большой | Hamburg ist groß. | Гамбург большой.
+W klein | Adj. | маленький | Das Zimmer ist klein. | Номер маленький.
+W neu | Adj. | новый | Ich bin neu in Hamburg. | Я новенький в Гамбурге.
+W alt | Adj. | старый; (о возрасте) лет | Wie alt bist du? | Сколько тебе лет?
+W jung | Adj. | молодой | Meine Lehrerin ist noch jung. | Моя учительница ещё молодая.
+W gut | Adj. | хороший; хорошо | Du sprichst gut Deutsch. | Ты хорошо говоришь по-немецки.
+W schön | Adj. | красивый; хороший | Hamburg ist schön. | Гамбург красивый.
+W nett | Adj. | милый, приятный | Die Leute im Kurs sind nett. | Люди на курсе приятные.
+W müde | Adj. | усталый | Nach der Reise bin ich müde. | После поездки я устал(а).
+W frei | Adj. | свободный | Ist der Platz frei? | Это место свободно?
+W pünktlich | Adj. | пунктуальный; вовремя | Der Zug ist pünktlich. | Поезд приходит вовремя.
+W hier | Adv. | здесь | Ich wohne hier. | Я живу здесь.
+W dort | Adv. | там | Dort ist der Bahnhof. | Там вокзал.
+W auch | Adv. | тоже | Ich komme auch aus Kiew. | Я тоже из Киева.
+W gern | Adv. | охотно; с удовольствием | Ich lerne gern Deutsch. | Я с удовольствием учу немецкий.
+W sehr | Adv. | очень | Das ist sehr nett. | Это очень мило.
+W heute | Adv. | сегодня | Heute komme ich in Hamburg an. | Сегодня я приезжаю в Гамбург.
+W morgen | Adv. | завтра | Morgen beginnt der Kurs. | Завтра начинается курс.
+W jetzt | Adv. | сейчас | Jetzt wohne ich in Deutschland. | Сейчас я живу в Германии.
+W leider | Adv. | к сожалению | Leider spreche ich kein Türkisch. | К сожалению, я не говорю по-турецки.
+W ein bisschen | Phrase | немного | Ich spreche ein bisschen Deutsch. | Я немного говорю по-немецки.
+W dieses Jahr | Phrase | в этом году | Dieses Jahr lerne ich Deutsch. | В этом году я учу немецкий. | AT: heuer

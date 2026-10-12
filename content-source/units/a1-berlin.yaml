@@ -1,0 +1,1303 @@
+id: a1-berlin
+level: A1
+city: Berlin
+country: DE
+title: Wohnung & Alltag
+title_ru: Квартира и повседневная жизнь
+intro: |
+  В Берлине вы ищете квартиру или комнату в WG: читаете объявления, ходите на осмотр,
+  спрашиваете про аренду и коммунальные платежи. Учимся описывать квартиру и мебель,
+  рассказывать о своём дне, называть время и договариваться о встрече.
+  Грамматика: множественное число, Akkusativ, притяжательные артикли, глаголы с чередованием
+  гласной и отделяемые глаголы, время и предлоги времени.
+
+grammar:
+  - id: be-g-plural
+    title: Pluralformen der Nomen
+    title_ru: Множественное число существительных
+    terms:
+      - t: Singular
+        ru: единственное число (der Tisch)
+      - t: Plural
+        ru: множественное число (die Tische)
+      - t: Nomen
+        ru: существительное; в немецком всегда пишется с большой буквы
+      - t: Artikel
+        ru: артикль (der, die, das); во множественном числе всегда die
+      - t: Endung
+        ru: окончание (-e, -en, -er, -s)
+      - t: Umlaut
+        ru: замена гласной a → ä, o → ö, u → ü, au → äu (der Stuhl → die Stühle)
+      - t: "-(e)n"
+        ru: окончание -n или -en (die Lampe → die Lampen, die Wohnung → die Wohnungen)
+    meaning: |
+      Во множественном числе у немецких существительных разные окончания. Одного правила
+      для всех слов нет, поэтому каждое новое существительное учите сразу в трёх формах:
+      артикль + единственное число + множественное число (der Tisch, die Tische).
+      Артикль во множественном числе всегда die — для мужского, женского и среднего рода.
+      Основные типы: -e, -(e)n, -er, -s и без окончания. Часто вместе с окончанием
+      появляется Umlaut.
+    steps:
+      - de: der Tisch → die Tische
+        ru: Окончание -e. Так часто у односложных слов мужского рода.
+      - de: der Stuhl → die Stühle
+        ru: Окончание -e + Umlaut (u → ü).
+      - de: die Lampe → die Lampen; die Wohnung → die Wohnungen
+        ru: Окончание -(e)n. Почти все слова женского рода. Слова на -e получают только -n.
+      - de: die Mitbewohnerin → die Mitbewohnerinnen
+        ru: Женский суффикс -in → -innen (n удваивается).
+      - de: das Haus → die Häuser
+        ru: Окончание -er + Umlaut. Часто у слов среднего рода.
+      - de: das Sofa → die Sofas
+        ru: Окончание -s у слов на -a, -o, -y и у многих иностранных слов.
+      - de: das Zimmer → die Zimmer; der Garten → die Gärten
+        ru: Слова на -er, -el, -en часто без окончания, иногда только с Umlaut.
+    table:
+      head: [Typ, Singular, Plural]
+      rows:
+        - ["-e", der Tisch, die Tische]
+        - ["-e + Umlaut", der Schrank, die Schränke]
+        - ["-n", die Küche, die Küchen]
+        - ["-en", die Wohnung, die Wohnungen]
+        - ["-er + Umlaut", das Haus, die Häuser]
+        - ["-s", das Sofa, die Sofas]
+        - [ohne Endung, das Fenster, die Fenster]
+        - [nur Umlaut, der Garten, die Gärten]
+    exam: |
+      Множественное число нужно во всех частях экзамена A1: в объявлениях («3 Zimmer,
+      2 Bäder»), в письме и в устной части («Wie viele Zimmer hat die Wohnung?»).
+      Отдельной части по грамматике в Goethe A1 нет, но ошибки в форме
+      мешают пониманию в письме и в устной части.
+    traps:
+      - "Артикль во мн. ч. всегда die: das Zimmer → die Zimmer, der Stuhl → die Stühle."
+      - "Не путайте: die Zimmer (мн. ч.) и das Zimmer (ед. ч.) — слово одинаковое, отличается только артикль."
+      - "Umlaut есть не всегда: der Tisch → die Tische, но der Stuhl → die Stühle. Проверяйте по словарю."
+      - "Женский род на -in: die Nachbarin → die Nachbarinnen (два n)."
+      - "Die Möbel — обычно только мн. ч.: Die Möbel sind neu (не: Die Möbel ist neu)."
+    exercises:
+      - type: choice
+        q: der Tisch → zwei ___
+        ru: стол → два стола
+        options: [Tische, Tischen, Tischer]
+        answer: Tische
+        why: Мужской род, один слог → часто окончание -e.
+      - type: choice
+        q: das Haus → viele ___
+        ru: дом → много домов
+        options: [Hause, Häuser, Hauses]
+        answer: Häuser
+        why: -er + Umlaut (au → äu).
+      - type: choice
+        q: Die Firma hat drei ___ in Berlin.
+        ru: У фирмы три квартиры в Берлине.
+        options: [Wohnunge, Wohnungs, Wohnungen]
+        answer: Wohnungen
+        why: Слова на -ung всегда получают -en.
+      - type: choice
+        q: Im Wohnzimmer stehen zwei ___.
+        ru: В гостиной стоят два дивана.
+        options: [Sofen, Sofas, Sofae]
+        answer: Sofas
+        why: Слова на -a получают -s.
+      - type: choice
+        q: Im Plural ist der Artikel immer ___.
+        ru: Во множественном числе артикль всегда …
+        options: [der, die, das]
+        answer: die
+      - type: gap
+        q: Die Wohnung hat drei ___. (Zimmer)
+        answer: [Zimmer]
+        why: Слова на -er часто без окончания.
+      - type: gap
+        q: Wir brauchen noch zwei ___. (Stuhl)
+        answer: [Stühle]
+        why: -e + Umlaut.
+      - type: gap
+        q: In der Küche hängen zwei ___. (Lampe)
+        answer: [Lampen]
+        why: Слово на -e → только -n.
+      - type: gap
+        q: In unserer WG wohnen drei ___. (Mitbewohnerin)
+        answer: [Mitbewohnerinnen]
+        why: -in → -innen.
+      - type: gap
+        q: Hast du die ___ für die Wohnung? (Schlüssel)
+        answer: [Schlüssel]
+        why: На -el — без окончания.
+      - type: table
+        title: Singular → Plural
+        head: [Singular, Plural]
+        rows:
+          - [der Schrank, "?die Schränke"]
+          - [das Bett, "?die Betten"]
+          - [die Küche, "?die Küchen"]
+          - [der Garten, "?die Gärten"]
+          - [das Bad, "?die Bäder"]
+          - [das Fenster, "?die Fenster"]
+      - type: order
+        answer: Die Zimmer sind hell und groß.
+        ru: Комнаты светлые и большие.
+
+  - id: be-g-akkusativ
+    title: "Akkusativ: den, einen, keinen"
+    title_ru: "Винительный падеж (Akkusativ): den, einen, keinen"
+    terms:
+      - t: Akk. (Akkusativ)
+        ru: винительный падеж; отвечает на вопрос wen? / was? (кого? что?)
+      - t: Nom. (Nominativ)
+        ru: именительный падеж; форма подлежащего (wer? / was?)
+      - t: Subjekt
+        ru: подлежащее — тот, кто действует (Ich suche …)
+      - t: Objekt
+        ru: дополнение — на кого/что направлено действие (… einen Schrank)
+      - t: maskulin
+        ru: мужской род (der)
+      - t: feminin
+        ru: женский род (die)
+      - t: neutral
+        ru: средний род (das)
+      - t: Plural
+        ru: множественное число
+      - t: es gibt + Akk.
+        ru: «есть, имеется» (In der Küche gibt es einen Herd.)
+    meaning: |
+      Многие глаголы требуют после себя дополнение в Akkusativ: haben, brauchen, suchen,
+      kaufen, möchten, nehmen, finden, es gibt. Меняется только мужской род:
+      der → den, ein → einen, kein → keinen. Женский род, средний род и множественное
+      число в Akkusativ выглядят так же, как в Nominativ.
+    steps:
+      - de: Der Schrank ist neu.
+        ru: Der Schrank — подлежащее (Nom.), форма не меняется.
+      - de: Ich brauche einen Schrank.
+        ru: Что мне нужно? — шкаф. Это Akk., мужской род → einen.
+      - de: Wir kaufen den Tisch.
+        ru: "Определённый артикль мужского рода в Akk.: der → den."
+      - de: Die Wohnung hat keinen Balkon.
+        ru: "Отрицание: kein → keinen."
+      - de: Ich suche eine Wohnung und ein Sofa.
+        ru: "Женский и средний род не меняются: eine, ein."
+      - de: Es gibt keine Möbel.
+        ru: "Мн. ч. тоже не меняется: keine, die."
+    table:
+      head: [Kasus, maskulin, feminin, neutral, Plural]
+      rows:
+        - [Nom., der / ein / kein Tisch, die / eine / keine Lampe, das / ein / kein Bett, die / – / keine Stühle]
+        - [Akk., den / einen / keinen Tisch, die / eine / keine Lampe, das / ein / kein Bett, die / – / keine Stühle]
+    exam: |
+      Akkusativ нужен почти в каждой фразе: в письме («Ich suche eine Wohnung»,
+      «Haben Sie einen Termin frei?»), в устной части, когда вы спрашиваете
+      и просите («Hast du einen Balkon?»). Типичная ошибка, которую слышит экзаменатор, —
+      «ein Balkon» вместо «einen Balkon».
+    traps:
+      - "Меняется только мужской род: Ich habe einen Balkon, но Ich habe eine Küche / ein Bad."
+      - "После sein — не Akk.: Das ist ein Balkon (не: einen Balkon)."
+      - "Es gibt + Akk.: Es gibt einen Aufzug (не: ein Aufzug)."
+      - "Подлежащее всегда в Nom., даже если стоит не первым: Morgen kommt der Hausmeister."
+    exercises:
+      - type: choice
+        q: Ich brauche ___ Schrank.
+        ru: Мне нужен шкаф.
+        options: [ein, einen, eine]
+        answer: einen
+        why: der Schrank, Akk. → einen.
+      - type: choice
+        q: Wir suchen ___ Wohnung in Berlin.
+        ru: Мы ищем квартиру в Берлине.
+        options: [eine, einen, ein]
+        answer: eine
+        why: Женский род в Akk. не меняется.
+      - type: choice
+        q: Die Wohnung hat leider ___ Aufzug.
+        ru: В квартире, к сожалению, нет лифта.
+        options: [kein, keinen, keine]
+        answer: keinen
+        why: der Aufzug, Akk. → keinen.
+      - type: choice
+        q: ___ Tisch ist sehr alt.
+        ru: Стол очень старый.
+        options: [Der, Den, Einen]
+        answer: Der
+        why: Стол — подлежащее, значит Nom.
+      - type: choice
+        q: Das ist ___ Kühlschrank.
+        ru: Это холодильник.
+        options: [ein, einen, keinen]
+        answer: ein
+        why: После sein — Nom.
+      - type: gap
+        q: Ich kaufe ___ Sofa. (ein)
+        answer: [ein]
+        why: das Sofa — средний род, форма не меняется.
+      - type: gap
+        q: Siehst du ___ Kühlschrank? (der)
+        answer: [den]
+        why: der → den.
+      - type: gap
+        q: In der Küche gibt es ___ Herd. (ein)
+        answer: [einen]
+        why: Es gibt + Akk.
+      - type: gap
+        q: Wir haben ___ Spülmaschine. (kein)
+        answer: [keine]
+        why: "Женский род: keine."
+      - type: gap
+        q: Nimmst du ___ Zimmer? (das)
+        answer: [das]
+        why: Средний род не меняется.
+      - type: table
+        title: Nominativ → Akkusativ
+        head: [Nominativ, Akkusativ]
+        rows:
+          - [der Stuhl, "?den Stuhl"]
+          - [ein Stuhl, "?einen Stuhl"]
+          - [kein Stuhl, "?keinen Stuhl"]
+          - [die Lampe, "?die Lampe"]
+          - [ein Bett, "?ein Bett"]
+          - [die Möbel, "?die Möbel"]
+      - type: order
+        answer: Ich suche einen Schreibtisch für mein Zimmer.
+        tokens: [Ich, suche, einen Schreibtisch, für mein Zimmer]
+        also: [Für mein Zimmer suche ich einen Schreibtisch.]
+        ru: Я ищу письменный стол для своей комнаты.
+
+  - id: be-g-possessiv
+    title: Possessivartikel im Nominativ und Akkusativ
+    title_ru: Притяжательные артикли (мой, твой, его…) в Nominativ и Akkusativ
+    terms:
+      - t: Possessivartikel
+        ru: "притяжательный артикль: mein (мой), dein (твой), sein (его), ihr (её; их), unser (наш), euer (ваш), Ihr (Ваш)"
+      - t: Nom. (Nominativ)
+        ru: именительный падеж (форма подлежащего)
+      - t: Akk. (Akkusativ)
+        ru: винительный падеж (wen? / was?)
+      - t: maskulin / feminin / neutral
+        ru: мужской / женский / средний род
+      - t: Plural
+        ru: множественное число
+      - t: Endung
+        ru: "окончание: -e, -en"
+    meaning: |
+      Притяжательный артикль стоит вместо der/ein и показывает, чьё это. Окончания —
+      как у ein/kein: mein Tisch, meine Lampe, mein Bett, meine Stühle; в Akkusativ меняется
+      только мужской род: meinen Tisch. Форма зависит от двух вещей: от владельца
+      (ich → mein, sie → ihr) и от слова после артикля (род, число, падеж).
+      Русского «свой» в немецком нет: Er räumt sein Zimmer auf (его комнату = свою).
+      Sie räumt ihr Zimmer auf (её комнату = свою).
+    steps:
+      - de: Das ist mein Zimmer.
+        ru: Владелец ich → mein. das Zimmer, Nom. → без окончания.
+      - de: Das ist meine Küche.
+        ru: die Küche → окончание -e.
+      - de: Ich suche meinen Schlüssel.
+        ru: der Schlüssel, Akk. → -en.
+      - de: Jonas räumt sein Zimmer auf. Lena räumt ihr Zimmer auf.
+        ru: Владелец er → sein, владелец sie → ihr.
+      - de: Ist das eure Wohnung?
+        ru: euer + e → eure (e в середине выпадает).
+      - de: Frau Brandt, ist das Ihr Balkon?
+        ru: Вежливое «Ваш» — Ihr с большой буквы.
+    table:
+      head: [Person, "m. / n. (Nom.)", "f. / Plural", "m. (Akk.)"]
+      rows:
+        - [ich, mein, meine, meinen]
+        - [du, dein, deine, deinen]
+        - [er / es, sein, seine, seinen]
+        - [sie, ihr, ihre, ihren]
+        - [wir, unser, unsere, unseren]
+        - [ihr, euer, eure, euren]
+        - [sie / Sie, ihr / Ihr, ihre / Ihre, ihren / Ihren]
+    exam: |
+      В устной части A1 вы рассказываете о себе и спрашиваете партнёра:
+      «Wie ist deine Wohnung?», «Wo ist Ihr Zimmer?». В письме — «Meine Wohnung ist …».
+      Важно не путать sein / ihr и вежливое Ihr.
+    traps:
+      - "sein (его) и ihr (её) зависят от владельца, а не от вещи: Anna und ihr Bruder; Paul und seine Schwester."
+      - "euer → eure, euren (без второго e): Ist das eure Küche?"
+      - "Ihr (Ваш) — с большой буквы, ihr (её / их) — с маленькой."
+      - "Akk. мужского рода: Ich rufe meinen Vermieter an (не: mein Vermieter)."
+    exercises:
+      - type: choice
+        q: Das ist ___ Zimmer. (ich)
+        ru: Это моя комната.
+        options: [mein, meine, meinen]
+        answer: mein
+        why: das Zimmer, Nom. → mein.
+      - type: choice
+        q: Jonas, wo ist ___ Schlüssel?
+        ru: Йонас, где твой ключ?
+        options: [dein, deine, deinen]
+        answer: dein
+        why: der Schlüssel — подлежащее, Nom.
+      - type: choice
+        q: Anna sucht ___ Schlüssel.
+        ru: Анна ищет свой ключ.
+        options: [sein, ihren, seinen]
+        answer: ihren
+        why: Владелец Anna (sie) → ihr-; der Schlüssel, Akk. → ihren.
+      - type: choice
+        q: Herr Kaya, ist das ___ Wohnung?
+        ru: Господин Кая, это Ваша квартира?
+        options: [Ihre, ihre, deine]
+        answer: Ihre
+        why: Вежливая форма — с большой буквы.
+      - type: choice
+        q: Wir finden ___ Küche sehr gemütlich.
+        ru: Мы считаем нашу кухню очень уютной.
+        options: [unser, unsere, unseren]
+        answer: unsere
+        why: die Küche → unsere.
+      - type: gap
+        q: Kinder, räumt bitte ___ Zimmer auf! (euer)
+        answer: [euer]
+        why: das Zimmer, Akk. — средний род не меняется.
+      - type: gap
+        q: Ihr habt einen Balkon? ___ Balkon ist sehr schön! (euer)
+        answer: [Euer]
+        why: der Balkon — подлежащее, Nom. → euer.
+      - type: gap
+        q: Paul ruft ___ Vermieterin an. (sein)
+        answer: [seine]
+        why: die Vermieterin → seine.
+      - type: gap
+        q: Wir verkaufen ___ Sofa. (unser)
+        answer: [unser]
+        why: das Sofa, Akk. = Nom.
+      - type: gap
+        q: Ich mag ___ Mitbewohner. (mein)
+        answer: [meinen]
+        why: der Mitbewohner, Akk. → meinen.
+      - type: table
+        title: Possessivartikel
+        head: [Person, "m. / n. (Nom.)", "f. / Plural", "m. (Akk.)"]
+        rows:
+          - [ich, mein, meine, meinen]
+          - [du, "?dein", "?deine", "?deinen"]
+          - [er, "?sein", "?seine", "?seinen"]
+          - [sie, "?ihr", "?ihre", "?ihren"]
+          - [wir, "?unser", "?unsere", "?unseren"]
+          - [ihr, "?euer", "?eure", "?euren"]
+      - type: order
+        answer: Meine Mitbewohnerin putzt heute ihr Zimmer.
+        also: [Heute putzt meine Mitbewohnerin ihr Zimmer.]
+        ru: Моя соседка сегодня убирает свою комнату.
+
+  - id: be-g-vokalwechsel
+    title: Verben mit Vokalwechsel und trennbare Verben
+    title_ru: Глаголы с чередованием гласной и отделяемые глаголы
+    terms:
+      - t: Präsens
+        ru: настоящее время
+      - t: Infinitiv
+        ru: начальная форма глагола (essen, aufstehen)
+      - t: Vokalwechsel
+        ru: смена гласной в корне у du и er/sie/es (e → i, e → ie, a → ä, au → äu)
+      - t: Umlaut
+        ru: ä, ö, ü, äu
+      - t: trennbares Verb
+        ru: "отделяемый глагол: приставка в предложении уходит в конец (aufstehen → Ich stehe … auf.)"
+      - t: Präfix
+        ru: приставка (auf-, an-, ein-, fern-, mit-)
+      - t: Position 2
+        ru: второе место в предложении — там стоит спрягаемый глагол
+      - t: Satzklammer
+        ru: "«рамка»: глагол на 2-м месте, приставка в самом конце"
+    meaning: |
+      1) Некоторые сильные глаголы меняют гласную корня только у du и er/sie/es:
+      essen → du isst, er isst; lesen → du liest; fahren → du fährst; laufen → du läufst.
+      У ich, wir, ihr, sie/Sie гласная обычная: ich esse, wir essen.
+      2) У отделяемых глаголов ударная приставка отделяется: спрягаемая часть стоит
+      на 2-м месте, приставка — в конце предложения. Это и есть Satzklammer.
+      Глагол может иметь оба свойства: fernsehen → Er sieht fern. anfangen → Der Kurs fängt an.
+    steps:
+      - de: Ich esse Brot. – Du isst Müsli. – Er isst nichts.
+        ru: e → i только у du и er/sie/es.
+      - de: Ich lese. – Du liest. – Sie liest.
+        ru: e → ie.
+      - de: Ich schlafe. – Du schläfst. – Er schläft.
+        ru: a → ä.
+      - de: Ich stehe um sieben Uhr auf.
+        ru: "aufstehen: stehe — на 2-м месте, auf — в конце."
+      - de: Am Samstag kaufen wir ein.
+        ru: Если на 1-м месте время, глагол всё равно 2-й, приставка — в конце.
+      - de: Siehst du heute fern?
+        ru: В вопросе без вопросительного слова глагол 1-й, приставка — в конце.
+    table:
+      head: [Infinitiv, ich, du, er / sie / es, Wechsel]
+      rows:
+        - [essen, esse, isst, isst, e → i]
+        - [nehmen, nehme, nimmst, nimmt, e → i]
+        - [sprechen, spreche, sprichst, spricht, e → i]
+        - [treffen, treffe, triffst, trifft, e → i]
+        - [lesen, lese, liest, liest, e → ie]
+        - [sehen, sehe, siehst, sieht, e → ie]
+        - [fahren, fahre, fährst, fährt, a → ä]
+        - [schlafen, schlafe, schläfst, schläft, a → ä]
+        - [waschen, wasche, wäschst, wäscht, a → ä]
+        - [laufen, laufe, läufst, läuft, au → äu]
+    exam: |
+      В письме и устной части A1 вы описываете свой день и договариваетесь о встрече:
+      «Ich stehe um sieben auf», «Wann fängt der Kurs an?». Ошибки в порядке слов
+      («Ich aufstehe») и в формах du/er («er esst») хорошо слышны экзаменатору.
+    traps:
+      - "Смена гласной — только du и er/sie/es: wir essen (не: wir issen)."
+      - "nehmen: du nimmst, er nimmt — меняется и согласная (mm)."
+      - "essen: du isst (не: du esst, не: du issst)."
+      - "Приставка в конце: Ich stehe um 7 Uhr auf (не: Ich aufstehe um 7 Uhr)."
+      - "В словаре и в инфинитиве приставка пишется слитно: aufstehen, einkaufen. Точка (auf·stehen) — только пометка в словаре."
+    exercises:
+      - type: choice
+        q: Was ___ du zum Frühstück?
+        ru: Что ты ешь на завтрак?
+        options: [esst, isst, essst]
+        answer: isst
+        why: essen → du isst.
+      - type: choice
+        q: Mia ___ jeden Abend ein Buch.
+        ru: Мия каждый вечер читает книгу.
+        options: [lest, liest, lesst]
+        answer: liest
+        why: e → ie.
+      - type: choice
+        q: ___ du heute mit dem Fahrrad?
+        ru: Ты сегодня едешь на велосипеде?
+        options: [Fahrst, Fährst, Fährt]
+        answer: Fährst
+      - type: choice
+        q: Er ___ am Sonntag bis zehn Uhr.
+        ru: В воскресенье он спит до десяти.
+        options: [schlaft, schläft, schläfst]
+        answer: schläft
+      - type: choice
+        q: Welcher Satz ist richtig?
+        ru: Какое предложение правильное?
+        options: [Ich kaufe heute ein., Ich einkaufe heute., Ich kaufe ein heute.]
+        answer: Ich kaufe heute ein.
+        why: Приставка ein — в самом конце.
+      - type: gap
+        q: Du ___ das große Zimmer, oder? (nehmen)
+        answer: [nimmst]
+      - type: gap
+        q: Jonas ___ jeden Morgen im Park. (laufen)
+        answer: [läuft]
+      - type: gap
+        q: Ich stehe um halb sieben ___. (aufstehen)
+        answer: [auf]
+        why: Приставка — в конце предложения.
+      - type: gap
+        q: Wann ___ der Film an? (anfangen)
+        answer: [fängt]
+        why: "anfangen: a → ä + приставка an в конце."
+      - type: table
+        title: Vokalwechsel im Präsens
+        head: [Infinitiv, du, er / sie / es]
+        rows:
+          - [essen, "?isst", "?isst"]
+          - [sprechen, "?sprichst", "?spricht"]
+          - [sehen, "?siehst", "?sieht"]
+          - [fahren, "?fährst", "?fährt"]
+          - [waschen, "?wäschst", "?wäscht"]
+          - [laufen, "?läufst", "?läuft"]
+      - type: order
+        answer: Ich räume am Samstag mein Zimmer auf.
+        tokens: [Ich, räume, am Samstag, mein Zimmer, auf]
+        also: [Am Samstag räume ich mein Zimmer auf.]
+        ru: В субботу я убираю свою комнату.
+      - type: order
+        answer: Am Abend sieht Elif fern.
+        tokens: [Am Abend, sieht, Elif, fern]
+        also: [Elif sieht am Abend fern.]
+        ru: Вечером Элиф смотрит телевизор.
+
+  - id: be-g-zeit
+    title: Uhrzeit und Zeitpräpositionen
+    title_ru: Время по часам и предлоги времени
+    terms:
+      - t: offiziell
+        ru: "«официальное» время (вокзал, радио, расписание): 19:30 = neunzehn Uhr dreißig"
+      - t: inoffiziell
+        ru: "разговорное время, 12 часов: 19:30 = halb acht"
+      - t: Viertel nach / Viertel vor
+        ru: "четверть после / без четверти: 7:15 = Viertel nach sieben, 7:45 = Viertel vor acht"
+      - t: halb
+        ru: "половина до следующего часа: halb acht = 7:30"
+      - t: Präposition
+        ru: предлог
+      - t: am
+        ru: an + dem — дни, части суток, даты (am Montag, am Abend)
+      - t: um
+        ru: точное время (um acht Uhr)
+      - t: im
+        ru: in + dem — месяцы и времена года (im Mai, im Winter)
+      - t: von … bis
+        ru: с … до (von neun bis fünf)
+      - t: ab
+        ru: начиная с (ab Montag, ab 1. Mai)
+    meaning: |
+      Время говорят двумя способами. Официально — по 24 часам: сначала часы, потом
+      слово Uhr, потом минуты (20:15 = zwanzig Uhr fünfzehn). Разговорно — по 12 часам
+      со словами nach, vor, Viertel, halb (20:15 = Viertel nach acht).
+      halb + следующий час: halb acht = 7:30, а не 8:30.
+      Предлоги: um — точное время; am — день недели, часть суток, дата; im — месяц,
+      время года; von … bis — промежуток; ab — с какого момента.
+    steps:
+      - de: Es ist acht Uhr.
+        ru: 8:00 — ровно, со словом Uhr.
+      - de: Es ist fünf nach acht. / Es ist zehn vor neun.
+        ru: 8:05 / 8:50 — минуты после часа (nach) или до часа (vor).
+      - de: Es ist Viertel nach acht. / Es ist Viertel vor neun.
+        ru: 8:15 / 8:45.
+      - de: Es ist halb neun.
+        ru: 8:30 — «половина девятого».
+      - de: Der Zug fährt um zwanzig Uhr fünfzehn.
+        ru: "Официально: 20:15."
+      - de: Am Montag um neun Uhr, im Mai, von Montag bis Freitag, ab Juni.
+        ru: Предлоги времени.
+    table:
+      head: [Uhrzeit, offiziell, inoffiziell]
+      rows:
+        - ["7:00", sieben Uhr, sieben (Uhr)]
+        - ["7:05", sieben Uhr fünf, fünf nach sieben]
+        - ["7:15", sieben Uhr fünfzehn, Viertel nach sieben]
+        - ["7:30", sieben Uhr dreißig, halb acht]
+        - ["7:45", sieben Uhr fünfundvierzig, Viertel vor acht]
+        - ["7:50", sieben Uhr fünfzig, zehn vor acht]
+        - ["19:30", neunzehn Uhr dreißig, halb acht]
+    exam: |
+      Время встречается почти в каждом задании A1 на слух и при чтении: объявления,
+      сообщения на автоответчике, таблички с часами работы. В письме вы называете
+      время встречи. Слушайте внимательно: «halb acht» — это 7:30.
+    traps:
+      - "halb acht = 7:30 (половина восьмого), а не 8:30."
+      - "Не путайте am и um: am Montag, но um acht Uhr."
+      - "Im + месяц: im Mai. Но с датой — am: am 3. Mai."
+      - "В Австрии (и на юге и востоке Германии) говорят также „viertel acht“ = 7:15 и „dreiviertel acht“ = 7:45."
+      - "Официальное время: Uhr стоит между часами и минутами: acht Uhr zwanzig (не: acht zwanzig Uhr)."
+    exercises:
+      - type: choice
+        q: "Es ist 8:30. Es ist ___."
+        ru: Сейчас 8:30.
+        options: [halb acht, halb neun, acht halb]
+        answer: halb neun
+        why: halb + следующий час.
+      - type: choice
+        q: "Es ist 7:15. Es ist ___."
+        ru: Сейчас 7:15.
+        options: [Viertel vor sieben, Viertel nach sieben, halb sieben]
+        answer: Viertel nach sieben
+      - type: choice
+        q: "Es ist 9:45. Es ist ___."
+        ru: Сейчас 9:45.
+        options: [Viertel vor zehn, Viertel nach neun, Viertel vor neun]
+        answer: Viertel vor zehn
+      - type: choice
+        q: "20:15 offiziell: Es ist ___."
+        ru: 20:15 — официально.
+        options: [zwanzig Uhr fünfzehn, fünfzehn Uhr zwanzig, zwanzig fünfzehn Uhr]
+        answer: zwanzig Uhr fünfzehn
+      - type: choice
+        q: Ich komme ___ Samstag.
+        ru: Я приду в субботу.
+        options: [am, um, im]
+        answer: am
+      - type: choice
+        q: Der Kurs fängt ___ neun Uhr an.
+        ru: Курс начинается в девять часов.
+        options: [am, um, im]
+        answer: um
+      - type: choice
+        q: ___ Sommer ist es in Berlin warm.
+        ru: Летом в Берлине тепло.
+        options: [Am, Um, Im]
+        answer: Im
+      - type: gap
+        q: Die Wohnung ist ___ Mai frei.
+        ru: Квартира свободна с мая.
+        answer: [ab]
+      - type: gap
+        q: Ich arbeite von acht ___ vier.
+        ru: Я работаю с восьми до четырёх.
+        answer: [bis]
+      - type: gap
+        q: Wir treffen uns ___ Abend.
+        ru: Мы встретимся вечером.
+        answer: [am]
+      - type: gap
+        q: "18:50 – Es ist zehn ___ sieben."
+        ru: Сейчас без десяти семь.
+        answer: [vor]
+      - type: table
+        title: Wie spät ist es? (inoffiziell)
+        head: [Uhrzeit, inoffiziell]
+        rows:
+          - ["6:30", "?halb sieben"]
+          - ["10:15", "?Viertel nach zehn"]
+          - ["12:45", "?Viertel vor eins"]
+          - ["14:05", "?fünf nach zwei"]
+          - ["17:50", "?zehn vor sechs"]
+      - type: order
+        answer: Am Samstag stehe ich um neun Uhr auf.
+        tokens: [Am Samstag, stehe, ich, um neun Uhr, auf]
+        also: [Ich stehe am Samstag um neun Uhr auf.]
+        ru: В субботу я встаю в девять часов.
+
+dialogues:
+  - id: be-d-besichtigung
+    title: Die Wohnungsbesichtigung
+    title_ru: Осмотр квартиры
+    situation_ru: |
+      Вы ищете квартиру в Берлине и пришли на осмотр двухкомнатной квартиры.
+      Вас встречает хозяйка, госпожа Брандт. Узнайте размер, аренду, коммунальные платежи
+      и с какого числа квартира свободна.
+    partner: Vermieterin (Frau Brandt)
+    voice: de-DE
+    start: n1
+    nodes:
+      n1:
+        say: Guten Tag! Sie kommen wegen der Wohnung? Ich bin Frau Brandt.
+        ru: Добрый день! Вы по поводу квартиры? Я госпожа Брандт.
+        options:
+          - t: Guten Tag, Frau Brandt! Ja, ich komme zur Besichtigung.
+            ru: Добрый день, госпожа Брандт! Да, я на осмотр.
+            next: n2
+          - t: Ja. Wohnung zeigen, bitte.
+            ru: Да. Квартиру показать, пожалуйста.
+            next: n2
+            ok: false
+            fb: Слишком коротко и без приветствия. Сначала поздоровайтесь — „Guten Tag, Frau Brandt!“ — и скажите полное предложение.
+      n2:
+        say: Kommen Sie bitte herein. Das ist der Flur, und hier links ist das Wohnzimmer.
+        ru: Проходите, пожалуйста. Это прихожая, а здесь слева гостиная.
+        options:
+          - t: Oh, das Wohnzimmer ist schön hell! Wie groß ist die Wohnung?
+            ru: О, гостиная очень светлая! Какая площадь у квартиры?
+            next: n3
+          - t: Wie viele Zimmer hat die Wohnung?
+            ru: Сколько комнат в квартире?
+            next: n3
+          - t: Das Zimmer ist dunkel. Das will ich nicht.
+            ru: Комната тёмная. Я такое не хочу.
+            next: n3
+            ok: false
+            fb: "Так говорить невежливо. Можно спросить нейтрально: „Ist das Schlafzimmer heller?“ или просто узнать размер."
+      n3:
+        say: Die Wohnung hat zwei Zimmer, eine Küche und ein Bad. Sie ist 54 Quadratmeter groß.
+        ru: В квартире две комнаты, кухня и ванная. Площадь — 54 квадратных метра.
+        options:
+          - t: Und hat die Wohnung auch einen Balkon?
+            ru: А балкон в квартире есть?
+            next: n4
+          - t: Hat die Wohnung auch ein Balkon?
+            ru: А балкон в квартире есть?
+            next: n4
+            ok: false
+            fb: "der Balkon — мужской род, после haben нужен Akkusativ: einen Balkon."
+      n4:
+        say: Ja, hier ist der Balkon. Er liegt zum Hof. Er ist klein, aber sehr ruhig.
+        ru: Да, вот балкон. Он выходит во двор. Он маленький, но очень тихий.
+        options:
+          - t: Sehr schön! Wie hoch ist die Miete?
+            ru: Очень хорошо! Какая аренда?
+            next: n5
+          - t: Was kostet die Wohnung im Monat?
+            ru: Сколько стоит квартира в месяц?
+            next: n5
+          - t: Wie viel Geld?
+            ru: Сколько денег?
+            next: n5
+            ok: false
+            fb: Звучит грубо. Спросите полным вопросом — „Wie hoch ist die Miete?“
+      n5:
+        say: Die Kaltmiete ist 690 Euro. Dazu kommen 160 Euro Nebenkosten.
+        ru: Аренда без коммунальных — 690 евро. Плюс 160 евро коммунальные платежи.
+        options:
+          - t: Ist die Heizung in den Nebenkosten inklusive?
+            ru: Отопление входит в коммунальные платежи?
+            next: n6
+          - t: Also 850 Euro warm, richtig?
+            ru: То есть 850 евро с коммунальными, правильно?
+            next: n6
+      n6:
+        say: Ja, genau. Die Heizung ist inklusive, aber den Strom zahlen Sie extra.
+        ru: Да, точно. Отопление включено, а электричество вы платите отдельно.
+        options:
+          - t: Gut. Ab wann ist die Wohnung frei?
+            ru: Хорошо. С какого числа квартира свободна?
+            next: n7
+          - t: Und wann kann ich einziehen?
+            ru: А когда я могу въехать?
+            next: n7
+          - t: Wann frei?
+            ru: Когда свободно?
+            next: n7
+            ok: false
+            fb: Нет глагола. Правильно — „Ab wann ist die Wohnung frei?“
+      n7:
+        say: Ab dem ersten November. Möchten Sie die Wohnung nehmen?
+        ru: С первого ноября. Хотите снять квартиру?
+        options:
+          - t: Ja, sehr gern! Die Wohnung gefällt mir sehr.
+            ru: Да, с удовольствием! Квартира мне очень нравится.
+            next: n8
+          - t: Ich muss noch mit meiner Familie sprechen. Kann ich Sie morgen anrufen?
+            ru: Мне нужно ещё поговорить с семьёй. Можно я позвоню вам завтра?
+            next: n9
+          - t: Ja, ich nehme. Tschüss!
+            ru: Да, беру. Пока!
+            next: n8
+            ok: false
+            fb: Не хватает дополнения (ich nehme sie / die Wohnung), а „Tschüss“ для незнакомого взрослого слишком неформально.
+      n8:
+        say: Wunderbar! Dann schicke ich Ihnen den Mietvertrag per E-Mail.
+        ru: Замечательно! Тогда я пришлю вам договор аренды по электронной почте.
+        options:
+          - t: Vielen Dank, Frau Brandt! Auf Wiedersehen!
+            ru: Большое спасибо, госпожа Брандт! До свидания!
+            next: end
+          - t: Danke, tschüss!
+            ru: Спасибо, пока!
+            next: end
+            ok: false
+            fb: С хозяйкой квартиры лучше прощаться вежливо — „Auf Wiedersehen!“
+      n9:
+        say: Natürlich. Rufen Sie mich bitte bis morgen Mittag an.
+        ru: Конечно. Позвоните мне, пожалуйста, до завтрашнего обеда.
+        options:
+          - t: Ja, das mache ich. Vielen Dank und auf Wiedersehen!
+            ru: Да, обязательно. Большое спасибо и до свидания!
+            next: end
+          - t: Gut, ich rufe Sie morgen um zehn Uhr an. Auf Wiedersehen!
+            ru: Хорошо, я позвоню вам завтра в десять часов. До свидания!
+            next: end
+      end:
+        say: Auf Wiedersehen! Einen schönen Tag noch!
+        ru: До свидания! Хорошего дня!
+        end: true
+
+  - id: be-d-termin
+    title: Wann hast du Zeit?
+    title_ru: Когда у тебя есть время?
+    situation_ru: |
+      Вы живёте в WG в Берлине. Ваш сосед Йонас хочет вместе купить полку для кухни
+      и навести порядок в подвале. Договоритесь о дне и времени и распределите уборку.
+    partner: Mitbewohner (Jonas)
+    voice: de-DE
+    start: n1
+    nodes:
+      n1:
+        say: Hey! Du, wir brauchen noch ein Regal für die Küche. Wann hast du Zeit? Dann fahren wir zusammen ins Möbelhaus.
+        ru: Привет! Слушай, нам ещё нужна полка для кухни. Когда у тебя есть время? Тогда съездим вместе в мебельный магазин.
+        options:
+          - t: Am Samstag habe ich Zeit.
+            ru: В субботу у меня есть время.
+            next: n2
+          - t: Im Samstag habe ich Zeit.
+            ru: В субботу у меня есть время.
+            next: n2
+            ok: false
+            fb: "С днями недели — am: am Samstag."
+      n2:
+        say: Samstag ist gut. Um wie viel Uhr?
+        ru: Суббота подходит. Во сколько?
+        options:
+          - t: Vielleicht um zehn Uhr?
+            ru: Может, в десять?
+            next: n3
+          - t: Am zehn Uhr?
+            ru: В десять часов?
+            next: n3
+            ok: false
+            fb: "С точным временем — um: um zehn Uhr."
+      n3:
+        say: Hm, um zehn schlafe ich noch. Geht es auch um halb zwölf?
+        ru: Хм, в десять я ещё сплю. А в половине двенадцатого можно?
+        options:
+          - t: Ja, halb zwölf passt.
+            ru: Да, половина двенадцатого подходит.
+            next: n4
+          - t: Um halb zwölf kann ich leider nicht. Geht es um eins?
+            ru: В половине двенадцатого я, к сожалению, не могу. Можно в час?
+            next: n3b
+      n3b:
+        say: Um eins? Ja, das geht auch.
+        ru: В час? Да, так тоже можно.
+        options:
+          - t: Super, dann um eins.
+            ru: Отлично, тогда в час.
+            next: n4
+          - t: Prima! Dann kann ich am Vormittag noch einkaufen.
+            ru: Отлично! Тогда я ещё успею утром сходить за покупками.
+            next: n4
+      n4:
+        say: Gut. Und danach räumen wir zusammen den Keller auf, okay?
+        ru: Хорошо. А потом вместе разберём подвал, ладно?
+        options:
+          - t: Okay, aber nur bis vier. Am Abend treffe ich Freunde.
+            ru: Ладно, но только до четырёх. Вечером я встречаюсь с друзьями.
+            next: n5
+          - t: Keine Lust.
+            ru: Неохота.
+            next: n5
+            ok: false
+            fb: Слишком резко. Можно вежливо ограничить время — „Okay, aber nur bis vier.“
+      n5:
+        say: Kein Problem. Am Sonntag putze ich das Bad. Machst du die Küche?
+        ru: Без проблем. В воскресенье я мою ванную. Ты сделаешь кухню?
+        options:
+          - t: Ja, ich putze am Sonntag die Küche.
+            ru: Да, я в воскресенье помою кухню.
+            next: n6
+          - t: Ja, am Sonntag putze ich die Küche.
+            ru: Да, в воскресенье я помою кухню.
+            next: n6
+          - t: Ja, am Sonntag ich putze die Küche.
+            ru: Да, в воскресенье я помою кухню.
+            next: n6
+            ok: false
+            fb: "Глагол должен стоять на 2-м месте: Am Sonntag putze ich …"
+      n6:
+        say: Prima. Und wer bringt diese Woche den Müll runter?
+        ru: Отлично. А кто на этой неделе выносит мусор?
+        options:
+          - t: Den Müll bringe ich heute Abend runter.
+            ru: Мусор я вынесу сегодня вечером.
+            next: n7
+          - t: Das macht Amira. Diese Woche ist sie dran.
+            ru: Это делает Амира. На этой неделе её очередь.
+            next: n7
+      n7:
+        say: Gut. Dann treffen wir uns am Samstag im Flur, ja?
+        ru: Хорошо. Тогда встречаемся в субботу в прихожей, да?
+        options:
+          - t: Ja, bis Samstag!
+            ru: Да, до субботы!
+            next: end
+          - t: Ja. Ich schreibe dir vorher noch eine Nachricht.
+            ru: Да. Я ещё напишу тебе сообщение заранее.
+            next: end
+      end:
+        say: Alles klar. Bis dann!
+        ru: Всё ясно. До встречи!
+        end: true
+
+texts:
+  - id: be-t-anzeigen
+    kind: Anzeige
+    title: Wohnen in Berlin
+    text: |
+      A) Helles WG-Zimmer in Friedrichshain
+      14 m², möbliert (Bett, Schrank, Schreibtisch). Wir sind zwei Studentinnen und suchen eine nette Mitbewohnerin. Küche und Bad teilen wir. Miete: 420 Euro inklusive Nebenkosten. Frei ab 1. Oktober.
+
+      B) 2-Zimmer-Wohnung in Pankow
+      58 m², 3. Stock, mit Aufzug und Balkon. Neue Küche, Bad mit Badewanne. Ruhige Straße, Kita und Supermarkt in der Nähe. Kaltmiete 780 Euro, Nebenkosten 190 Euro. Frei ab 1. Dezember.
+
+      C) 1-Zimmer-Apartment in Neukölln
+      28 m², Erdgeschoss, kein Balkon. Kleine Küche, Dusche. Nur fünf Minuten zur U-Bahn. Warmmiete 560 Euro. Frei ab sofort. Ideal für eine Person. Tel. 030 555 81 24 (abends)
+    glossary:
+      teilen: делить, пользоваться вместе
+      Studentin: студентка
+      Kita: детский сад
+      in der Nähe: рядом, поблизости
+      ab sofort: с сегодняшнего дня, сразу
+      ideal: идеальный, отлично подходит
+      Warmmiete: аренда вместе с коммунальными платежами
+      Kaltmiete: аренда без коммунальных платежей
+      Badewanne: ванна
+    questions:
+      - type: choice
+        q: Sofia studiert und hat nicht viel Geld. Sie möchte nicht allein wohnen. Welche Anzeige passt?
+        ru: София учится, денег у неё немного. Она не хочет жить одна. Какое объявление подходит?
+        options: [Anzeige A, Anzeige B, Anzeige C]
+        answer: Anzeige A
+      - type: choice
+        q: Familie Demir hat ein kleines Kind und möchte einen Balkon. Welche Anzeige passt?
+        ru: У семьи Демир маленький ребёнок, им нужен балкон. Какое объявление подходит?
+        options: [Anzeige A, Anzeige B, Anzeige C]
+        answer: Anzeige B
+      - type: choice
+        q: Herr Novak wohnt allein und braucht sofort eine Wohnung. Welche Anzeige passt?
+        ru: Господин Новак живёт один, и квартира нужна ему сразу. Какое объявление подходит?
+        options: [Anzeige A, Anzeige B, Anzeige C]
+        answer: Anzeige C
+      - type: tf
+        q: Das Haus in Pankow hat einen Aufzug.
+        ru: В доме в Панкове есть лифт.
+        answer: true
+      - type: tf
+        q: Das WG-Zimmer hat keine Möbel.
+        ru: В комнате в WG нет мебели.
+        answer: false
+      - type: choice
+        q: Wie viel kostet die Wohnung in Pankow mit Nebenkosten?
+        ru: Сколько стоит квартира в Панкове вместе с коммунальными платежами?
+        options: [780 Euro, 970 Euro, 190 Euro]
+        answer: 970 Euro
+        why: 780 + 190 = 970 Euro.
+
+  - id: be-t-tagesablauf
+    kind: Forum
+    title: Mein Tag
+    text: |
+      Hallo! Ich heiße Daria, ich bin 23 und studiere Informatik in Berlin. Ich wohne in einer WG im Wedding. Unter der Woche stehe ich um halb sieben auf. Zuerst dusche ich, dann frühstücke ich mit meiner Mitbewohnerin Elif. Um acht fahre ich mit der U-Bahn zur Uni. Die Vorlesung fängt um Viertel nach acht an. Mittags esse ich in der Mensa. Am Nachmittag arbeite ich drei Stunden in einem Café. Gegen sechs komme ich nach Hause. Am Abend kochen Elif und ich zusammen, und danach lerne ich oder sehe fern. Um elf gehe ich ins Bett. Am Wochenende schlafe ich lange – oft bis zehn!
+    glossary:
+      Informatik: информатика
+      unter der Woche: в будни
+      Uni: университет (разг.)
+      Vorlesung: лекция
+      Mensa: студенческая столовая
+      lernen: учиться, заниматься
+    questions:
+      - type: tf
+        q: Daria wohnt allein.
+        ru: Дарья живёт одна.
+        answer: false
+      - type: choice
+        q: Wann steht Daria unter der Woche auf?
+        ru: Когда Дарья встаёт в будни?
+        options: ["um 6:30 Uhr", "um 7:30 Uhr", "um 8:15 Uhr"]
+        answer: "um 6:30 Uhr"
+        why: halb sieben = 6:30.
+      - type: tf
+        q: Daria frühstückt mit Elif.
+        ru: Дарья завтракает с Элиф.
+        answer: true
+      - type: choice
+        q: Wo isst Daria mittags?
+        ru: Где Дарья обедает?
+        options: [zu Hause, in der Mensa, im Café]
+        answer: in der Mensa
+      - type: tf
+        q: Daria kommt gegen acht Uhr abends nach Hause.
+        ru: Дарья приходит домой около восьми вечера.
+        answer: false
+        why: Gegen sechs komme ich nach Hause.
+      - type: choice
+        q: Was macht Daria am Wochenende?
+        ru: Что Дарья делает в выходные?
+        options: [Sie steht um halb sieben auf., Sie schläft lange., Sie arbeitet im Café.]
+        answer: Sie schläft lange.
+
+listening:
+  - id: be-h-nachricht
+    kind: Nachricht
+    title: Eine Nachricht vom Vermieter
+    voice: de-DE
+    lines:
+      - s: A
+        t: Guten Tag, hier spricht Ralf Hoffmann. Sie haben mir wegen der Wohnung geschrieben.
+      - s: A
+        t: Die Besichtigung ist am Donnerstag um Viertel nach fünf.
+      - s: A
+        t: Die Adresse ist Ahornweg 14, im dritten Stock. Unten an der Tür steht mein Name, Hoffmann.
+      - s: A
+        t: Bitte rufen Sie mich zurück und sagen Sie, ob Sie kommen. Meine Nummer ist 0176 55 42 19 08.
+      - s: A
+        t: Ich wiederhole, 0176 55 42 19 08. Vielen Dank und bis Donnerstag!
+    questions:
+      - type: choice
+        q: Wann ist die Besichtigung?
+        ru: Когда осмотр?
+        options: ["am Dienstag um 17:15 Uhr", "am Donnerstag um 17:15 Uhr", "am Donnerstag um 17:45 Uhr"]
+        answer: "am Donnerstag um 17:15 Uhr"
+        why: Viertel nach fünf = 17:15.
+      - type: choice
+        q: Wo ist die Wohnung?
+        ru: На каком этаже квартира?
+        options: [im Erdgeschoss, im zweiten Stock, im dritten Stock]
+        answer: im dritten Stock
+      - type: tf
+        q: Die Adresse ist Ahornweg 40.
+        ru: Адрес — Ахорнвег, 40.
+        answer: false
+        why: Ahornweg 14 (vierzehn).
+      - type: tf
+        q: Herr Hoffmann möchte einen Rückruf.
+        ru: Господин Хоффманн просит перезвонить.
+        answer: true
+      - type: choice
+        q: Wie ist die Telefonnummer von Herrn Hoffmann?
+        ru: Какой номер телефона у господина Хоффманна?
+        options: [0176 55 42 19 08, 0176 55 24 19 08, 0167 55 42 19 08]
+        answer: 0176 55 42 19 08
+    dictation:
+      - Die Besichtigung ist am Donnerstag.
+      - Die Wohnung liegt im dritten Stock.
+      - Bitte rufen Sie mich zurück.
+      - Unten an der Tür steht mein Name.
+
+  - id: be-h-dialog
+    kind: Dialog
+    title: Der Putzplan
+    voice: de-DE
+    lines:
+      - s: A
+        t: Pavel, hast du kurz Zeit? Wir müssen über den Putzplan sprechen.
+      - s: B
+        t: Klar, Amira. Was ist los?
+      - s: A
+        t: Die Küche ist schon wieder schmutzig. Wer putzt diese Woche?
+      - s: B
+        t: Ich, glaube ich. Aber bis Freitag arbeite ich jeden Tag bis acht Uhr abends.
+      - s: A
+        t: Dann putz die Küche doch am Samstag.
+      - s: B
+        t: Okay, am Samstagvormittag. Und du machst das Bad?
+      - s: A
+        t: Ja, das Bad putze ich am Sonntag. Und am Mittwoch bringe ich den Müll runter.
+      - s: B
+        t: Gut. Und noch etwas. Mach abends die Musik bitte nicht so laut. Ich stehe um sechs auf.
+      - s: A
+        t: Oh, Entschuldigung! Ab zehn Uhr bin ich leise, versprochen.
+      - s: B
+        t: Danke! Dann hängen wir den Plan an den Kühlschrank.
+    questions:
+      - type: choice
+        q: Wer putzt diese Woche die Küche?
+        ru: Кто на этой неделе моет кухню?
+        options: [Amira, Pavel, Amira und Pavel]
+        answer: Pavel
+      - type: tf
+        q: Pavel putzt die Küche am Freitag.
+        ru: Павел моет кухню в пятницу.
+        answer: false
+        why: Er putzt am Samstagvormittag.
+      - type: choice
+        q: Wann bringt Amira den Müll runter?
+        ru: Когда Амира выносит мусор?
+        options: [am Montag, am Mittwoch, am Sonntag]
+        answer: am Mittwoch
+      - type: tf
+        q: Pavel steht um sechs Uhr auf.
+        ru: Павел встаёт в шесть часов.
+        answer: true
+      - type: choice
+        q: Wo hängt der Putzplan?
+        ru: Где висит график уборки?
+        options: [an der Tür, am Kühlschrank, im Bad]
+        answer: am Kühlschrank
+    dictation:
+      - Die Küche ist schon wieder schmutzig.
+      - Das Bad putze ich am Sonntag.
+      - Am Mittwoch bringe ich den Müll runter.
+      - Ich stehe um sechs Uhr auf.
+
+writing:
+  - id: be-s-nachricht
+    exam: Goethe A1 · Schreiben Teil 2
+    kind: Nachricht
+    task: |
+      Sie haben am Mittwoch um 18 Uhr einen Termin. Sie möchten die Wohnung von Herrn Lange
+      ansehen. Aber Sie können am Mittwoch nicht kommen. Schreiben Sie Herrn Lange eine Nachricht.
+      – Entschuldigen Sie sich.
+      – Warum können Sie nicht kommen?
+      – Schlagen Sie einen neuen Termin vor.
+      Schreiben Sie 30–40 Wörter. Schreiben Sie zu allen drei Punkten.
+    task_ru: |
+      В среду в 18:00 у вас осмотр квартиры господина Ланге, но вы не можете прийти.
+      Напишите ему короткое сообщение: извинитесь, объясните причину и предложите
+      новое время. 30–40 слов, все три пункта.
+    points:
+      - Entschuldigung
+      - Grund (Warum können Sie nicht kommen?)
+      - neuer Termin (Tag und Uhrzeit)
+    words: [30, 40]
+    structure:
+      - Обращение (Sehr geehrter Herr … / Sehr geehrte Frau …; соседу — Lieber … / Liebe …)
+      - "Пункт 1: извинение — Es tut mir leid, aber …"
+      - "Пункт 2: причина — Ich muss … / Ich habe …"
+      - "Пункт 3: новое предложение — Haben Sie am … um … Zeit?"
+      - По желанию — просьба об ответе (Bitte antworten Sie mir kurz.)
+      - Прощание (Mit freundlichen Grüßen / Viele Grüße) и имя
+    redemittel:
+      - de: Sehr geehrter Herr Lange,
+        ru: Уважаемый господин Ланге,
+      - de: Es tut mir leid, aber ich kann am Mittwoch nicht kommen.
+        ru: Мне жаль, но я не могу прийти в среду.
+      - de: Leider habe ich am … keine Zeit.
+        ru: К сожалению, у меня … нет времени.
+      - de: Ich muss bis … Uhr arbeiten.
+        ru: Мне нужно работать до … часов.
+      - de: Ich habe am Mittwoch einen Arzttermin.
+        ru: В среду у меня приём у врача.
+      - de: Haben Sie am Donnerstag um … Uhr Zeit?
+        ru: У вас есть время в четверг в … часов?
+      - de: Geht es auch am Freitag?
+        ru: Можно также в пятницу?
+      - de: Ich kann ab 17 Uhr.
+        ru: Я могу с 17 часов.
+      - de: Bitte antworten Sie mir kurz.
+        ru: Пожалуйста, коротко ответьте мне.
+      - de: Mit freundlichen Grüßen
+        ru: С уважением
+    model: |
+      Sehr geehrter Herr Lange,
+
+      es tut mir leid, aber ich kann am Mittwoch nicht zur Besichtigung kommen.
+      Ich muss bis 20 Uhr arbeiten. Haben Sie am Donnerstag oder am Freitag ab 17 Uhr Zeit?
+
+      Mit freundlichen Grüßen
+      Olena Bondar
+    checklist:
+      - Все три пункта раскрыты (извинение, причина, новый срок)?
+      - 30–40 слов?
+      - Обращение и прощание на месте, имя подписано?
+      - Глагол на 2-м месте (Leider habe ich …, Am Donnerstag kann ich …)?
+      - Время с um, день с am?
+      - Вежливое Sie / Ihnen — с большой буквы?
+      - После обращения с запятой следующая строка начинается с маленькой буквы (es tut mir leid …)?
+
+  - id: be-s-formular
+    exam: Goethe A1 · Schreiben Teil 1
+    kind: Formular
+    task: |
+      Ihre Freundin Ana Ribeiro sucht ein WG-Zimmer in Berlin. Sie ist 24 Jahre alt und kommt
+      aus Portugal. Sie studiert Medizin an der Universität. Sie möchte am 1. März einziehen.
+      Sie kann maximal 450 Euro im Monat bezahlen. Sie raucht nicht und hat eine Katze.
+      Sie helfen Ana und füllen das Formular der Wohnungsbörse für sie aus.
+      Es fehlen fünf Informationen.
+    task_ru: |
+      Ваша подруга Ана Рибейру ищет комнату в WG. Заполните за неё анкету сайта
+      по поиску жилья: в анкете не хватает пяти данных. Возьмите их из текста.
+      Пишите коротко: слово, число или дата.
+    points:
+      - "Herkunftsland: …"
+      - "Beruf: …"
+      - "Einzug ab: …"
+      - "Miete maximal: … Euro"
+      - "Haustiere: ja / nein"
+    words: [5, 15]
+    structure:
+      - Прочитайте текст и подчеркните нужные данные
+      - В каждое поле — только ответ (слово, число, дата), без предложения
+      - Дата — в немецком формате (1. März или 01.03.)
+      - Проверьте, что все пять полей заполнены
+    redemittel:
+      - de: Herkunftsland
+        ru: страна происхождения
+      - de: Beruf
+        ru: профессия, род занятий
+      - de: Studentin
+        ru: студентка
+      - de: Einzug ab
+        ru: дата въезда (с …)
+      - de: Miete maximal
+        ru: максимальная аренда
+      - de: Haustiere
+        ru: домашние животные
+      - de: Nichtraucherin
+        ru: некурящая
+      - de: Vorname / Familienname
+        ru: имя / фамилия
+    model: |
+      Name: Ribeiro, Ana
+      Alter: 24
+      1 Herkunftsland: Portugal
+      2 Beruf: Studentin (Medizin)
+      3 Einzug ab: 1. März
+      4 Miete maximal: 450 Euro
+      5 Haustiere: ja (eine Katze)
+    checklist:
+      - Заполнены все пять полей?
+      - Данные взяты из текста, ничего не придумано?
+      - Профессия в женском роде (Studentin)?
+      - Дата и сумма написаны правильно?
+      - Существительные с большой буквы (Portugal, Studentin, Katze)?
+
+speaking:
+  - id: be-sp-1
+    exam: Goethe A1 · Sprechen Teil 2
+    task: "Thema: Wohnen — Fragen stellen und antworten"
+    task_ru: |
+      Вы берёте карточку с темой «Wohnen» и одним словом. Задайте партнёру вопрос
+      с этим словом, партнёр отвечает. Потом наоборот.
+    prompts: ["Küche?", "Miete?", "Balkon?", "Zimmer?", "Nachbarn?", "Möbel?"]
+    model: |
+      Küche: Wie groß ist deine Küche? – Sie ist klein, aber modern.
+      Miete: Wie hoch ist deine Miete? – Ich zahle 480 Euro warm.
+      Balkon: Hast du einen Balkon? – Nein, leider nicht. Aber wir haben einen Garten.
+      Zimmer: Wie viele Zimmer hat deine Wohnung? – Sie hat drei Zimmer.
+      Nachbarn: Wie sind deine Nachbarn? – Sie sind nett, aber manchmal laut.
+      Möbel: Hast du viele Möbel? – Nein, nur ein Bett, einen Schrank und einen Schreibtisch.
+
+  - id: be-sp-2
+    exam: Goethe A1 · Sprechen Teil 3
+    task: Bitten formulieren und reagieren
+    task_ru: |
+      Сформулируйте вежливую просьбу по карточке, партнёр реагирует. На экзамене
+      вместо слов на карточках картинки — здесь мы заменили их словами.
+    prompts: ["Fenster öffnen", "Licht anmachen", "Tür zumachen", "Müll runterbringen", "Fernseher ausmachen", "Schlüssel geben"]
+    model: |
+      Fenster öffnen: Kannst du bitte das Fenster öffnen? – Ja, natürlich.
+      Licht anmachen: Mach bitte das Licht an. – Gern, kein Problem.
+      Tür zumachen: Können Sie bitte die Tür zumachen? – Ja, sofort.
+      Müll runterbringen: Bringst du bitte den Müll runter? – Okay, das mache ich gleich.
+      Fernseher ausmachen: Kannst du bitte den Fernseher ausmachen? – Moment, der Film ist gleich zu Ende.
+      Schlüssel geben: Gib mir bitte den Schlüssel. – Hier, bitte.
+
+  - id: be-sp-3
+    exam: Übung im Unterricht (kein Prüfungsteil)
+    task: Meine Wohnung beschreiben
+    task_ru: Опишите свою квартиру или комнату (6–8 предложений).
+    prompts: ["Wo?", "Wie groß?", "Wie viele Zimmer?", "Möbel?", "Miete?", "Was gefällt dir?", "Was gefällt dir nicht?"]
+    model: |
+      Ich wohne in einer WG in Berlin-Moabit. Die Wohnung liegt im vierten Stock, das Haus hat
+      leider keinen Aufzug. Wir haben drei Zimmer, eine Küche und ein Bad. Mein Zimmer ist
+      16 Quadratmeter groß. Ich habe ein Bett, einen Schreibtisch und ein Regal. Die Miete ist
+      470 Euro mit Nebenkosten. Mein Zimmer ist hell und gemütlich, das gefällt mir. Aber die
+      Küche ist sehr klein, und die Straße ist laut.
+
+test:
+  - type: choice
+    q: Die Wohnung hat zwei ___ und einen Balkon.
+    ru: В квартире две комнаты и балкон.
+    options: [Zimmer, Zimmern, Zimmers]
+    answer: Zimmer
+  - type: choice
+    q: Wir brauchen noch ___ Kühlschrank.
+    ru: Нам ещё нужен холодильник.
+    options: [ein, einen, eine]
+    answer: einen
+  - type: choice
+    q: Lena, ist das ___ Fahrrad?
+    ru: Лена, это твой велосипед?
+    options: [dein, deine, deinen]
+    answer: dein
+  - type: choice
+    q: "Es ist 11:30. Es ist ___."
+    ru: Сейчас 11:30.
+    options: [halb elf, halb zwölf, elf halb]
+    answer: halb zwölf
+  - type: choice
+    q: Die Wohnung ist ___ Juni frei.
+    ru: Квартира свободна с июня.
+    options: [ab, am, um]
+    answer: ab
+  - type: gap
+    q: Wann ___ du morgen auf? (aufstehen)
+    answer: [stehst]
+  - type: gap
+    q: Tim ___ gern Krimis. (lesen)
+    answer: [liest]
+  - type: gap
+    q: Wir haben leider ___ Balkon. (kein)
+    answer: [keinen]
+  - type: gap
+    q: Die ___ sind 150 Euro im Monat. (Nebenkosten)
+    ru: Коммунальные платежи — 150 евро в месяц.
+    answer: [Nebenkosten]
+  - type: tf
+    q: „Halb acht“ ist 8:30 Uhr.
+    ru: «Halb acht» — это 8:30.
+    answer: false
+  - type: order
+    answer: Am Sonntag räumen wir die Küche auf.
+    tokens: [Am Sonntag, räumen, wir, die Küche, auf]
+    also: [Wir räumen am Sonntag die Küche auf.]
+    ru: В воскресенье мы убираем кухню.
+  - type: table
+    title: unser im Nominativ und Akkusativ
+    head: [Nominativ, Akkusativ]
+    rows:
+      - [unser Balkon, "?unseren Balkon"]
+      - [unsere Küche, "?unsere Küche"]
+      - [unser Bad, "?unser Bad"]
+      - [unsere Möbel, "?unsere Möbel"]
